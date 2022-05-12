@@ -123,9 +123,10 @@ def update_map(data_type, n_values):
 
     static_text = """
     The purpose of the dashboard is to determine which areas will benefit the most from trees being planted based on the aggregation of various metrics.  
+
     The dashboard allows for the aggregation of data on a census tract, county, city and state level.  
-    Within each level, each location has been ranked according to the following principles with the #1 ranked location
-    being identified as the area most likely to benefit from the planting of trees:  
+
+    Within each level, each location has been ranked according to the following principles, with the #1 ranked location being identified as the area most likely to benefit from the planting of trees:  
     * Example 1  
     * Example 2  
     * Example 3  
@@ -140,7 +141,6 @@ def update_map(data_type, n_values):
             filter_action="native",
             sort_action="native",
             sort_mode='multi',
-            row_selectable='multi',
             page_action='native',
             page_current= 0,
             page_size= 10,
