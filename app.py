@@ -19,9 +19,9 @@ external_stylesheets = [
 ]
 
 # Set color properties
-colorscale = ['red', 'yellow', 'green', 'blue', 'purple']  # rainbow
+colorscale = ['red', 'yellow', 'green']#, 'blue', 'purple']  # rainbow
 chroma = "https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js"  # js lib used for colors
-color_prop = 'geo_size'
+color_prop = 'rank'
 
 # js function for adding points to layers
 point_to_layer = assign("""function(feature, latlng, context){
@@ -67,14 +67,27 @@ app.layout = html.Div([
         dbc.Col(html.Div(html.Img(src='/assets/one_tree_planted_logo.png',style={'maxWidth': '50%'}), style={'textAlign': 'center'})),
         ], justify="center", align="center", className="h-50"),
     dbc.Row([
-         dcc.RadioItems(
-                ['Census Tract', 'County', 'State'],
-                'County',
+        dbc.Col(html.H3('Select level of aggregation'), width={'size':2, 'offset':0}),
+        dbc.Col(html.H3('Select number to show'), width={'size':2, 'offset':0})
+        ], justify="center", align="center", className="h-50"),
+    dbc.Row([
+         dbc.Col(dcc.RadioItems(
+             [
+                 {'label':'Census Tract', 'value':'census_tract'},
+                 {'label':'County', 'value':'county'},
+                 {'label':'City', 'value': 'city'},
+                 {'label':'State', 'value':'state'}
+             ],
+                'city',
                 id='data-type',
                 inline=True
-            )
+                ), width={'size':2, 'offset':0}),
+         dbc.Col(dcc.Dropdown(
+             [20,50,100,200,500], 20,
+             id='n-dropdown'
+             ),width={'size':2, 'offset':0}),
          ],justify="center", align="center", className="h-50"),
-    html.Div(id='map-data'),
+    html.Div(id='map-data', style={'marginTop':'10px'}),
     html.Div(id='data-table', style={'marginTop': '20px'})
     ])
     
@@ -83,33 +96,42 @@ app.layout = html.Div([
     Output('map-data', 'children'),
     Output('data-table', 'children')
     ],
-    Input('data-type', 'value')
+    [Input('data-type', 'value'),
+     Input('n-dropdown', 'value')
+    ]
 )
-def update_map(data_type):
+def update_map(data_type, n_values):
 
     tooltip_prop = {
         'census_tract': 'GEOID10',
         'county': 'CF',
-        'state': 'SF'
+        'state': 'SF',
+        'city': 'city'
     }
 
-    data_type = data_type.lower().split(' ')
-    data_type = '_'.join(data_type)
+    #if data_type != 'city':
+    #    df = pd.read_csv(f'{data_type}_centres.csv', index_col=0)  
+    #else:
+    df = pd.read_csv(f'{data_type}_centres.csv')  
 
-    df = pd.read_csv(f'{data_type}_centres.csv', index_col=0)  
-    df['geo_size'] *= 10
+    df = df.sort_values('rank').iloc[:n_values].dropna()
 
     dicts = df.to_dict('records')
     for item in dicts:
-        item['tooltip'] = '{} ({:.1f})'.format(item[tooltip_prop[data_type]], item[color_prop]) # bind tooltip
+        item['tooltip'] = '{} ({:.1f})'.format(item[data_type], item[color_prop]) # bind tooltip
 
     # Data for table
     data_table = dbc.Row([
         dbc.Col(html.P('Example text goes here'), width={'size':4, 'offset':1}),
         dbc.Col(
             dash_table.DataTable(df.to_dict('records'), 
-            [{"name": i, "id": i} for i in df.columns],
-            page_action="native",
+            [{"name": i.title(), "id": i} for i in df.columns if not i in ('lat', 'lon')],
+            editable=True,
+            filter_action="native",
+            sort_action="native",
+            sort_mode='multi',
+            row_selectable='multi',
+            page_action='native',
             page_current= 0,
             page_size= 10,
             ), 
@@ -120,18 +142,18 @@ def update_map(data_type):
     geobuf = dlx.geojson_to_geobuf(geojson)  
 
     vmax = df[color_prop].max()
-    colorbar = dl.Colorbar(colorscale=colorscale, width=20, height=150, min=0, max=vmax, unit='area')
+    colorbar = dl.Colorbar(colorscale=colorscale, width=20, height=150, min=0, max=vmax, unit='Rank')
 
     # Geojson rendering logic, must be JavaScript as it is executed in clientside.
 
     geojson = dl.GeoJSON(data=geobuf, id="geojson", format="geobuf",
                      zoomToBounds=True,  # when true, zooms to bounds when data changes
-                     cluster=True,
-                     clusterToLayer=cluster_to_layer,
+                     #cluster=True,
                      zoomToBoundsOnClick=True,
-                     options=dict(pointToLayer=point_to_layer),  # how to draw points
-                     superClusterOptions=dict(radius=150),   # adjust cluster size
-                     hideout=dict(colorProp=color_prop, circleOptions=dict(fillOpacity=1, stroke=False, radius=5),
+                     #clusterToLayer=cluster_to_layer,  # how to draw points
+                     options=dict(pointToLayer=point_to_layer),
+                     #superClusterOptions=dict(radius=150),   # adjust cluster size
+                     hideout=dict(colorProp=color_prop, circleOptions=dict(fillOpacity=0.6, stroke=False, radius=20),
                                   min=0, max=vmax, colorscale=colorscale))
 
 
