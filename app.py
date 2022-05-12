@@ -38,6 +38,8 @@ app = Dash(__name__,
         external_scripts=[chroma]
     )
 
+server = app.server
+
 # Create app layout
 app.layout = html.Div([
     dbc.Row([
