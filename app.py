@@ -118,7 +118,7 @@ def update_map(data_type, n_values):
 
     dicts = df.to_dict('records')
     for item in dicts:
-        item['tooltip'] = '{} ({:.1f})'.format(item[data_type], item[color_prop]) # bind tooltip
+        item['tooltip'] = '{} <br> {}'.format(item[data_type], item['description']) # bind tooltip
     
 
     static_text = """
@@ -126,11 +126,9 @@ def update_map(data_type, n_values):
 
     The dashboard allows for the aggregation of data on a census tract, county, city and state level.  
 
-    Within each level, each location has been ranked according to the following principles, with the #1 ranked location being identified as the area most likely to benefit from the planting of trees:  
-    * Example 1  
-    * Example 2  
-    * Example 3  
+    Within each level, each location has been ranked by aggregating important variables from the Climate and Economic Justice Screening tool data, with the #1 ranked location being identified as the area most likely to benefit from the planting of trees.  
     """
+
     # Data for table
     data_table = dbc.Row([
         dbc.Col(dcc.Markdown(static_text, style={'font-size':'18px'}), width={'size':4, 'offset':1}),
