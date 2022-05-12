@@ -31,6 +31,25 @@ point_to_layer = assign("""function(feature, latlng, context){
         return L.circleMarker(latlng, circleOptions);  // sender a simple circle marker.
     }""")
 
+cluster_to_layer = assign("""function(feature, latlng, index, context){
+    const {min, max, colorscale, circleOptions, colorProp} = context.props.hideout;
+    const csc = chroma.scale(colorscale).domain([min, max]);
+    // Set color based on mean value of leaves.
+    const leaves = index.getLeaves(feature.properties.cluster_id);
+    let valueSum = 0;
+    for (let i = 0; i < leaves.length; ++i) {
+        valueSum += leaves[i].properties[colorProp]
+    }
+    const valueMean = valueSum / leaves.length;
+    // Render a circle with the number of leaves written in the center.
+    const icon = L.divIcon.scatter({
+        html: '<div style="background-color:white;"><span>' + feature.properties.point_count_abbreviated + '</span></div>',
+        className: "marker-cluster",
+        iconSize: L.point(40, 40),
+        color: csc(valueMean)
+    });
+    return L.marker(latlng, {icon : icon})
+}""")
 
 # instantiate app
 app = Dash(__name__,
@@ -107,8 +126,11 @@ def update_map(data_type):
 
     geojson = dl.GeoJSON(data=geobuf, id="geojson", format="geobuf",
                      zoomToBounds=True,  # when true, zooms to bounds when data changes
+                     cluster=True,
+                     clusterToLayer=cluster_to_layer,
+                     zoomToBoundsOnClick=True,
                      options=dict(pointToLayer=point_to_layer),  # how to draw points
-                     superClusterOptions=dict(radius=50),   # adjust cluster size
+                     superClusterOptions=dict(radius=150),   # adjust cluster size
                      hideout=dict(colorProp=color_prop, circleOptions=dict(fillOpacity=1, stroke=False, radius=5),
                                   min=0, max=vmax, colorscale=colorscale))
 
