@@ -67,11 +67,11 @@ app.layout = html.Div([
         dbc.Col(html.Div(html.Img(src='/assets/one_tree_planted_logo.png',style={'maxWidth': '50%'}), style={'textAlign': 'center'})),
         ], justify="center", align="center", className="h-50"),
     dbc.Row([
-        dbc.Col(html.H3('Select level of aggregation'), width={'size':2, 'offset':0}),
-        dbc.Col(html.H3('Select number to show'), width={'size':2, 'offset':0})
+        dbc.Col(html.H4('Select level of aggregation:'), width={'size':2, 'offset':0}),
+        dbc.Col(html.H4('Select number of locations to show:'), width={'size':2, 'offset':0})
         ], justify="center", align="center", className="h-50"),
     dbc.Row([
-         dbc.Col(dcc.RadioItems(
+         dbc.Col(dcc.Dropdown(
              [
                  {'label':'Census Tract', 'value':'census_tract'},
                  {'label':'County', 'value':'county'},
@@ -80,7 +80,7 @@ app.layout = html.Div([
              ],
                 'city',
                 id='data-type',
-                inline=True
+                #inline=False
                 ), width={'size':2, 'offset':0}),
          dbc.Col(dcc.Dropdown(
              [20,50,100,200,500], 20,
@@ -119,10 +119,20 @@ def update_map(data_type, n_values):
     dicts = df.to_dict('records')
     for item in dicts:
         item['tooltip'] = '{} ({:.1f})'.format(item[data_type], item[color_prop]) # bind tooltip
+    
 
+    static_text = """
+    The purpose of the dashboard is to determine which areas will benefit the most from trees being planted based on the aggregation of various metrics.  
+    The dashboard allows for the aggregation of data on a census tract, county, city and state level.  
+    Within each level, each location has been ranked according to the following principles with the #1 ranked location
+    being identified as the area most likely to benefit from the planting of trees:  
+    * Example 1  
+    * Example 2  
+    * Example 3  
+    """
     # Data for table
     data_table = dbc.Row([
-        dbc.Col(html.P('Example text goes here'), width={'size':4, 'offset':1}),
+        dbc.Col(dcc.Markdown(static_text, style={'font-size':'18px'}), width={'size':4, 'offset':1}),
         dbc.Col(
             dash_table.DataTable(df.to_dict('records'), 
             [{"name": i.title(), "id": i} for i in df.columns if not i in ('lat', 'lon')],
@@ -135,7 +145,7 @@ def update_map(data_type, n_values):
             page_current= 0,
             page_size= 10,
             ), 
-        width={'size':4, 'offset':1})
+        width={'size':5, 'offset':1})
     ])
 
     geojson = dlx.dicts_to_geojson(dicts)
@@ -157,7 +167,7 @@ def update_map(data_type, n_values):
                                   min=0, max=vmax, colorscale=colorscale))
 
 
-    return dl.Map([dl.TileLayer(), geojson, colorbar], center=(40.32, -101.18), zoom=3, style={'width': '80%', 'height': '50vh', 'margin': "auto", "display": "block"}), data_table
+    return dl.Map([dl.TileLayer(), geojson, colorbar], center=(40.32, -101.18), zoom=3, style={'width': '83%', 'height': '50vh', 'margin': "auto", "display": "block"}), data_table
 
 
 if __name__ == '__main__':
