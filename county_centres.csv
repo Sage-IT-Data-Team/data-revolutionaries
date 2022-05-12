@@ -1,502 +1,502 @@
-county_name,rank,lat,lon
-Cook County,1,47.7460715,-90.34081521
-Harris County,2,29.8339425,-95.38596726
-Wayne County,3,38.3299745,-110.9057583
-Jefferson County,4,44.60729,-121.0933272
-Maricopa County,5,33.2767635,-112.7681238
-Kings County,6,36.139117,-119.7718425
-Montgomery County,7,42.9098745,-74.41980607
-Dallas County,8,32.3883895,-87.127721
-Queens County,9,40.6510085,-73.79304414
-Clark County,10,35.9270635,-115.2532083
-San Diego County,11,33.0164095,-116.7304845
-Miami-Dade County,12,25.5574795,-80.46421014
-Franklin County,13,44.824236,-72.87446267
-Cuyahoga County,14,41.692556,-81.72993466
-Washington County,15,37.308528,-113.4764242
-Marion County,16,29.2408465,-82.02271906
-Philadelphia County,17,40.001919,-75.14004034
-Riverside County,18,33.7527135,-116.0202978
-Hamilton County,19,31.7167785,-98.09869292
-Jackson County,20,42.499538,-122.7562314
-Allegheny County,21,40.434625,-80.00616065
-Suffolk County,22,40.922431,-72.794992
-San Bernardino County,23,34.839914,-116.1114081
-Lake County,24,42.805446,-120.646821
-Tarrant County,25,32.7701795,-97.29167847
-Bronx County,26,40.851462,-73.83947506
-Hillsborough County,27,42.951585,-71.72018674
-Bexar County,28,29.4383755,-98.47195277
-Alameda County,29,37.6826265,-121.9087015
-Shelby County,30,31.774629,-94.12707484
-Orange County,31,41.3880625,-74.33153374
-Sacramento County,32,38.377481,-121.2756896
-King County,33,47.4321795,-121.9595305
-Douglas County,34,43.32188,-122.889001
-Broward County,35,26.1572365,-80.45498179
-Oakland County,36,42.6599255,-83.38691142
-Monroe County,37,25.10099,-80.73722623
-Polk County,38,28.002556,-81.7381934
-Palm Beach County,39,26.6462735,-80.43361048
-Milwaukee County,40,43.0173495,-87.58071494
-Middlesex County,41,42.4468395,-71.28837633
-New York County,42,40.7811835,-73.95961228
-Santa Clara County,43,37.188856,-121.7208772
-Erie County,44,42.182385,-80.14065892
-Oklahoma County,45,35.5515265,-97.40747714
-St. Louis County,46,47.64046,-92.42848564
-Fulton County,47,36.37455,-91.80360767
-Hennepin County,48,45.014924,-93.48728953
-Madison County,49,45.2839905,-111.9151342
-El Paso County,50,38.824058,-104.5630645
-Macomb County,51,42.672301,-82.90139613
-Lee County,52,26.5532115,-81.91367325
-Delaware County,53,42.1826495,-74.95306837
-Baltimore city,54,39.2845275,-76.62040905
-Mecklenburg County,55,36.7157155,-78.3335364
-Prince George's County,56,38.833389,-76.84243723
-Davidson County,57,36.1870535,-86.78086235
-Travis County,58,30.3266895,-97.77787875
-Fresno County,59,36.7463335,-119.6363175
-Contra Costa County,60,37.909805,-121.9855348
-Orleans Parish,61,30.0329685,-89.97467248
-District of Columbia,62,38.893581,-76.98771919
-DeKalb County,63,34.5297905,-85.7231903
-Baltimore County,64,39.438964,-76.63640994
-Pinellas County,65,27.891491,-82.73863476
-Nassau County,66,30.551664,-81.87327766
-Salt Lake County,67,40.6682305,-111.9030702
-DuPage County,68,41.8398865,-88.09105311
-Fayette County,69,29.895938,-96.91135826
-Fairfax County,70,38.8316505,-77.32334046
-Johnson County,71,44.0268305,-106.5693223
-Tulsa County,72,36.1397235,-96.02991097
-Hartford County,73,41.791739,-72.74403948
-Adams County,74,46.9986855,-118.4708578
-Lancaster County,75,40.018579,-76.23383975
-Pima County,76,31.9703455,-111.7845043
-Cumberland County,77,43.8189145,-70.32678864
-Kent County,78,39.1178785,-75.48306947
-San Francisco County,79,37.7291735,-123.0466411
-Richmond County,80,34.9943315,-79.72780176
-Wake County,81,35.797616,-78.61005202
-York County,82,43.365788,-70.65703752
-Westchester County,83,41.119296,-73.78853575
-Fairfield County,84,34.373699,-81.07792905
-Multnomah County,85,45.5806265,-122.6647591
-Butler County,86,37.781009,-96.83946144
-Knox County,87,42.6597395,-97.8953737
-New Haven County,88,41.365805,-72.87758492
-Ventura County,89,34.447038,-119.077248
-Pierce County,90,47.0660035,-122.0401584
-Denver County,91,39.764358,-104.9549092
-Summit County,92,40.9001345,-110.7556209
-Duval County,93,30.344607,-81.65217519
-Will County,94,41.465184,-87.88893156
-Arapahoe County,95,39.652158,-104.2830625
-Collin County,96,33.194481,-96.56757608
-San Joaquin County,97,37.891053,-121.247929
-Essex County,98,42.6352555,-70.85654501
-Bucks County,99,40.328626,-75.13003008
-Pulaski County,100,37.111618,-84.59658846
-Worcester County,101,42.364698,-71.95768631
-Kern County,102,35.294864,-118.7203829
-Richland County,103,47.751103,-104.6391314
-Denton County,104,33.208946,-97.11555407
-Warren County,105,41.8116805,-79.28090546
-Lucas County,106,41.6869935,-83.4965977
-Greene County,107,42.27998,-74.1318174
-Providence County,108,41.87096,-71.56637361
-Mobile County,109,30.658169,-88.19926188
-Allen County,110,41.0932205,-85.07023077
-Jefferson Parish,111,29.678225,-90.09273574
-Ramsey County,112,48.2294295,-98.74623914
-Chester County,113,34.681987,-81.16582032
-St. Louis city,114,38.6531825,-90.24087605
-St. Clair County,115,38.0242615,-93.7827133
-Forsyth County,116,36.1174185,-80.25207456
-New Castle County,117,39.5651295,-75.64750358
-Genesee County,118,43.000057,-78.18647127
-Sedgwick County,119,37.693464,-97.48023028
-San Mateo County,120,37.3812465,-122.3390299
-Clay County,121,36.3495705,-90.41384352
-Benton County,122,36.2992945,-94.22753794
-Hidalgo County,123,26.408942,-98.18606384
-Bristol County,124,41.756472,-71.11581924
-Williamson County,125,30.65365,-97.63518246
-Pasco County,126,28.324785,-82.4254254
-Snohomish County,127,48.037388,-121.7473157
-Gwinnett County,128,33.960396,-84.04517925
-Cobb County,129,33.912405,-84.58504632
-East Baton Rouge Parish,130,30.5163245,-91.08938751
-Guilford County,131,36.0784625,-79.7900131
-Onondaga County,132,43.0216825,-76.20283062
-Bernalillo County,133,35.0444055,-106.6769567
-Lincoln County,134,37.7594855,-114.9727966
-Winnebago County,135,44.0684395,-88.64513199
-Berks County,136,40.4075895,-75.92972716
-Scott County,137,34.8834705,-94.0785107
-Spokane County,138,47.653486,-117.4305043
-Union County,139,36.3690075,-103.5248721
-Volusia County,140,29.0228335,-81.10708243
-Sonoma County,141,38.4628855,-122.8943433
-Stanislaus County,142,37.6057365,-120.8870564
-Utah County,143,40.1770515,-111.6910134
-Harrison County,144,32.559802,-94.37244955
-Greenville County,145,34.849808,-82.35149794
-Henry County,146,41.366098,-90.14530553
-Lawrence County,147,36.069383,-91.08692948
-Seminole County,148,28.7448325,-81.23941322
-Stark County,149,46.8202035,-102.6639832
-Washoe County,150,40.581992,-119.6545648
-Hampden County,151,42.170387,-72.62674632
-Solano County,152,38.285486,-121.9018472
-Luzerne County,153,41.164622,-75.95410982
-Dane County,154,43.0695875,-89.42475617
-Brevard County,155,28.3067205,-80.70051479
-Cass County,156,46.934617,-97.23636621
-Westmoreland County,157,40.360394,-79.38672343
-Washtenaw County,158,42.2528765,-83.83750135
-Cameron County,159,26.124847,-97.48544851
-Lehigh County,160,40.603049,-75.58328518
-Norfolk County,161,42.156612,-71.20274
-Anne Arundel County,162,38.9742715,-76.54393497
-Cleveland County,163,33.8842255,-92.1838638
-Plymouth County,164,42.73541,-96.24545784
-Escambia County,165,30.7457135,-87.41982783
-Carroll County,166,39.41099,-93.47284192
-Fort Bend County,167,29.52543,-95.74560152
-Boone County,168,37.997157,-81.71432358
-Northampton County,169,37.2728295,-75.92583183
-Crawford County,170,41.6656205,-80.06614274
-Brown County,171,45.5898185,-98.35089128
-Morgan County,172,40.26868,-103.8108372
-Dakota County,173,44.6976065,-93.02523371
-Hinds County,174,32.310993,-90.42533187
-Calhoun County,175,42.2463835,-85.00695903
-St. Charles County,176,38.75124,-90.7275927
-Chatham County,177,35.6942615,-79.25635315
-Howard County,178,40.4713465,-86.1192191
-Cherokee County,179,42.7355845,-95.62396259
-Clinton County,180,41.8802895,-90.53281325
-Marshall County,181,48.3583685,-96.36953928
-Kane County,182,37.273039,-111.8853443
-Columbia County,183,46.311916,-117.9268747
-Rockingham County,184,43.006388,-71.023553
-Nueces County,185,27.7770185,-97.48054164
-St. Joseph County,186,41.914979,-85.52639183
-Lane County,187,43.8638785,-122.7492329
-Dauphin County,188,40.389572,-76.83720556
-Norfolk city,189,36.9306505,-76.25731117
-Charleston County,190,32.8488485,-79.74176233
-Leon County,191,31.3138895,-95.99665315
-Wyandotte County,192,39.0977555,-94.75789896
-Bell County,193,31.036351,-97.50852842
-Caddo Parish,194,32.6082695,-93.90108736
-Tulare County,195,36.267123,-118.8232124
-Virginia Beach city,196,36.7953025,-76.05092508
-Anoka County,197,45.225085,-93.2424879
-Livingston County,198,40.8663935,-88.58697156
-Randolph County,199,38.753468,-79.8271214
-Lorain County,200,41.473145,-82.1587792
-Mahoning County,201,41.0170645,-80.76042044
-Weld County,202,40.5013945,-104.5458377
-Pinal County,203,32.978007,-111.3261723
-Lubbock County,204,33.6107565,-101.8205431
-Gaston County,205,35.2837835,-81.18214139
-Chesterfield County,206,34.5917715,-80.09591319
-Clayton County,207,42.862146,-91.35258551
-Frederick County,208,39.470158,-77.36792254
-Macon County,209,32.413778,-85.72758021
-Spartanburg County,210,34.8864085,-81.98145458
-Galveston County,211,29.3303465,-94.884518
-Grant County,212,44.47783,-119.0100653
-Wood County,213,44.4663785,-90.02113215
-Albany County,214,41.7131285,-105.6757139
-Clackamas County,215,45.173823,-122.2445437
-Putnam County,216,36.141928,-85.45753222
-Richmond city,217,37.524277,-77.46085841
-Manatee County,218,27.4248195,-82.39781054
-Prince William County,219,38.721251,-77.44428057
-Linn County,220,44.496296,-122.526064
-Placer County,221,39.0140065,-120.7433425
-Pike County,222,39.492058,-90.98989157
-Horry County,223,33.934514,-78.97291926
-Lexington County,224,33.924848,-81.28319659
-Sarasota County,225,27.1716615,-82.30483153
-Waukesha County,226,43.018826,-88.30439307
-Larimer County,227,40.628397,-105.4466
-Ingham County,228,42.5989855,-84.37364236
-Durham County,229,36.0510705,-78.86813231
-Sullivan County,230,36.504153,-82.31149925
-Bay County,231,30.2337695,-85.69410717
-Floyd County,232,34.0727805,-101.3030218
-Sangamon County,233,39.7493885,-89.70522856
-Butte County,234,44.8920825,-103.5073577
-Dutchess County,235,41.759364,-73.72697504
-Bibb County,236,33.039116,-87.09665089
-Mercer County,237,47.277616,-101.7133508
-Vanderburgh County,238,37.9972945,-87.57409138
-Henrico County,239,37.531191,-77.30300725
-Rutherford County,240,35.8594405,-86.3919879
-Houston County,241,31.259258,-95.43496944
-Oneida County,242,45.683791,-89.54472054
-Wilson County,243,29.1620075,-98.08855867
-Trumbull County,244,41.317105,-80.76123972
-Henderson County,245,32.182428,-95.81854967
-Jasper County,246,41.6860395,-93.05743832
-Merced County,247,37.1870405,-120.6093199
-Boulder County,248,40.0878755,-105.3448718
-Beaver County,249,38.36197,-113.2065449
-Muscogee County,250,32.4916085,-84.8638463
-Monterey County,251,36.354451,-121.5248735
-Campbell County,252,44.248661,-105.5503244
-Alachua County,253,29.680904,-82.35522357
-Davis County,254,40.963327,-112.0923962
-Collier County,255,26.145117,-81.36997889
-Sumter County,256,33.9060015,-80.34148158
-Tuscaloosa County,257,33.307606,-87.50006739
-Arlington County,258,38.880805,-77.10762724
-Lackawanna County,259,41.401846,-75.6406801
-Weber County,260,41.255295,-111.8947702
-Kanawha County,261,38.296984,-81.52334457
-Ada County,262,43.4598335,-116.2240288
-Peoria County,263,40.7435025,-89.76944163
-Kalamazoo County,264,42.245382,-85.53151902
-Rockland County,265,41.1612945,-74.05738032
-Clarke County,266,31.5879045,-87.81360821
-Marin County,267,38.064132,-122.7046082
-Saline County,268,39.1706235,-93.1929192
-Lafayette Parish,269,30.2091765,-92.1133363
-Webb County,270,27.732058,-99.28638148
-Champaign County,271,40.1412345,-83.76428401
-Osceola County,272,27.9948705,-81.12569552
-Taylor County,273,45.2065135,-90.48555729
-Broome County,274,42.206561,-75.86193119
-Santa Cruz County,275,31.529315,-110.8120914
-Logan County,276,40.719162,-103.1124758
-Calcasieu Parish,277,30.2638955,-93.36901735
-Berkeley County,278,33.1628975,-79.91046016
-Niagara County,279,43.3267595,-78.79066699
-Lauderdale County,280,34.8700495,-87.58445236
-Harford County,281,39.487793,-76.23419394
-Brazoria County,282,29.182142,-95.45599933
-Hardin County,283,30.3120725,-94.38682903
-Kenton County,284,38.944038,-84.53504944
-Loudoun County,285,39.0855275,-77.66423097
-Hall County,286,34.530711,-100.6806289
-Buncombe County,287,35.6203605,-82.53904516
-Martin County,288,27.112253,-80.38152475
-Hancock County,289,44.6405345,-68.42096326
-New London County,290,41.464619,-72.05280902
-Yakima County,291,46.564487,-120.648802
-Saginaw County,292,43.3486775,-84.03394365
-Sumner County,293,37.2384875,-97.47614243
-McLennan County,294,31.553792,-97.20212787
-Pueblo County,295,38.128491,-104.553327
-Shasta County,296,40.7347415,-122.0178618
-Shawnee County,297,39.043088,-95.72409355
-Lowndes County,298,32.1841735,-86.6580914
-Iredell County,299,35.7731095,-80.92120335
-DeSoto County,300,27.1867235,-81.80977222
-San Luis Obispo County,301,35.347698,-120.3664986
-Walker County,302,30.781565,-95.59303347
-Portage County,303,44.464796,-89.47498763
-McHenry County,304,48.2409995,-100.6257946
-Christian County,305,39.585665,-89.27957447
-St. Lucie County,306,27.3823675,-80.43532336
-Sarpy County,307,41.0927365,-96.10052818
-Tazewell County,308,37.1355625,-81.6057359
-Newport News city,309,37.0759455,-76.52969784
-Smith County,310,39.7851515,-98.78532022
-Sussex County,311,38.7272805,-75.36293924
-Ouachita Parish,312,32.490817,-92.1743122
-Berrien County,313,42.0016815,-86.68621517
-St. Tammany Parish,314,30.425469,-89.96205099
-New Hanover County,315,34.088965,-77.86793243
-Newton County,316,36.9021725,-94.34100797
-Perry County,317,34.943752,-92.88094735
-Brazos County,318,30.6520865,-96.38086643
-Barnstable County,319,41.7996225,-70.20796146
-Napa County,320,38.5096095,-122.3260006
-Potter County,321,45.07206,-99.9480836
-Ulster County,322,41.879132,-74.20277225
-Yolo County,323,38.619505,-121.8551233
-Medina County,324,29.3865785,-99.10869359
-Buchanan County,325,42.470287,-91.84499056
-Cabarrus County,326,35.3454555,-80.54644147
-Lewis County,327,46.589237,-122.3843043
-Racine County,328,42.727777,-87.68019132
-Clermont County,329,39.020624,-84.16962312
-Rock County,330,42.6687085,-89.07199549
-Litchfield County,331,41.7600885,-73.25981665
-Ellis County,332,32.301005,-96.76228969
-Rowan County,333,35.683152,-80.55073417
-Cambria County,334,40.484344,-78.73345842
-Carter County,335,45.5665675,-104.511632
-Rock Island County,336,41.554692,-90.30368416
-Minnehaha County,337,43.6742855,-96.79145489
-Baldwin County,338,30.7326985,-87.76263308
-Thurston County,339,46.978106,-122.8984321
-Alamance County,340,36.046583,-79.40057415
-Florence County,341,45.86728,-88.37550754
-Chesapeake city,342,36.706911,-76.27621243
-Midland County,343,31.8689005,-102.0316772
-Doña Ana County,344,32.4178805,-106.8378155
-Yuma County,345,32.7522435,-113.9363727
-Alexandria city,346,38.815116,-77.09027118
-Black Hawk County,347,42.4697865,-92.31790146
-Etowah County,348,34.021117,-86.04329531
-Schuylkill County,349,40.7226755,-76.15452829
-Santa Fe County,350,35.522577,-105.9832509
-Grayson County,351,36.682218,-81.23660632
-Hernando County,352,28.5640755,-82.45471017
-Kitsap County,353,47.6879445,-122.6075333
-Daviess County,354,37.7456405,-87.06911016
-Schenectady County,355,42.832773,-74.04446463
-Dougherty County,356,31.5431065,-84.22194209
-Comanche County,357,34.6309915,-98.48403008
-White County,358,35.277367,-91.76264159
-Rapides Parish,359,31.2032965,-92.53120699
-Elkhart County,360,41.5977665,-85.85849647
-Pottawattamie County,361,41.333039,-95.55081643
-Blount County,362,35.6740455,-83.90836087
-Licking County,363,40.094839,-82.47771298
-Coffee County,364,31.5895095,-82.84366481
-Lebanon County,365,40.375324,-76.44313325
-Pitt County,366,35.580409,-77.36790186
-Dodge County,367,43.412961,-88.70309359
-Wichita County,368,34.022299,-98.68832893
-Somerset County,369,45.5756385,-70.12594116
-El Dorado County,370,38.785011,-120.5256071
-Charlotte County,371,26.9040045,-81.98812743
-Catawba County,372,35.688332,-81.20429969
-Robeson County,373,34.626467,-79.14290269
-Caldwell County,374,29.851862,-97.62644111
-Pickens County,375,33.2664195,-88.07266499
-Jones County,376,43.9383555,-100.7155465
-Penobscot County,377,45.5199665,-68.43248363
-Steuben County,378,42.2908805,-77.41840223
-Kenosha County,379,42.574402,-87.66848838
-Vigo County,380,39.4335915,-87.38545597
-Beaufort County,381,35.4774175,-76.87835976
-Canyon County,382,43.5852365,-116.6525265
-Liberty County,383,48.565781,-111.0158073
-Muskegon County,384,43.2958165,-86.58696698
-Okaloosa County,385,30.660487,-86.59221373
-Cabell County,386,38.4134075,-82.27557557
-Laurens County,387,34.494007,-81.98594214
-Chautauqua County,388,42.3403695,-79.41151358
-St. Johns County,389,29.9377405,-81.4161138
-Mason County,390,43.996527,-86.54503765
-Anderson County,391,34.5143265,-82.65856317
-Hampton city,392,37.022859,-76.30422269
-Faulkner County,393,35.1053335,-92.33318941
-Aiken County,394,33.5363985,-81.66298582
-Saratoga County,395,43.086674,-73.84566478
-Dorchester County,396,38.3814755,-76.0986005
-Sebastian County,397,35.191119,-94.23423231
-Harnett County,398,35.387627,-78.83900023
-Johnston County,399,35.5370355,-78.38773042
-Rogers County,400,36.3364,-95.62386
-Outagamie County,401,44.416393,-88.46364252
-Portsmouth city,402,36.868929,-76.37471713
-Blair County,403,40.492555,-78.34841287
-Hampshire County,404,42.3695995,-72.71405942
-Rankin County,405,32.3203505,-89.94147985
-Humboldt County,406,41.2646085,-118.1618153
-Rensselaer County,407,42.711288,-73.4903618
-San Juan County,408,36.5001935,-108.3355044
-Hays County,409,30.0546875,-98.02152964
-Allegany County,410,42.2590545,-78.02357078
-Guadalupe County,411,34.782945,-104.7100975
-Canadian County,412,35.524946,-97.98883713
-Porter County,413,41.4900445,-87.0747578
-Windham County,414,42.9943145,-72.73436762
-Mohave County,415,35.605563,-113.9941571
-Olmsted County,416,44.014842,-92.37838063
-Ohio County,417,37.4750585,-86.87445229
-Indian River County,418,27.7096405,-80.59411566
-Madera County,419,37.2705615,-119.6356453
-Suffolk city,420,36.746143,-76.61123477
-Carteret County,421,34.874055,-76.44464141
-Gregg County,422,32.5134005,-94.84441889
-Kankakee County,423,41.146714,-87.88440899
-Lycoming County,424,41.3330105,-77.05534594
-Platte County,425,42.131462,-104.9676352
-Webster County,426,33.599734,-89.26254842
-Walton County,427,30.6037395,-86.15148881
-LaPorte County,428,41.4992735,-86.72734398
-Brunswick County,429,34.062326,-78.24417534
-Onslow County,430,34.691818,-77.38602705
-Wagoner County,431,35.9636915,-95.52018376
-Russell County,432,38.915129,-98.76226191
-Merrimack County,433,43.312002,-71.68514497
-Bradley County,434,33.4340695,-92.16674515
-Talladega County,435,33.4000955,-86.14672104
-Randall County,436,34.963986,-101.8967147
-LaSalle County,437,41.2785495,-88.87597844
-Cochise County,438,31.880344,-109.7497039
-Lafourche Parish,439,29.4587705,-90.2629008
-Berkshire County,440,42.391852,-73.20203288
-Spotsylvania County,441,38.1859475,-77.65495699
-Vermilion County,442,40.1791705,-87.73619135
-Bedford County,443,37.312057,-79.56553417
-Yellowstone County,444,45.9778405,-108.3600661
-Northumberland County,445,37.8522985,-76.37165071
-Terrebonne Parish,446,29.3822185,-90.81578347
-Bossier Parish,447,32.6277585,-93.59863967
-Highlands County,448,27.3394545,-81.30486491
-Lamar County,449,33.660689,-95.58316294
-Androscoggin County,450,44.196502,-70.20310667
-Charles County,451,38.438241,-77.069274
-Sevier County,452,38.774539,-111.7636901
-Columbiana County,453,40.755175,-80.803096
-Comal County,454,29.816262,-98.28934082
-Lyon County,455,43.378919,-96.1923166
-Imperial County,456,33.0261775,-115.3571376
-Burke County,457,48.7725935,-102.546021
-Tangipahoa Parish,458,30.612476,-90.40724005
-Citrus County,459,28.8593595,-82.51544338
-Halifax County,460,36.2574045,-77.68422198
-Centre County,461,40.9721315,-77.80600409
-Ector County,462,31.8707455,-102.5429092
-Kootenai County,463,47.67867,-116.6828601
-Ashtabula County,464,41.9138205,-80.76455802
-Crittenden County,465,37.336466,-88.08550176
-Paulding County,466,41.1213645,-84.57267652
-Limestone County,467,34.77491,-87.03222785
-Stearns County,468,45.5284405,-94.64084615
-Stafford County,469,38.0429355,-98.69276595
-Hopkins County,470,33.170397,-95.58517203
-Victoria County,471,28.7950145,-96.93676431
-St. Landry Parish,472,30.574673,-91.98283602
-Garfield County,473,37.8445095,-111.4993501
-Lafayette County,474,39.1006465,-93.79711492
-Kennebec County,475,44.4146515,-69.78968702
-Strafford County,476,43.3267025,-71.05816943
-Eaton County,477,42.5942685,-84.83873082
-Wise County,478,33.2120955,-97.65547876
-Hendricks County,479,39.762486,-86.50681406
-La Crosse County,480,43.9076135,-91.12758616
-Indiana County,481,40.6397635,-79.09445402
-Garland County,482,34.58084,-93.10608646
-Navajo County,483,35.287628,-110.2972394
-Cache County,484,41.6840735,-111.7316855
-Pennington County,485,44.0964515,-103.0310545
-Dubuque County,486,42.484866,-90.89526476
-Woodbury County,487,42.3866865,-96.04076975
-Decatur County,488,39.784752,-100.4602989
-Chittenden County,489,44.4419475,-73.05285542
-Miller County,490,38.22374,-92.44627993
-Ottawa County,491,42.9852855,-86.43749151
-Forrest County,492,31.17212,-89.24712646
-Fremont County,493,43.1353055,-108.5703132
-McCracken County,494,37.085728,-88.72382622
-Lenawee County,495,41.896035,-84.0657732
-Bowie County,496,33.4764875,-94.39487022
-Monongalia County,497,39.5785545,-79.96979844
-St. Bernard Parish,498,29.9151025,-89.33953941
-Carbon County,499,41.718888,-106.7914265
-Sutter County,500,39.019944,-121.7078778
-Adair County,501,40.1912535,-92.60093162
+county_name,rank,lat,lon,description
+Cook County,1,47.7460715,-90.34081521,"Ranks highly in: Household_Income: 100%, PM25: 99%, Diesel_Particulate: 99%"
+Harris County,2,29.8339425,-95.38596726,"Ranks highly in: Building_Loss_Rate: 100%, PM25: 99%, Household_Income: 99%"
+Wayne County,3,38.3299745,-110.9057583,"Ranks highly in: Asthma: 100%, Household_Income: 99%, PM25: 99%"
+Jefferson County,4,44.60729,-121.0933272,"Ranks highly in: Agricultural_Loss_Rate: 99%, Building_Loss_Rate: 99%, Asthma: 99%"
+Maricopa County,5,33.2767635,-112.7681238,"Ranks highly in: Asthma: 99%, Diesel_Particulate: 99%, Household_Income: 99%"
+Kings County,6,36.139117,-119.7718425,"Ranks highly in: Diesel_Particulate: 99%, Household_Income: 99%, Traffic_Proximity: 99%"
+Montgomery County,7,42.9098745,-74.41980607,"Ranks highly in: Agricultural_Loss_Rate: 100%, PM25: 99%, Asthma: 99%"
+Dallas County,8,32.3883895,-87.127721,"Ranks highly in: Building_Loss_Rate: 99%, PM25: 99%, Household_Income: 99%"
+Queens County,9,40.6510085,-73.79304414,"Ranks highly in: Diesel_Particulate: 99%, Traffic_Proximity: 99%, Household_Income: 99%"
+Clark County,10,35.9270635,-115.2532083,"Ranks highly in: Asthma: 99%, Household_Income: 99%, Diesel_Particulate: 99%"
+San Diego County,11,33.0164095,-116.7304845,"Ranks highly in: PM25: 99%, Traffic_Proximity: 99%, Household_Income: 99%"
+Miami-Dade County,12,25.5574795,-80.46421014,"Ranks highly in: Building_Loss_Rate: 99%, Diesel_Particulate: 99%, Traffic_Proximity: 99%"
+Franklin County,13,44.824236,-72.87446267,"Ranks highly in: Building_Loss_Rate: 99%, Agricultural_Loss_Rate: 99%, Asthma: 99%"
+Cuyahoga County,14,41.692556,-81.72993466,"Ranks highly in: Asthma: 99%, PM25: 99%, Household_Income: 99%"
+Washington County,15,37.308528,-113.4764242,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 99%, Building_Loss_Rate: 99%"
+Marion County,16,29.2408465,-82.02271906,"Ranks highly in: Household_Income: 99%, Asthma: 99%, Agricultural_Loss_Rate: 99%"
+Philadelphia County,17,40.001919,-75.14004034,"Ranks highly in: Asthma: 99%, Household_Income: 99%, PM25: 99%"
+Riverside County,18,33.7527135,-116.0202978,"Ranks highly in: PM25: 99%, Household_Income: 98%, Agricultural_Loss_Rate: 98%"
+Hamilton County,19,31.7167785,-98.09869292,"Ranks highly in: PM25: 99%, Building_Loss_Rate: 99%, Asthma: 98%"
+Jackson County,20,42.499538,-122.7562314,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 99%, Building_Loss_Rate: 99%"
+Allegheny County,21,40.434625,-80.00616065,"Ranks highly in: PM25: 99%, Asthma: 99%, Household_Income: 98%"
+Suffolk County,22,40.922431,-72.794992,"Ranks highly in: Diesel_Particulate: 99%, Traffic_Proximity: 99%, Asthma: 99%"
+San Bernardino County,23,34.839914,-116.1114081,"Ranks highly in: PM25: 99%, Asthma: 98%, Traffic_Proximity: 98%"
+Lake County,24,42.805446,-120.646821,"Ranks highly in: Agricultural_Loss_Rate: 99%, Household_Income: 98%, Building_Loss_Rate: 98%"
+Tarrant County,25,32.7701795,-97.29167847,"Ranks highly in: Building_Loss_Rate: 99%, PM25: 98%, Household_Income: 98%"
+Bronx County,26,40.851462,-73.83947506,"Ranks highly in: Asthma: 99%, Household_Income: 99%, Diesel_Particulate: 99%"
+Hillsborough County,27,42.951585,-71.72018674,"Ranks highly in: Agricultural_Loss_Rate: 99%, Diesel_Particulate: 98%, Building_Loss_Rate: 98%"
+Bexar County,28,29.4383755,-98.47195277,"Ranks highly in: Building_Loss_Rate: 99%, PM25: 99%, Household_Income: 98%"
+Alameda County,29,37.6826265,-121.9087015,"Ranks highly in: PM25: 99%, Traffic_Proximity: 99%, Household_Income: 98%"
+Shelby County,30,31.774629,-94.12707484,"Ranks highly in: Building_Loss_Rate: 99%, PM25: 98%, Asthma: 98%"
+Orange County,31,41.3880625,-74.33153374,"Ranks highly in: PM25: 99%, Agricultural_Loss_Rate: 99%, Traffic_Proximity: 99%"
+Sacramento County,32,38.377481,-121.2756896,"Ranks highly in: Agricultural_Loss_Rate: 99%, PM25: 98%, Asthma: 98%"
+King County,33,47.4321795,-121.9595305,"Ranks highly in: Diesel_Particulate: 99%, Traffic_Proximity: 98%, Asthma: 98%"
+Douglas County,34,43.32188,-122.889001,"Ranks highly in: Building_Loss_Rate: 99%, Agricultural_Loss_Rate: 98%, PM25: 97%"
+Broward County,35,26.1572365,-80.45498179,"Ranks highly in: Diesel_Particulate: 99%, Traffic_Proximity: 98%, Building_Loss_Rate: 98%"
+Oakland County,36,42.6599255,-83.38691142,"Ranks highly in: Asthma: 98%, PM25: 98%, Building_Loss_Rate: 98%"
+Monroe County,37,25.10099,-80.73722623,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 99%, Household_Income: 98%"
+Polk County,38,28.002556,-81.7381934,"Ranks highly in: Agricultural_Loss_Rate: 99%, Building_Loss_Rate: 99%, Household_Income: 98%"
+Palm Beach County,39,26.6462735,-80.43361048,"Ranks highly in: Building_Loss_Rate: 99%, Diesel_Particulate: 98%, Traffic_Proximity: 98%"
+Milwaukee County,40,43.0173495,-87.58071494,"Ranks highly in: Asthma: 98%, Household_Income: 98%, Traffic_Proximity: 98%"
+Middlesex County,41,42.4468395,-71.28837633,"Ranks highly in: Agricultural_Loss_Rate: 99%, Traffic_Proximity: 99%, Diesel_Particulate: 99%"
+New York County,42,40.7811835,-73.95961228,"Ranks highly in: Diesel_Particulate: 98%, Traffic_Proximity: 98%, Asthma: 97%"
+Santa Clara County,43,37.188856,-121.7208772,"Ranks highly in: Traffic_Proximity: 99%, PM25: 98%, Household_Income: 98%"
+Erie County,44,42.182385,-80.14065892,"Ranks highly in: Asthma: 99%, Household_Income: 98%, Traffic_Proximity: 97%"
+Oklahoma County,45,35.5515265,-97.40747714,"Ranks highly in: Building_Loss_Rate: 98%, Asthma: 98%, Household_Income: 97%"
+St. Louis County,46,47.64046,-92.42848564,"Ranks highly in: Building_Loss_Rate: 98%, Diesel_Particulate: 97%, PM25: 97%"
+Fulton County,47,36.37455,-91.80360767,"Ranks highly in: PM25: 98%, Household_Income: 97%, Building_Loss_Rate: 97%"
+Hennepin County,48,45.014924,-93.48728953,"Ranks highly in: Building_Loss_Rate: 98%, Diesel_Particulate: 97%, Traffic_Proximity: 97%"
+Madison County,49,45.2839905,-111.9151342,"Ranks highly in: Agricultural_Loss_Rate: 99%, Building_Loss_Rate: 98%, Asthma: 98%"
+El Paso County,50,38.824058,-104.5630645,"Ranks highly in: Building_Loss_Rate: 98%, Agricultural_Loss_Rate: 97%, Household_Income: 97%"
+Macomb County,51,42.672301,-82.90139613,"Ranks highly in: Asthma: 98%, PM25: 97%, Building_Loss_Rate: 97%"
+Lee County,52,26.5532115,-81.91367325,"Ranks highly in: Agricultural_Loss_Rate: 99%, Building_Loss_Rate: 99%, Household_Income: 97%"
+Delaware County,53,42.1826495,-74.95306837,"Ranks highly in: PM25: 97%, Asthma: 97%, Building_Loss_Rate: 97%"
+Baltimore city,54,39.2845275,-76.62040905,"Ranks highly in: Asthma: 98%, Household_Income: 98%, Diesel_Particulate: 97%"
+Mecklenburg County,55,36.7157155,-78.3335364,"Ranks highly in: PM25: 97%, Diesel_Particulate: 97%, Household_Income: 96%"
+Prince George's County,56,38.833389,-76.84243723,"Ranks highly in: Diesel_Particulate: 97%, Household_Income: 97%, Traffic_Proximity: 97%"
+Davidson County,57,36.1870535,-86.78086235,"Ranks highly in: Building_Loss_Rate: 98%, Agricultural_Loss_Rate: 96%, PM25: 96%"
+Travis County,58,30.3266895,-97.77787875,"Ranks highly in: Building_Loss_Rate: 98%, PM25: 98%, Household_Income: 96%"
+Fresno County,59,36.7463335,-119.6363175,"Ranks highly in: PM25: 98%, Agricultural_Loss_Rate: 98%, Asthma: 96%"
+Contra Costa County,60,37.909805,-121.9855348,"Ranks highly in: Agricultural_Loss_Rate: 98%, PM25: 98%, Traffic_Proximity: 97%"
+Orleans Parish,61,30.0329685,-89.97467248,"Ranks highly in: Building_Loss_Rate: 98%, Diesel_Particulate: 97%, Household_Income: 96%"
+District of Columbia,62,38.893581,-76.98771919,"Ranks highly in: Traffic_Proximity: 97%, Diesel_Particulate: 97%, Asthma: 97%"
+DeKalb County,63,34.5297905,-85.7231903,"Ranks highly in: PM25: 97%, Agricultural_Loss_Rate: 96%, Household_Income: 96%"
+Baltimore County,64,39.438964,-76.63640994,"Ranks highly in: Diesel_Particulate: 97%, Asthma: 96%, Traffic_Proximity: 96%"
+Pinellas County,65,27.891491,-82.73863476,"Ranks highly in: Household_Income: 97%, Diesel_Particulate: 97%, Traffic_Proximity: 97%"
+Nassau County,66,30.551664,-81.87327766,"Ranks highly in: Diesel_Particulate: 98%, Traffic_Proximity: 98%, Asthma: 95%"
+Salt Lake County,67,40.6682305,-111.9030702,"Ranks highly in: Asthma: 98%, Diesel_Particulate: 97%, Traffic_Proximity: 96%"
+DuPage County,68,41.8398865,-88.09105311,"Ranks highly in: PM25: 98%, Diesel_Particulate: 97%, Building_Loss_Rate: 96%"
+Fayette County,69,29.895938,-96.91135826,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 97%, Asthma: 96%"
+Fairfax County,70,38.8316505,-77.32334046,"Ranks highly in: Diesel_Particulate: 98%, Traffic_Proximity: 97%, PM25: 97%"
+Johnson County,71,44.0268305,-106.5693223,"Ranks highly in: Building_Loss_Rate: 98%, Agricultural_Loss_Rate: 96%, Diesel_Particulate: 96%"
+Tulsa County,72,36.1397235,-96.02991097,"Ranks highly in: PM25: 97%, Building_Loss_Rate: 97%, Asthma: 96%"
+Hartford County,73,41.791739,-72.74403948,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 98%, Household_Income: 97%"
+Adams County,74,46.9986855,-118.4708578,"Ranks highly in: Building_Loss_Rate: 97%, Agricultural_Loss_Rate: 97%, Household_Income: 96%"
+Lancaster County,75,40.018579,-76.23383975,"Ranks highly in: Agricultural_Loss_Rate: 97%, PM25: 96%, Asthma: 96%"
+Pima County,76,31.9703455,-111.7845043,"Ranks highly in: Asthma: 97%, Household_Income: 97%, Diesel_Particulate: 96%"
+Cumberland County,77,43.8189145,-70.32678864,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 97%, Building_Loss_Rate: 97%"
+Kent County,78,39.1178785,-75.48306947,"Ranks highly in: Asthma: 97%, Agricultural_Loss_Rate: 96%, Household_Income: 96%"
+San Francisco County,79,37.7291735,-123.0466411,"Ranks highly in: PM25: 98%, Traffic_Proximity: 97%, Diesel_Particulate: 97%"
+Richmond County,80,34.9943315,-79.72780176,"Ranks highly in: Asthma: 96%, PM25: 96%, Diesel_Particulate: 96%"
+Wake County,81,35.797616,-78.61005202,"Ranks highly in: Agricultural_Loss_Rate: 98%, PM25: 96%, Building_Loss_Rate: 95%"
+York County,82,43.365788,-70.65703752,"Ranks highly in: Agricultural_Loss_Rate: 98%, Asthma: 97%, Household_Income: 95%"
+Westchester County,83,41.119296,-73.78853575,"Ranks highly in: Diesel_Particulate: 97%, Traffic_Proximity: 97%, Asthma: 96%"
+Fairfield County,84,34.373699,-81.07792905,"Ranks highly in: Agricultural_Loss_Rate: 97%, Household_Income: 97%, Traffic_Proximity: 96%"
+Multnomah County,85,45.5806265,-122.6647591,"Ranks highly in: PM25: 97%, Asthma: 96%, Diesel_Particulate: 96%"
+Butler County,86,37.781009,-96.83946144,"Ranks highly in: Agricultural_Loss_Rate: 97%, PM25: 96%, Asthma: 96%"
+Knox County,87,42.6597395,-97.8953737,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 96%, Asthma: 95%"
+New Haven County,88,41.365805,-72.87758492,"Ranks highly in: Agricultural_Loss_Rate: 98%, Asthma: 97%, Household_Income: 96%"
+Ventura County,89,34.447038,-119.077248,"Ranks highly in: Traffic_Proximity: 96%, Building_Loss_Rate: 95%, PM25: 97%"
+Pierce County,90,47.0660035,-122.0401584,"Ranks highly in: Asthma: 97%, Household_Income: 97%, Diesel_Particulate: 96%"
+Denver County,91,39.764358,-104.9549092,"Ranks highly in: Building_Loss_Rate: 97%, Diesel_Particulate: 96%, Traffic_Proximity: 95%"
+Summit County,92,40.9001345,-110.7556209,"Ranks highly in: Asthma: 96%, Building_Loss_Rate: 95%, PM25: 95%"
+Duval County,93,30.344607,-81.65217519,"Ranks highly in: Household_Income: 96%, Diesel_Particulate: 95%, Traffic_Proximity: 95%"
+Will County,94,41.465184,-87.88893156,"Ranks highly in: PM25: 96%, Agricultural_Loss_Rate: 96%, Diesel_Particulate: 95%"
+Arapahoe County,95,39.652158,-104.2830625,"Ranks highly in: Building_Loss_Rate: 97%, Diesel_Particulate: 95%, Traffic_Proximity: 95%"
+Collin County,96,33.194481,-96.56757608,"Ranks highly in: Building_Loss_Rate: 97%, PM25: 97%, Diesel_Particulate: 95%"
+San Joaquin County,97,37.891053,-121.247929,"Ranks highly in: PM25: 97%, Asthma: 95%, Traffic_Proximity: 95%"
+Essex County,98,42.6352555,-70.85654501,"Ranks highly in: Traffic_Proximity: 98%, Diesel_Particulate: 98%, Household_Income: 99%"
+Bucks County,99,40.328626,-75.13003008,"Ranks highly in: Agricultural_Loss_Rate: 97%, PM25: 95%, Diesel_Particulate: 94%"
+Pulaski County,100,37.111618,-84.59658846,"Ranks highly in: Building_Loss_Rate: 96%, Agricultural_Loss_Rate: 96%, PM25: 95%"
+Worcester County,101,42.364698,-71.95768631,"Ranks highly in: Agricultural_Loss_Rate: 98%, Asthma: 97%, Traffic_Proximity: 96%"
+Kern County,102,35.294864,-118.7203829,"Ranks highly in: PM25: 97%, Asthma: 95%, Household_Income: 94%"
+Richland County,103,47.751103,-104.6391314,"Ranks highly in: Building_Loss_Rate: 96%, Asthma: 95%, Agricultural_Loss_Rate: 95%"
+Denton County,104,33.208946,-97.11555407,"Ranks highly in: Building_Loss_Rate: 97%, PM25: 96%, Diesel_Particulate: 95%"
+Warren County,105,41.8116805,-79.28090546,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 97%, Asthma: 95%"
+Lucas County,106,41.6869935,-83.4965977,"Ranks highly in: Asthma: 96%, Household_Income: 95%, Traffic_Proximity: 94%"
+Greene County,107,42.27998,-74.1318174,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 97%, Asthma: 97%"
+Providence County,108,41.87096,-71.56637361,"Ranks highly in: Asthma: 97%, Traffic_Proximity: 95%, Household_Income: 95%"
+Mobile County,109,30.658169,-88.19926188,"Ranks highly in: Building_Loss_Rate: 96%, PM25: 94%, Diesel_Particulate: 94%"
+Allen County,110,41.0932205,-85.07023077,"Ranks highly in: Asthma: 95%, Agricultural_Loss_Rate: 94%, Building_Loss_Rate: 94%"
+Jefferson Parish,111,29.678225,-90.09273574,"Ranks highly in: Building_Loss_Rate: 97%, Diesel_Particulate: 95%, Traffic_Proximity: 94%"
+Ramsey County,112,48.2294295,-98.74623914,"Ranks highly in: Household_Income: 95%, Building_Loss_Rate: 95%, Diesel_Particulate: 95%"
+Chester County,113,34.681987,-81.16582032,"Ranks highly in: Agricultural_Loss_Rate: 98%, PM25: 96%, Asthma: 93%"
+St. Louis city,114,38.6531825,-90.24087605,"Ranks highly in: Household_Income: 95%, Diesel_Particulate: 95%, Asthma: 94%"
+St. Clair County,115,38.0242615,-93.7827133,"Ranks highly in: Agricultural_Loss_Rate: 95%, Asthma: 95%, Building_Loss_Rate: 95%"
+Forsyth County,116,36.1174185,-80.25207456,"Ranks highly in: Agricultural_Loss_Rate: 97%, Building_Loss_Rate: 95%, PM25: 93%"
+New Castle County,117,39.5651295,-75.64750358,"Ranks highly in: Traffic_Proximity: 94%, PM25: 94%, Diesel_Particulate: 94%"
+Genesee County,118,43.000057,-78.18647127,"Ranks highly in: Asthma: 97%, Household_Income: 94%, Building_Loss_Rate: 94%"
+Sedgwick County,119,37.693464,-97.48023028,"Ranks highly in: Building_Loss_Rate: 96%, Asthma: 94%, Household_Income: 94%"
+San Mateo County,120,37.3812465,-122.3390299,"Ranks highly in: PM25: 96%, Traffic_Proximity: 96%, Diesel_Particulate: 92%"
+Clay County,121,36.3495705,-90.41384352,"Ranks highly in: Agricultural_Loss_Rate: 96%, Building_Loss_Rate: 96%, Household_Income: 94%"
+Benton County,122,36.2992945,-94.22753794,"Ranks highly in: Agricultural_Loss_Rate: 97%, PM25: 94%, Asthma: 94%"
+Hidalgo County,123,26.408942,-98.18606384,"Ranks highly in: Agricultural_Loss_Rate: 96%, PM25: 95%, Building_Loss_Rate: 95%"
+Bristol County,124,41.756472,-71.11581924,"Ranks highly in: Asthma: 96%, Traffic_Proximity: 94%, Agricultural_Loss_Rate: 94%"
+Williamson County,125,30.65365,-97.63518246,"Ranks highly in: Agricultural_Loss_Rate: 96%, PM25: 95%, Building_Loss_Rate: 94%"
+Pasco County,126,28.324785,-82.4254254,"Ranks highly in: Agricultural_Loss_Rate: 95%, Building_Loss_Rate: 94%, Household_Income: 94%"
+Snohomish County,127,48.037388,-121.7473157,"Ranks highly in: Asthma: 96%, Diesel_Particulate: 95%, Traffic_Proximity: 94%"
+Gwinnett County,128,33.960396,-84.04517925,"Ranks highly in: PM25: 95%, Diesel_Particulate: 94%, Agricultural_Loss_Rate: 93%"
+Cobb County,129,33.912405,-84.58504632,"Ranks highly in: PM25: 96%, Building_Loss_Rate: 94%, Diesel_Particulate: 94%"
+East Baton Rouge Parish,130,30.5163245,-91.08938751,"Ranks highly in: Building_Loss_Rate: 95%, PM25: 94%, Diesel_Particulate: 93%"
+Guilford County,131,36.0784625,-79.7900131,"Ranks highly in: Agricultural_Loss_Rate: 95%, Traffic_Proximity: 93%, Asthma: 93%"
+Onondaga County,132,43.0216825,-76.20283062,"Ranks highly in: Asthma: 96%, Household_Income: 94%, Traffic_Proximity: 94%"
+Bernalillo County,133,35.0444055,-106.6769567,"Ranks highly in: Traffic_Proximity: 95%, Asthma: 94%, Household_Income: 94%"
+Lincoln County,134,37.7594855,-114.9727966,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 96%, Household_Income: 94%"
+Winnebago County,135,44.0684395,-88.64513199,"Ranks highly in: Building_Loss_Rate: 95%, Household_Income: 93%, Traffic_Proximity: 93%"
+Berks County,136,40.4075895,-75.92972716,"Ranks highly in: PM25: 94%, Asthma: 93%, Agricultural_Loss_Rate: 93%"
+Scott County,137,34.8834705,-94.0785107,"Ranks highly in: Agricultural_Loss_Rate: 96%, Building_Loss_Rate: 94%, Household_Income: 93%"
+Spokane County,138,47.653486,-117.4305043,"Ranks highly in: PM25: 95%, Asthma: 95%, Traffic_Proximity: 92%"
+Union County,139,36.3690075,-103.5248721,"Ranks highly in: Agricultural_Loss_Rate: 97%, PM25: 97%, Building_Loss_Rate: 97%"
+Volusia County,140,29.0228335,-81.10708243,"Ranks highly in: Building_Loss_Rate: 96%, Agricultural_Loss_Rate: 93%, Household_Income: 92%"
+Sonoma County,141,38.4628855,-122.8943433,"Ranks highly in: Agricultural_Loss_Rate: 97%, PM25: 94%, Traffic_Proximity: 92%"
+Stanislaus County,142,37.6057365,-120.8870564,"Ranks highly in: Agricultural_Loss_Rate: 95%, PM25: 95%, Asthma: 93%"
+Utah County,143,40.1770515,-111.6910134,"Ranks highly in: Diesel_Particulate: 94%, Traffic_Proximity: 93%, Household_Income: 93%"
+Harrison County,144,32.559802,-94.37244955,"Ranks highly in: Building_Loss_Rate: 95%, Agricultural_Loss_Rate: 94%, Asthma: 93%"
+Greenville County,145,34.849808,-82.35149794,"Ranks highly in: PM25: 94%, Diesel_Particulate: 92%, Household_Income: 92%"
+Henry County,146,41.366098,-90.14530553,"Ranks highly in: Agricultural_Loss_Rate: 97%, Building_Loss_Rate: 94%, Household_Income: 93%"
+Lawrence County,147,36.069383,-91.08692948,"Ranks highly in: Agricultural_Loss_Rate: 94%, Asthma: 94%, Household_Income: 93%"
+Seminole County,148,28.7448325,-81.23941322,"Ranks highly in: Building_Loss_Rate: 95%, Diesel_Particulate: 92%, Agricultural_Loss_Rate: 92%"
+Stark County,149,46.8202035,-102.6639832,"Ranks highly in: Asthma: 94%, PM25: 93%, Building_Loss_Rate: 92%"
+Washoe County,150,40.581992,-119.6545648,"Ranks highly in: Agricultural_Loss_Rate: 95%, Asthma: 94%, Traffic_Proximity: 92%"
+Hampden County,151,42.170387,-72.62674632,"Ranks highly in: Asthma: 95%, Agricultural_Loss_Rate: 95%, Traffic_Proximity: 93%"
+Solano County,152,38.285486,-121.9018472,"Ranks highly in: PM25: 95%, Agricultural_Loss_Rate: 94%, Traffic_Proximity: 93%"
+Luzerne County,153,41.164622,-75.95410982,"Ranks highly in: Asthma: 94%, Building_Loss_Rate: 92%, Household_Income: 92%"
+Dane County,154,43.0695875,-89.42475617,"Ranks highly in: Traffic_Proximity: 93%, Building_Loss_Rate: 92%, Asthma: 92%"
+Brevard County,155,28.3067205,-80.70051479,"Ranks highly in: Building_Loss_Rate: 96%, Traffic_Proximity: 92%, Household_Income: 92%"
+Cass County,156,46.934617,-97.23636621,"Ranks highly in: Agricultural_Loss_Rate: 96%, Building_Loss_Rate: 94%, Household_Income: 93%"
+Westmoreland County,157,40.360394,-79.38672343,"Ranks highly in: PM25: 95%, Asthma: 93%, Household_Income: 92%"
+Washtenaw County,158,42.2528765,-83.83750135,"Ranks highly in: Traffic_Proximity: 93%, Asthma: 92%, Diesel_Particulate: 92%"
+Cameron County,159,26.124847,-97.48544851,"Ranks highly in: Building_Loss_Rate: 95%, PM25: 93%, Agricultural_Loss_Rate: 92%"
+Lehigh County,160,40.603049,-75.58328518,"Ranks highly in: PM25: 93%, Diesel_Particulate: 92%, Traffic_Proximity: 91%"
+Norfolk County,161,42.156612,-71.20274,"Ranks highly in: Traffic_Proximity: 95%, Diesel_Particulate: 93%, Asthma: 92%"
+Anne Arundel County,162,38.9742715,-76.54393497,"Ranks highly in: PM25: 92%, Diesel_Particulate: 93%, Traffic_Proximity: 92%"
+Cleveland County,163,33.8842255,-92.1838638,"Ranks highly in: Building_Loss_Rate: 93%, Agricultural_Loss_Rate: 93%, Asthma: 92%"
+Plymouth County,164,42.73541,-96.24545784,"Ranks highly in: Agricultural_Loss_Rate: 96%, Asthma: 93%, Traffic_Proximity: 92%"
+Escambia County,165,30.7457135,-87.41982783,"Ranks highly in: Building_Loss_Rate: 94%, Household_Income: 90%, PM25: 89%"
+Carroll County,166,39.41099,-93.47284192,"Ranks highly in: Agricultural_Loss_Rate: 97%, Building_Loss_Rate: 93%, Household_Income: 93%"
+Fort Bend County,167,29.52543,-95.74560152,"Ranks highly in: Building_Loss_Rate: 94%, PM25: 93%, Agricultural_Loss_Rate: 92%"
+Boone County,168,37.997157,-81.71432358,"Ranks highly in: Agricultural_Loss_Rate: 94%, Building_Loss_Rate: 93%, PM25: 91%"
+Northampton County,169,37.2728295,-75.92583183,"Ranks highly in: PM25: 92%, Agricultural_Loss_Rate: 92%, Asthma: 91%"
+Crawford County,170,41.6656205,-80.06614274,"Ranks highly in: Agricultural_Loss_Rate: 94%, Building_Loss_Rate: 93%, Household_Income: 93%"
+Brown County,171,45.5898185,-98.35089128,"Ranks highly in: Agricultural_Loss_Rate: 95%, Household_Income: 93%, Asthma: 92%"
+Morgan County,172,40.26868,-103.8108372,"Ranks highly in: Agricultural_Loss_Rate: 96%, Building_Loss_Rate: 93%, Asthma: 92%"
+Dakota County,173,44.6976065,-93.02523371,"Ranks highly in: Building_Loss_Rate: 94%, Diesel_Particulate: 91%, Traffic_Proximity: 91%"
+Hinds County,174,32.310993,-90.42533187,"Ranks highly in: PM25: 92%, Building_Loss_Rate: 92%, Asthma: 91%"
+Calhoun County,175,42.2463835,-85.00695903,"Ranks highly in: Agricultural_Loss_Rate: 95%, Asthma: 93%, Building_Loss_Rate: 93%"
+St. Charles County,176,38.75124,-90.7275927,"Ranks highly in: PM25: 93%, Building_Loss_Rate: 92%, Diesel_Particulate: 92%"
+Chatham County,177,35.6942615,-79.25635315,"Ranks highly in: Household_Income: 91%, Diesel_Particulate: 90%, Traffic_Proximity: 90%"
+Howard County,178,40.4713465,-86.1192191,"Ranks highly in: Agricultural_Loss_Rate: 94%, Diesel_Particulate: 92%, Building_Loss_Rate: 91%"
+Cherokee County,179,42.7355845,-95.62396259,"Ranks highly in: Agricultural_Loss_Rate: 95%, Building_Loss_Rate: 93%, PM25: 92%"
+Clinton County,180,41.8802895,-90.53281325,"Ranks highly in: Agricultural_Loss_Rate: 94%, Asthma: 93%, Building_Loss_Rate: 92%"
+Marshall County,181,48.3583685,-96.36953928,"Ranks highly in: Agricultural_Loss_Rate: 95%, Building_Loss_Rate: 93%, Asthma: 91%"
+Kane County,182,37.273039,-111.8853443,"Ranks highly in: PM25: 93%, Diesel_Particulate: 92%, Traffic_Proximity: 89%"
+Columbia County,183,46.311916,-117.9268747,"Ranks highly in: Agricultural_Loss_Rate: 94%, Building_Loss_Rate: 92%, Asthma: 92%"
+Rockingham County,184,43.006388,-71.023553,"Ranks highly in: Agricultural_Loss_Rate: 97%, Asthma: 92%, Household_Income: 91%"
+Nueces County,185,27.7770185,-97.48054164,"Ranks highly in: Building_Loss_Rate: 94%, PM25: 92%, Traffic_Proximity: 91%"
+St. Joseph County,186,41.914979,-85.52639183,"Ranks highly in: Asthma: 93%, Household_Income: 92%, Diesel_Particulate: 91%"
+Lane County,187,43.8638785,-122.7492329,"Ranks highly in: Asthma: 94%, PM25: 92%, Traffic_Proximity: 90%"
+Dauphin County,188,40.389572,-76.83720556,"Ranks highly in: PM25: 92%, Asthma: 91%, Diesel_Particulate: 90%"
+Norfolk city,189,36.9306505,-76.25731117,"Ranks highly in: Traffic_Proximity: 93%, Household_Income: 92%, Diesel_Particulate: 92%"
+Charleston County,190,32.8488485,-79.74176233,"Ranks highly in: Diesel_Particulate: 91%, Traffic_Proximity: 91%, Asthma: 90%"
+Leon County,191,31.3138895,-95.99665315,"Ranks highly in: PM25: 92%, Building_Loss_Rate: 91%, Diesel_Particulate: 89%"
+Wyandotte County,192,39.0977555,-94.75789896,"Ranks highly in: Asthma: 92%, Household_Income: 91%, Diesel_Particulate: 91%"
+Bell County,193,31.036351,-97.50852842,"Ranks highly in: Building_Loss_Rate: 91%, PM25: 91%, Household_Income: 89%"
+Caddo Parish,194,32.6082695,-93.90108736,"Ranks highly in: PM25: 93%, Asthma: 90%, Diesel_Particulate: 89%"
+Tulare County,195,36.267123,-118.8232124,"Ranks highly in: PM25: 94%, Asthma: 91%, Traffic_Proximity: 90%"
+Virginia Beach city,196,36.7953025,-76.05092508,"Ranks highly in: Traffic_Proximity: 92%, Diesel_Particulate: 91%, Building_Loss_Rate: 90%"
+Anoka County,197,45.225085,-93.2424879,"Ranks highly in: Building_Loss_Rate: 93%, Diesel_Particulate: 90%, Agricultural_Loss_Rate: 90%"
+Livingston County,198,40.8663935,-88.58697156,"Ranks highly in: Agricultural_Loss_Rate: 94%, Asthma: 92%, Building_Loss_Rate: 92%"
+Randolph County,199,38.753468,-79.8271214,"Ranks highly in: Agricultural_Loss_Rate: 95%, Building_Loss_Rate: 91%, Asthma: 90%"
+Lorain County,200,41.473145,-82.1587792,"Ranks highly in: Asthma: 92%, PM25: 90%, Diesel_Particulate: 89%"
+Mahoning County,201,41.0170645,-80.76042044,"Ranks highly in: PM25: 93%, Asthma: 92%, Household_Income: 89%"
+Weld County,202,40.5013945,-104.5458377,"Ranks highly in: Building_Loss_Rate: 92%, Diesel_Particulate: 89%, Asthma: 89%"
+Pinal County,203,32.978007,-111.3261723,"Ranks highly in: Agricultural_Loss_Rate: 96%, Asthma: 91%, Household_Income: 90%"
+Lubbock County,204,33.6107565,-101.8205431,"Ranks highly in: Agricultural_Loss_Rate: 93%, Building_Loss_Rate: 93%, Traffic_Proximity: 90%"
+Gaston County,205,35.2837835,-81.18214139,"Ranks highly in: PM25: 91%, Household_Income: 89%, Asthma: 89%"
+Chesterfield County,206,34.5917715,-80.09591319,"Ranks highly in: Agricultural_Loss_Rate: 92%, Asthma: 89%, Traffic_Proximity: 89%"
+Clayton County,207,42.862146,-91.35258551,"Ranks highly in: PM25: 91%, Household_Income: 89%, Asthma: 89%"
+Frederick County,208,39.470158,-77.36792254,"Ranks highly in: Agricultural_Loss_Rate: 94%, Diesel_Particulate: 90%, Household_Income: 88%"
+Macon County,209,32.413778,-85.72758021,"Ranks highly in: Agricultural_Loss_Rate: 91%, PM25: 91%, Building_Loss_Rate: 90%"
+Spartanburg County,210,34.8864085,-81.98145458,"Ranks highly in: PM25: 91%, Agricultural_Loss_Rate: 90%, Building_Loss_Rate: 89%"
+Galveston County,211,29.3303465,-94.884518,"Ranks highly in: Building_Loss_Rate: 93%, Traffic_Proximity: 88%, Household_Income: 88%"
+Grant County,212,44.47783,-119.0100653,"Ranks highly in: Agricultural_Loss_Rate: 94%, Household_Income: 91%, Building_Loss_Rate: 91%"
+Wood County,213,44.4663785,-90.02113215,"Ranks highly in: Asthma: 91%, Agricultural_Loss_Rate: 90%, PM25: 89%"
+Albany County,214,41.7131285,-105.6757139,"Ranks highly in: Asthma: 91%, Traffic_Proximity: 91%, Household_Income: 90%"
+Clackamas County,215,45.173823,-122.2445437,"Ranks highly in: PM25: 92%, Diesel_Particulate: 91%, Asthma: 90%"
+Putnam County,216,36.141928,-85.45753222,"Ranks highly in: Agricultural_Loss_Rate: 93%, Building_Loss_Rate: 91%, Asthma: 90%"
+Richmond city,217,37.524277,-77.46085841,"Ranks highly in: Household_Income: 91%, Diesel_Particulate: 91%, Asthma: 90%"
+Manatee County,218,27.4248195,-82.39781054,"Ranks highly in: Diesel_Particulate: 91%, Traffic_Proximity: 89%, Household_Income: 89%"
+Prince William County,219,38.721251,-77.44428057,"Ranks highly in: Diesel_Particulate: 92%, Traffic_Proximity: 90%, PM25: 88%"
+Linn County,220,44.496296,-122.526064,"Ranks highly in: Building_Loss_Rate: 91%, Agricultural_Loss_Rate: 90%, Household_Income: 89%"
+Placer County,221,39.0140065,-120.7433425,"Ranks highly in: Agricultural_Loss_Rate: 95%, Traffic_Proximity: 90%, PM25: 89%"
+Pike County,222,39.492058,-90.98989157,"Ranks highly in: Agricultural_Loss_Rate: 94%, Household_Income: 92%, Asthma: 92%"
+Horry County,223,33.934514,-78.97291926,"Ranks highly in: Agricultural_Loss_Rate: 92%, Building_Loss_Rate: 91%, Asthma: 90%"
+Lexington County,224,33.924848,-81.28319659,"Ranks highly in: Agricultural_Loss_Rate: 93%, PM25: 90%, Building_Loss_Rate: 90%"
+Sarasota County,225,27.1716615,-82.30483153,"Ranks highly in: Diesel_Particulate: 91%, Traffic_Proximity: 90%, Household_Income: 90%"
+Waukesha County,226,43.018826,-88.30439307,"Ranks highly in: Agricultural_Loss_Rate: 92%, Traffic_Proximity: 91%, Diesel_Particulate: 90%"
+Larimer County,227,40.628397,-105.4466,"Ranks highly in: Building_Loss_Rate: 93%, Household_Income: 88%, Traffic_Proximity: 88%"
+Ingham County,228,42.5989855,-84.37364236,"Ranks highly in: Asthma: 93%, Traffic_Proximity: 91%, Household_Income: 89%"
+Durham County,229,36.0510705,-78.86813231,"Ranks highly in: PM25: 90%, Building_Loss_Rate: 89%, Traffic_Proximity: 89%"
+Sullivan County,230,36.504153,-82.31149925,"Ranks highly in: Agricultural_Loss_Rate: 95%, Asthma: 92%, Household_Income: 90%"
+Bay County,231,30.2337695,-85.69410717,"Ranks highly in: Building_Loss_Rate: 92%, Asthma: 89%, Traffic_Proximity: 88%"
+Floyd County,232,34.0727805,-101.3030218,"Ranks highly in: Agricultural_Loss_Rate: 90%, Building_Loss_Rate: 90%, PM25: 89%"
+Sangamon County,233,39.7493885,-89.70522856,"Ranks highly in: PM25: 90%, Building_Loss_Rate: 88%, Traffic_Proximity: 87%"
+Butte County,234,44.8920825,-103.5073577,"Ranks highly in: Agricultural_Loss_Rate: 93%, Asthma: 88%, Building_Loss_Rate: 87%"
+Dutchess County,235,41.759364,-73.72697504,"Ranks highly in: Agricultural_Loss_Rate: 92%, Asthma: 90%, Diesel_Particulate: 88%"
+Bibb County,236,33.039116,-87.09665089,"Ranks highly in: PM25: 90%, Diesel_Particulate: 87%, Asthma: 87%"
+Mercer County,237,47.277616,-101.7133508,"Ranks highly in: Agricultural_Loss_Rate: 95%, Building_Loss_Rate: 95%, Household_Income: 94%"
+Vanderburgh County,238,37.9972945,-87.57409138,"Ranks highly in: PM25: 89%, Diesel_Particulate: 88%, Building_Loss_Rate: 88%"
+Henrico County,239,37.531191,-77.30300725,"Ranks highly in: Diesel_Particulate: 90%, Traffic_Proximity: 89%, Asthma: 86%"
+Rutherford County,240,35.8594405,-86.3919879,"Ranks highly in: Agricultural_Loss_Rate: 90%, PM25: 88%, Diesel_Particulate: 88%"
+Houston County,241,31.259258,-95.43496944,"Ranks highly in: Agricultural_Loss_Rate: 92%, PM25: 90%, Asthma: 88%"
+Oneida County,242,45.683791,-89.54472054,"Ranks highly in: Asthma: 92%, Household_Income: 89%, Building_Loss_Rate: 89%"
+Wilson County,243,29.1620075,-98.08855867,"Ranks highly in: Agricultural_Loss_Rate: 92%, Building_Loss_Rate: 90%, PM25: 86%"
+Trumbull County,244,41.317105,-80.76123972,"Ranks highly in: PM25: 91%, Asthma: 89%, Diesel_Particulate: 85%"
+Henderson County,245,32.182428,-95.81854967,"Ranks highly in: Agricultural_Loss_Rate: 93%, Building_Loss_Rate: 88%, Household_Income: 88%"
+Jasper County,246,41.6860395,-93.05743832,"Ranks highly in: Agricultural_Loss_Rate: 91%, Building_Loss_Rate: 90%, Asthma: 88%"
+Merced County,247,37.1870405,-120.6093199,"Ranks highly in: PM25: 91%, Agricultural_Loss_Rate: 91%, Asthma: 86%"
+Boulder County,248,40.0878755,-105.3448718,"Ranks highly in: Building_Loss_Rate: 91%, Traffic_Proximity: 89%, Household_Income: 86%"
+Beaver County,249,38.36197,-113.2065449,"Ranks highly in: PM25: 91%, Asthma: 90%, Household_Income: 87%"
+Muscogee County,250,32.4916085,-84.8638463,"Ranks highly in: PM25: 92%, Asthma: 88%, Traffic_Proximity: 87%"
+Monterey County,251,36.354451,-121.5248735,"Ranks highly in: Traffic_Proximity: 92%, Household_Income: 90%, Asthma: 88%"
+Campbell County,252,44.248661,-105.5503244,"Ranks highly in: Agricultural_Loss_Rate: 88%, Diesel_Particulate: 87%, Asthma: 87%"
+Alachua County,253,29.680904,-82.35522357,"Ranks highly in: Building_Loss_Rate: 90%, Diesel_Particulate: 88%, Traffic_Proximity: 87%"
+Davis County,254,40.963327,-112.0923962,"Ranks highly in: Diesel_Particulate: 89%, Traffic_Proximity: 88%, Asthma: 88%"
+Collier County,255,26.145117,-81.36997889,"Ranks highly in: Building_Loss_Rate: 90%, Diesel_Particulate: 89%, Traffic_Proximity: 88%"
+Sumter County,256,33.9060015,-80.34148158,"Ranks highly in: Agricultural_Loss_Rate: 90%, Building_Loss_Rate: 88%, PM25: 87%"
+Tuscaloosa County,257,33.307606,-87.50006739,"Ranks highly in: PM25: 89%, Diesel_Particulate: 87%, Asthma: 86%"
+Arlington County,258,38.880805,-77.10762724,"Ranks highly in: Diesel_Particulate: 92%, Traffic_Proximity: 92%, PM25: 89%"
+Lackawanna County,259,41.401846,-75.6406801,"Ranks highly in: Asthma: 89%, Traffic_Proximity: 89%, Household_Income: 86%"
+Weber County,260,41.255295,-111.8947702,"Ranks highly in: Diesel_Particulate: 90%, Asthma: 88%, Traffic_Proximity: 87%"
+Kanawha County,261,38.296984,-81.52334457,"Ranks highly in: Asthma: 90%, Traffic_Proximity: 87%, Diesel_Particulate: 86%"
+Ada County,262,43.4598335,-116.2240288,"Ranks highly in: PM25: 90%, Diesel_Particulate: 89%, Traffic_Proximity: 88%"
+Peoria County,263,40.7435025,-89.76944163,"Ranks highly in: PM25: 89%, Building_Loss_Rate: 87%, Diesel_Particulate: 86%"
+Kalamazoo County,264,42.245382,-85.53151902,"Ranks highly in: Asthma: 90%, Traffic_Proximity: 88%, Household_Income: 85%"
+Rockland County,265,41.1612945,-74.05738032,"Ranks highly in: Diesel_Particulate: 90%, Traffic_Proximity: 90%, Asthma: 87%"
+Clarke County,266,31.5879045,-87.81360821,"Ranks highly in: Agricultural_Loss_Rate: 89%, PM25: 87%, Household_Income: 87%"
+Marin County,267,38.064132,-122.7046082,"Ranks highly in: PM25: 91%, Traffic_Proximity: 89%, Building_Loss_Rate: 87%"
+Saline County,268,39.1706235,-93.1929192,"Ranks highly in: Agricultural_Loss_Rate: 91%, Building_Loss_Rate: 89%, PM25: 87%"
+Lafayette Parish,269,30.2091765,-92.1133363,"Ranks highly in: Building_Loss_Rate: 88%, Agricultural_Loss_Rate: 87%, PM25: 87%"
+Webb County,270,27.732058,-99.28638148,"Ranks highly in: PM25: 91%, Traffic_Proximity: 89%, Household_Income: 88%"
+Champaign County,271,40.1412345,-83.76428401,"Ranks highly in: PM25: 88%, Building_Loss_Rate: 87%, Agricultural_Loss_Rate: 86%"
+Osceola County,272,27.9948705,-81.12569552,"Ranks highly in: Agricultural_Loss_Rate: 89%, Building_Loss_Rate: 87%, Diesel_Particulate: 86%"
+Taylor County,273,45.2065135,-90.48555729,"Ranks highly in: Building_Loss_Rate: 90%, Household_Income: 88%, Asthma: 86%"
+Broome County,274,42.206561,-75.86193119,"Ranks highly in: Asthma: 89%, Traffic_Proximity: 88%, Building_Loss_Rate: 87%"
+Santa Cruz County,275,31.529315,-110.8120914,"Ranks highly in: Agricultural_Loss_Rate: 90%, Traffic_Proximity: 89%, Household_Income: 86%"
+Logan County,276,40.719162,-103.1124758,"Ranks highly in: Agricultural_Loss_Rate: 91%, Building_Loss_Rate: 90%, Asthma: 89%"
+Calcasieu Parish,277,30.2638955,-93.36901735,"Ranks highly in: Building_Loss_Rate: 89%, PM25: 86%, Diesel_Particulate: 86%"
+Berkeley County,278,33.1628975,-79.91046016,"Ranks highly in: Agricultural_Loss_Rate: 89%, Asthma: 88%, Diesel_Particulate: 87%"
+Niagara County,279,43.3267595,-78.79066699,"Ranks highly in: Asthma: 91%, Household_Income: 87%, Traffic_Proximity: 86%"
+Lauderdale County,280,34.8700495,-87.58445236,"Ranks highly in: Building_Loss_Rate: 88%, Asthma: 87%, PM25: 86%"
+Harford County,281,39.487793,-76.23419394,"Ranks highly in: Diesel_Particulate: 88%, PM25: 88%, Agricultural_Loss_Rate: 88%"
+Brazoria County,282,29.182142,-95.45599933,"Ranks highly in: Building_Loss_Rate: 91%, Agricultural_Loss_Rate: 90%, PM25: 88%"
+Hardin County,283,30.3120725,-94.38682903,"Ranks highly in: Building_Loss_Rate: 88%, Agricultural_Loss_Rate: 88%, PM25: 87%"
+Kenton County,284,38.944038,-84.53504944,"Ranks highly in: Diesel_Particulate: 89%, PM25: 88%, Traffic_Proximity: 86%"
+Loudoun County,285,39.0855275,-77.66423097,"Ranks highly in: Diesel_Particulate: 90%, Agricultural_Loss_Rate: 90%, Traffic_Proximity: 86%"
+Hall County,286,34.530711,-100.6806289,"Ranks highly in: Agricultural_Loss_Rate: 90%, Building_Loss_Rate: 87%, Diesel_Particulate: 85%"
+Buncombe County,287,35.6203605,-82.53904516,"Ranks highly in: Agricultural_Loss_Rate: 90%, Building_Loss_Rate: 88%, Traffic_Proximity: 86%"
+Martin County,288,27.112253,-80.38152475,"Ranks highly in: Building_Loss_Rate: 91%, Agricultural_Loss_Rate: 88%, Diesel_Particulate: 85%"
+Hancock County,289,44.6405345,-68.42096326,"Ranks highly in: Agricultural_Loss_Rate: 93%, Building_Loss_Rate: 90%, Asthma: 89%"
+New London County,290,41.464619,-72.05280902,"Ranks highly in: Agricultural_Loss_Rate: 91%, Asthma: 89%, Traffic_Proximity: 86%"
+Yakima County,291,46.564487,-120.648802,"Ranks highly in: PM25: 90%, Asthma: 88%, Agricultural_Loss_Rate: 85%"
+Saginaw County,292,43.3486775,-84.03394365,"Ranks highly in: Asthma: 91%, Traffic_Proximity: 86%, Household_Income: 86%"
+Sumner County,293,37.2384875,-97.47614243,"Ranks highly in: Agricultural_Loss_Rate: 88%, Building_Loss_Rate: 86%, Diesel_Particulate: 84%"
+McLennan County,294,31.553792,-97.20212787,"Ranks highly in: PM25: 89%, Diesel_Particulate: 87%, Traffic_Proximity: 86%"
+Pueblo County,295,38.128491,-104.553327,"Ranks highly in: Building_Loss_Rate: 90%, Asthma: 88%, Household_Income: 85%"
+Shasta County,296,40.7347415,-122.0178618,"Ranks highly in: Agricultural_Loss_Rate: 92%, Asthma: 85%, Building_Loss_Rate: 84%"
+Shawnee County,297,39.043088,-95.72409355,"Ranks highly in: Traffic_Proximity: 86%, Diesel_Particulate: 85%, PM25: 85%"
+Lowndes County,298,32.1841735,-86.6580914,"Ranks highly in: PM25: 87%, Agricultural_Loss_Rate: 87%, Asthma: 86%"
+Iredell County,299,35.7731095,-80.92120335,"Ranks highly in: Agricultural_Loss_Rate: 92%, PM25: 86%, Building_Loss_Rate: 84%"
+DeSoto County,300,27.1867235,-81.80977222,"Ranks highly in: Agricultural_Loss_Rate: 89%, PM25: 85%, Building_Loss_Rate: 84%"
+San Luis Obispo County,301,35.347698,-120.3664986,"Ranks highly in: Agricultural_Loss_Rate: 91%, Traffic_Proximity: 87%, Building_Loss_Rate: 85%"
+Walker County,302,30.781565,-95.59303347,"Ranks highly in: Agricultural_Loss_Rate: 89%, PM25: 87%, Building_Loss_Rate: 86%"
+Portage County,303,44.464796,-89.47498763,"Ranks highly in: Asthma: 87%, PM25: 86%, Building_Loss_Rate: 83%"
+McHenry County,304,48.2409995,-100.6257946,"Ranks highly in: Diesel_Particulate: 87%, PM25: 86%, Agricultural_Loss_Rate: 85%"
+Christian County,305,39.585665,-89.27957447,"Ranks highly in: Agricultural_Loss_Rate: 88%, Building_Loss_Rate: 87%, PM25: 84%"
+St. Lucie County,306,27.3823675,-80.43532336,"Ranks highly in: Building_Loss_Rate: 89%, Diesel_Particulate: 85%, Traffic_Proximity: 85%"
+Sarpy County,307,41.0927365,-96.10052818,"Ranks highly in: PM25: 88%, Agricultural_Loss_Rate: 87%, Building_Loss_Rate: 86%"
+Tazewell County,308,37.1355625,-81.6057359,"Ranks highly in: Agricultural_Loss_Rate: 86%, Building_Loss_Rate: 86%, PM25: 85%"
+Newport News city,309,37.0759455,-76.52969784,"Ranks highly in: Asthma: 87%, Traffic_Proximity: 87%, Household_Income: 86%"
+Smith County,310,39.7851515,-98.78532022,"Ranks highly in: PM25: 89%, Agricultural_Loss_Rate: 87%, Household_Income: 85%"
+Sussex County,311,38.7272805,-75.36293924,"Ranks highly in: Agricultural_Loss_Rate: 93%, Building_Loss_Rate: 92%, Household_Income: 90%"
+Ouachita Parish,312,32.490817,-92.1743122,"Ranks highly in: PM25: 86%, Asthma: 84%, Building_Loss_Rate: 83%"
+Berrien County,313,42.0016815,-86.68621517,"Ranks highly in: Asthma: 89%, Household_Income: 85%, Traffic_Proximity: 83%"
+St. Tammany Parish,314,30.425469,-89.96205099,"Ranks highly in: Building_Loss_Rate: 89%, Diesel_Particulate: 85%, PM25: 84%"
+New Hanover County,315,34.088965,-77.86793243,"Ranks highly in: Building_Loss_Rate: 89%, Traffic_Proximity: 85%, Diesel_Particulate: 84%"
+Newton County,316,36.9021725,-94.34100797,"Ranks highly in: Agricultural_Loss_Rate: 90%, Building_Loss_Rate: 86%, PM25: 85%"
+Perry County,317,34.943752,-92.88094735,"Ranks highly in: Agricultural_Loss_Rate: 89%, Asthma: 88%, Household_Income: 87%"
+Brazos County,318,30.6520865,-96.38086643,"Ranks highly in: PM25: 88%, Traffic_Proximity: 84%, Diesel_Particulate: 83%"
+Barnstable County,319,41.7996225,-70.20796146,"Ranks highly in: Agricultural_Loss_Rate: 88%, Asthma: 88%, Traffic_Proximity: 88%"
+Napa County,320,38.5096095,-122.3260006,"Ranks highly in: Agricultural_Loss_Rate: 89%, PM25: 89%, Traffic_Proximity: 84%"
+Potter County,321,45.07206,-99.9480836,"Ranks highly in: Building_Loss_Rate: 86%, Diesel_Particulate: 85%, Household_Income: 85%"
+Ulster County,322,41.879132,-74.20277225,"Ranks highly in: Agricultural_Loss_Rate: 89%, Asthma: 86%, Traffic_Proximity: 83%"
+Yolo County,323,38.619505,-121.8551233,"Ranks highly in: PM25: 88%, Agricultural_Loss_Rate: 86%, Traffic_Proximity: 86%"
+Medina County,324,29.3865785,-99.10869359,"Ranks highly in: PM25: 87%, Building_Loss_Rate: 85%, Agricultural_Loss_Rate: 83%"
+Buchanan County,325,42.470287,-91.84499056,"Ranks highly in: Asthma: 83%, Building_Loss_Rate: 83%, Household_Income: 83%"
+Cabarrus County,326,35.3454555,-80.54644147,"Ranks highly in: Diesel_Particulate: 85%, PM25: 84%, Agricultural_Loss_Rate: 84%"
+Lewis County,327,46.589237,-122.3843043,"Ranks highly in: Asthma: 87%, Household_Income: 87%, Building_Loss_Rate: 82%"
+Racine County,328,42.727777,-87.68019132,"Ranks highly in: Diesel_Particulate: 84%, Traffic_Proximity: 86%, Asthma: 85%"
+Clermont County,329,39.020624,-84.16962312,"Ranks highly in: PM25: 87%, Diesel_Particulate: 84%, Asthma: 83%"
+Rock County,330,42.6687085,-89.07199549,"Ranks highly in: Traffic_Proximity: 83%, Asthma: 82%, Household_Income: 82%"
+Litchfield County,331,41.7600885,-73.25981665,"Ranks highly in: Agricultural_Loss_Rate: 93%, Asthma: 84%, Household_Income: 83%"
+Ellis County,332,32.301005,-96.76228969,"Ranks highly in: Agricultural_Loss_Rate: 85%, PM25: 85%, Diesel_Particulate: 82%"
+Rowan County,333,35.683152,-80.55073417,"Ranks highly in: Agricultural_Loss_Rate: 89%, Asthma: 82%, PM25: 81%"
+Cambria County,334,40.484344,-78.73345842,"Ranks highly in: PM25: 89%, Asthma: 87%, Household_Income: 81%"
+Carter County,335,45.5665675,-104.511632,"Ranks highly in: Agricultural_Loss_Rate: 89%, Asthma: 86%, Building_Loss_Rate: 85%"
+Rock Island County,336,41.554692,-90.30368416,"Ranks highly in: Traffic_Proximity: 84%, PM25: 83%, Diesel_Particulate: 83%"
+Minnehaha County,337,43.6742855,-96.79145489,"Ranks highly in: Building_Loss_Rate: 87%, Diesel_Particulate: 85%, Traffic_Proximity: 84%"
+Baldwin County,338,30.7326985,-87.76263308,"Ranks highly in: Building_Loss_Rate: 83%, Agricultural_Loss_Rate: 86%, PM25: 84%"
+Thurston County,339,46.978106,-122.8984321,"Ranks highly in: Asthma: 87%, Diesel_Particulate: 86%, Traffic_Proximity: 83%"
+Alamance County,340,36.046583,-79.40057415,"Ranks highly in: Agricultural_Loss_Rate: 87%, Building_Loss_Rate: 84%, Asthma: 81%"
+Florence County,341,45.86728,-88.37550754,"Ranks highly in: Agricultural_Loss_Rate: 86%, Building_Loss_Rate: 86%, Asthma: 82%"
+Chesapeake city,342,36.706911,-76.27621243,"Ranks highly in: Traffic_Proximity: 85%, Asthma: 84%, Diesel_Particulate: 83%"
+Midland County,343,31.8689005,-102.0316772,"Ranks highly in: Building_Loss_Rate: 86%, Traffic_Proximity: 84%, Household_Income: 81%"
+Doña Ana County,344,32.4178805,-106.8378155,"Ranks highly in: Agricultural_Loss_Rate: 88%, Diesel_Particulate: 84%, Asthma: 83%"
+Yuma County,345,32.7522435,-113.9363727,"Ranks highly in: Asthma: 88%, PM25: 85%, Household_Income: 85%"
+Alexandria city,346,38.815116,-77.09027118,"Ranks highly in: Diesel_Particulate: 89%, Traffic_Proximity: 88%, PM25: 84%"
+Black Hawk County,347,42.4697865,-92.31790146,"Ranks highly in: Building_Loss_Rate: 84%, Traffic_Proximity: 83%, Household_Income: 82%"
+Etowah County,348,34.021117,-86.04329531,"Ranks highly in: PM25: 85%, Building_Loss_Rate: 82%, Diesel_Particulate: 80%"
+Schuylkill County,349,40.7226755,-76.15452829,"Ranks highly in: Asthma: 86%, PM25: 86%, Household_Income: 84%"
+Santa Fe County,350,35.522577,-105.9832509,"Ranks highly in: Agricultural_Loss_Rate: 88%, Building_Loss_Rate: 85%, Traffic_Proximity: 85%"
+Grayson County,351,36.682218,-81.23660632,"Ranks highly in: PM25: 84%, Building_Loss_Rate: 83%, Household_Income: 83%"
+Hernando County,352,28.5640755,-82.45471017,"Ranks highly in: Building_Loss_Rate: 85%, Household_Income: 84%, PM25: 82%"
+Kitsap County,353,47.6879445,-122.6075333,"Ranks highly in: Asthma: 87%, Diesel_Particulate: 87%, Traffic_Proximity: 84%"
+Daviess County,354,37.7456405,-87.06911016,"Ranks highly in: PM25: 83%, Building_Loss_Rate: 82%, Agricultural_Loss_Rate: 81%"
+Schenectady County,355,42.832773,-74.04446463,"Ranks highly in: Traffic_Proximity: 86%, Asthma: 86%, Household_Income: 83%"
+Dougherty County,356,31.5431065,-84.22194209,"Ranks highly in: PM25: 85%, Building_Loss_Rate: 82%, Asthma: 82%"
+Comanche County,357,34.6309915,-98.48403008,"Ranks highly in: Building_Loss_Rate: 86%, Asthma: 85%, Household_Income: 80%"
+White County,358,35.277367,-91.76264159,"Ranks highly in: Agricultural_Loss_Rate: 86%, Building_Loss_Rate: 83%, PM25: 83%"
+Rapides Parish,359,31.2032965,-92.53120699,"Ranks highly in: PM25: 83%, Agricultural_Loss_Rate: 82%, Building_Loss_Rate: 81%"
+Elkhart County,360,41.5977665,-85.85849647,"Ranks highly in: Asthma: 83%, Agricultural_Loss_Rate: 83%, Diesel_Particulate: 82%"
+Pottawattamie County,361,41.333039,-95.55081643,"Ranks highly in: Diesel_Particulate: 84%, Building_Loss_Rate: 83%, PM25: 81%"
+Blount County,362,35.6740455,-83.90836087,"Ranks highly in: Agricultural_Loss_Rate: 85%, PM25: 83%, Building_Loss_Rate: 80%"
+Licking County,363,40.094839,-82.47771298,"Ranks highly in: PM25: 83%, Asthma: 82%, Traffic_Proximity: 81%"
+Coffee County,364,31.5895095,-82.84366481,"Ranks highly in: Agricultural_Loss_Rate: 89%, PM25: 83%, Asthma: 81%"
+Lebanon County,365,40.375324,-76.44313325,"Ranks highly in: PM25: 87%, Diesel_Particulate: 82%, Asthma: 81%"
+Pitt County,366,35.580409,-77.36790186,"Ranks highly in: Agricultural_Loss_Rate: 86%, Building_Loss_Rate: 83%, Asthma: 82%"
+Dodge County,367,43.412961,-88.70309359,"Ranks highly in: Agricultural_Loss_Rate: 85%, Building_Loss_Rate: 83%, Household_Income: 83%"
+Wichita County,368,34.022299,-98.68832893,"Ranks highly in: Agricultural_Loss_Rate: 84%, Building_Loss_Rate: 83%, Traffic_Proximity: 82%"
+Somerset County,369,45.5756385,-70.12594116,"Ranks highly in: Agricultural_Loss_Rate: 96%, Building_Loss_Rate: 94%, Diesel_Particulate: 91%"
+El Dorado County,370,38.785011,-120.5256071,"Ranks highly in: Agricultural_Loss_Rate: 91%, Building_Loss_Rate: 84%, Traffic_Proximity: 81%"
+Charlotte County,371,26.9040045,-81.98812743,"Ranks highly in: Building_Loss_Rate: 88%, Diesel_Particulate: 81%, Household_Income: 80%"
+Catawba County,372,35.688332,-81.20429969,"Ranks highly in: Agricultural_Loss_Rate: 87%, PM25: 82%, Building_Loss_Rate: 81%"
+Robeson County,373,34.626467,-79.14290269,"Ranks highly in: Agricultural_Loss_Rate: 87%, Asthma: 85%, Household_Income: 84%"
+Caldwell County,374,29.851862,-97.62644111,"Ranks highly in: Agricultural_Loss_Rate: 87%, Building_Loss_Rate: 82%, Household_Income: 80%"
+Pickens County,375,33.2664195,-88.07266499,"Ranks highly in: Agricultural_Loss_Rate: 85%, PM25: 83%, Household_Income: 82%"
+Jones County,376,43.9383555,-100.7155465,"Ranks highly in: Agricultural_Loss_Rate: 88%, Building_Loss_Rate: 85%, PM25: 82%"
+Penobscot County,377,45.5199665,-68.43248363,"Ranks highly in: Agricultural_Loss_Rate: 92%, Asthma: 89%, Household_Income: 83%"
+Steuben County,378,42.2908805,-77.41840223,"Ranks highly in: Asthma: 86%, Agricultural_Loss_Rate: 85%, Household_Income: 84%"
+Kenosha County,379,42.574402,-87.66848838,"Ranks highly in: Traffic_Proximity: 84%, Diesel_Particulate: 84%, Asthma: 82%"
+Vigo County,380,39.4335915,-87.38545597,"Ranks highly in: PM25: 82%, Diesel_Particulate: 82%, Traffic_Proximity: 81%"
+Beaufort County,381,35.4774175,-76.87835976,"Ranks highly in: Agricultural_Loss_Rate: 91%, Building_Loss_Rate: 84%, PM25: 80%"
+Canyon County,382,43.5852365,-116.6525265,"Ranks highly in: PM25: 86%, Asthma: 83%, Diesel_Particulate: 82%"
+Liberty County,383,48.565781,-111.0158073,"Ranks highly in: Agricultural_Loss_Rate: 82%, PM25: 81%, Building_Loss_Rate: 81%"
+Muskegon County,384,43.2958165,-86.58696698,"Ranks highly in: Asthma: 88%, Traffic_Proximity: 82%, Household_Income: 81%"
+Okaloosa County,385,30.660487,-86.59221373,"Ranks highly in: Building_Loss_Rate: 83%, Traffic_Proximity: 83%, Diesel_Particulate: 81%"
+Cabell County,386,38.4134075,-82.27557557,"Ranks highly in: Asthma: 83%, Traffic_Proximity: 82%, Diesel_Particulate: 81%"
+Laurens County,387,34.494007,-81.98594214,"Ranks highly in: Agricultural_Loss_Rate: 84%, PM25: 82%, Household_Income: 82%"
+Chautauqua County,388,42.3403695,-79.41151358,"Ranks highly in: Household_Income: 85%, Asthma: 85%, Traffic_Proximity: 78%"
+St. Johns County,389,29.9377405,-81.4161138,"Ranks highly in: Building_Loss_Rate: 87%, Diesel_Particulate: 83%, Traffic_Proximity: 81%"
+Mason County,390,43.996527,-86.54503765,"Ranks highly in: Asthma: 85%, Household_Income: 84%, Agricultural_Loss_Rate: 83%"
+Anderson County,391,34.5143265,-82.65856317,"Ranks highly in: Agricultural_Loss_Rate: 93%, PM25: 90%, Asthma: 89%"
+Hampton city,392,37.022859,-76.30422269,"Ranks highly in: Traffic_Proximity: 83%, Asthma: 83%, Diesel_Particulate: 82%"
+Faulkner County,393,35.1053335,-92.33318941,"Ranks highly in: PM25: 84%, Agricultural_Loss_Rate: 81%, Building_Loss_Rate: 79%"
+Aiken County,394,33.5363985,-81.66298582,"Ranks highly in: PM25: 85%, Agricultural_Loss_Rate: 83%, Asthma: 80%"
+Saratoga County,395,43.086674,-73.84566478,"Ranks highly in: Asthma: 85%, Traffic_Proximity: 82%, Diesel_Particulate: 81%"
+Dorchester County,396,38.3814755,-76.0986005,"Ranks highly in: Agricultural_Loss_Rate: 83%, Asthma: 80%, Household_Income: 80%"
+Sebastian County,397,35.191119,-94.23423231,"Ranks highly in: PM25: 84%, Diesel_Particulate: 79%, Agricultural_Loss_Rate: 79%"
+Harnett County,398,35.387627,-78.83900023,"Ranks highly in: Agricultural_Loss_Rate: 86%, Building_Loss_Rate: 82%, PM25: 79%"
+Johnston County,399,35.5370355,-78.38773042,"Ranks highly in: Agricultural_Loss_Rate: 87%, Building_Loss_Rate: 82%, Household_Income: 81%"
+Rogers County,400,36.3364,-95.62386,"Ranks highly in: PM25: 85%, Agricultural_Loss_Rate: 83%, Building_Loss_Rate: 82%"
+Outagamie County,401,44.416393,-88.46364252,"Ranks highly in: Household_Income: 81%, Diesel_Particulate: 80%, Traffic_Proximity: 85%"
+Portsmouth city,402,36.868929,-76.37471713,"Ranks highly in: Traffic_Proximity: 84%, Asthma: 84%, Diesel_Particulate: 82%"
+Blair County,403,40.492555,-78.34841287,"Ranks highly in: Asthma: 85%, PM25: 84%, Traffic_Proximity: 81%"
+Hampshire County,404,42.3695995,-72.71405942,"Ranks highly in: Agricultural_Loss_Rate: 90%, Asthma: 86%, Traffic_Proximity: 82%"
+Rankin County,405,32.3203505,-89.94147985,"Ranks highly in: PM25: 84%, Agricultural_Loss_Rate: 83%, Building_Loss_Rate: 83%"
+Humboldt County,406,41.2646085,-118.1618153,"Ranks highly in: Household_Income: 86%, Asthma: 83%, Building_Loss_Rate: 82%"
+Rensselaer County,407,42.711288,-73.4903618,"Ranks highly in: Asthma: 84%, Household_Income: 82%, Traffic_Proximity: 82%"
+San Juan County,408,36.5001935,-108.3355044,"Ranks highly in: Agricultural_Loss_Rate: 90%, Asthma: 84%, Household_Income: 83%"
+Hays County,409,30.0546875,-98.02152964,"Ranks highly in: Agricultural_Loss_Rate: 83%, PM25: 82%, Building_Loss_Rate: 81%"
+Allegany County,410,42.2590545,-78.02357078,"Ranks highly in: Asthma: 82%, Household_Income: 81%, Building_Loss_Rate: 80%"
+Guadalupe County,411,34.782945,-104.7100975,"Ranks highly in: PM25: 84%, Agricultural_Loss_Rate: 81%, Building_Loss_Rate: 81%"
+Canadian County,412,35.524946,-97.98883713,"Ranks highly in: Building_Loss_Rate: 83%, Diesel_Particulate: 79%, PM25: 79%"
+Porter County,413,41.4900445,-87.0747578,"Ranks highly in: Diesel_Particulate: 82%, PM25: 80%, Building_Loss_Rate: 77%"
+Windham County,414,42.9943145,-72.73436762,"Ranks highly in: Asthma: 87%, Agricultural_Loss_Rate: 85%, Household_Income: 84%"
+Mohave County,415,35.605563,-113.9941571,"Ranks highly in: Asthma: 87%, Household_Income: 81%, Building_Loss_Rate: 79%"
+Olmsted County,416,44.014842,-92.37838063,"Ranks highly in: Building_Loss_Rate: 81%, Agricultural_Loss_Rate: 81%, Traffic_Proximity: 80%"
+Ohio County,417,37.4750585,-86.87445229,"Ranks highly in: Diesel_Particulate: 80%, PM25: 80%, Asthma: 80%"
+Indian River County,418,27.7096405,-80.59411566,"Ranks highly in: Building_Loss_Rate: 85%, Agricultural_Loss_Rate: 81%, Diesel_Particulate: 80%"
+Madera County,419,37.2705615,-119.6356453,"Ranks highly in: PM25: 83%, Agricultural_Loss_Rate: 82%, Building_Loss_Rate: 76%"
+Suffolk city,420,36.746143,-76.61123477,"Ranks highly in: Agricultural_Loss_Rate: 84%, Asthma: 78%, Building_Loss_Rate: 78%"
+Carteret County,421,34.874055,-76.44464141,"Ranks highly in: Building_Loss_Rate: 87%, Agricultural_Loss_Rate: 81%, Traffic_Proximity: 78%"
+Gregg County,422,32.5134005,-94.84441889,"Ranks highly in: PM25: 83%, Building_Loss_Rate: 78%, Traffic_Proximity: 77%"
+Kankakee County,423,41.146714,-87.88440899,"Ranks highly in: PM25: 80%, Diesel_Particulate: 80%, Traffic_Proximity: 78%"
+Lycoming County,424,41.3330105,-77.05534594,"Ranks highly in: Asthma: 81%, Traffic_Proximity: 80%, PM25: 79%"
+Platte County,425,42.131462,-104.9676352,"Ranks highly in: Diesel_Particulate: 81%, Building_Loss_Rate: 80%, Agricultural_Loss_Rate: 80%"
+Webster County,426,33.599734,-89.26254842,"Ranks highly in: Agricultural_Loss_Rate: 87%, Building_Loss_Rate: 85%, Household_Income: 82%"
+Walton County,427,30.6037395,-86.15148881,"Ranks highly in: Agricultural_Loss_Rate: 84%, PM25: 81%, Building_Loss_Rate: 79%"
+LaPorte County,428,41.4992735,-86.72734398,"Ranks highly in: Diesel_Particulate: 81%, Asthma: 80%, Traffic_Proximity: 80%"
+Brunswick County,429,34.062326,-78.24417534,"Ranks highly in: Agricultural_Loss_Rate: 88%, Building_Loss_Rate: 85%, Household_Income: 78%"
+Onslow County,430,34.691818,-77.38602705,"Ranks highly in: Agricultural_Loss_Rate: 86%, Building_Loss_Rate: 83%, Asthma: 76%"
+Wagoner County,431,35.9636915,-95.52018376,"Ranks highly in: Agricultural_Loss_Rate: 83%, PM25: 83%, Building_Loss_Rate: 78%"
+Russell County,432,38.915129,-98.76226191,"Ranks highly in: Agricultural_Loss_Rate: 82%, PM25: 81%, Household_Income: 80%"
+Merrimack County,433,43.312002,-71.68514497,"Ranks highly in: Agricultural_Loss_Rate: 85%, Asthma: 83%, Traffic_Proximity: 80%"
+Bradley County,434,33.4340695,-92.16674515,"Ranks highly in: PM25: 80%, Diesel_Particulate: 79%, Asthma: 77%"
+Talladega County,435,33.4000955,-86.14672104,"Ranks highly in: PM25: 82%, Asthma: 77%, Agricultural_Loss_Rate: 77%"
+Randall County,436,34.963986,-101.8967147,"Ranks highly in: Building_Loss_Rate: 84%, Diesel_Particulate: 82%, Traffic_Proximity: 80%"
+LaSalle County,437,41.2785495,-88.87597844,"Ranks highly in: PM25: 80%, Household_Income: 78%, Diesel_Particulate: 78%"
+Cochise County,438,31.880344,-109.7497039,"Ranks highly in: Agricultural_Loss_Rate: 85%, Asthma: 83%, Household_Income: 82%"
+Lafourche Parish,439,29.4587705,-90.2629008,"Ranks highly in: Agricultural_Loss_Rate: 81%, Building_Loss_Rate: 81%, Diesel_Particulate: 76%"
+Berkshire County,440,42.391852,-73.20203288,"Ranks highly in: Asthma: 84%, Traffic_Proximity: 82%, Household_Income: 77%"
+Spotsylvania County,441,38.1859475,-77.65495699,"Ranks highly in: Agricultural_Loss_Rate: 82%, Diesel_Particulate: 81%, Household_Income: 79%"
+Vermilion County,442,40.1791705,-87.73619135,"Ranks highly in: PM25: 79%, Agricultural_Loss_Rate: 77%, Building_Loss_Rate: 77%"
+Bedford County,443,37.312057,-79.56553417,"Ranks highly in: Agricultural_Loss_Rate: 86%, Asthma: 81%, Household_Income: 78%"
+Yellowstone County,444,45.9778405,-108.3600661,"Ranks highly in: Traffic_Proximity: 81%, Asthma: 80%, Diesel_Particulate: 77%"
+Northumberland County,445,37.8522985,-76.37165071,"Ranks highly in: PM25: 81%, Asthma: 81%, Household_Income: 80%"
+Terrebonne Parish,446,29.3822185,-90.81578347,"Ranks highly in: Agricultural_Loss_Rate: 81%, Building_Loss_Rate: 79%, Diesel_Particulate: 76%"
+Bossier Parish,447,32.6277585,-93.59863967,"Ranks highly in: PM25: 83%, Diesel_Particulate: 78%, Traffic_Proximity: 76%"
+Highlands County,448,27.3394545,-81.30486491,"Ranks highly in: Agricultural_Loss_Rate: 85%, Building_Loss_Rate: 83%, Household_Income: 79%"
+Lamar County,449,33.660689,-95.58316294,"Ranks highly in: PM25: 81%, Building_Loss_Rate: 81%, Agricultural_Loss_Rate: 80%"
+Androscoggin County,450,44.196502,-70.20310667,"Ranks highly in: Agricultural_Loss_Rate: 83%, Asthma: 81%, Traffic_Proximity: 78%"
+Charles County,451,38.438241,-77.069274,"Ranks highly in: Diesel_Particulate: 81%, Asthma: 78%, PM25: 77%"
+Sevier County,452,38.774539,-111.7636901,"Ranks highly in: Agricultural_Loss_Rate: 81%, PM25: 77%, Asthma: 76%"
+Columbiana County,453,40.755175,-80.803096,"Ranks highly in: PM25: 82%, Asthma: 78%, Household_Income: 77%"
+Comal County,454,29.816262,-98.28934082,"Ranks highly in: Agricultural_Loss_Rate: 82%, PM25: 82%, Building_Loss_Rate: 80%"
+Lyon County,455,43.378919,-96.1923166,"Ranks highly in: Agricultural_Loss_Rate: 86%, Building_Loss_Rate: 81%, Household_Income: 78%"
+Imperial County,456,33.0261775,-115.3571376,"Ranks highly in: PM25: 84%, Traffic_Proximity: 80%, Household_Income: 76%"
+Burke County,457,48.7725935,-102.546021,"Ranks highly in: Agricultural_Loss_Rate: 85%, Building_Loss_Rate: 79%, PM25: 77%"
+Tangipahoa Parish,458,30.612476,-90.40724005,"Ranks highly in: Building_Loss_Rate: 79%, Diesel_Particulate: 78%, Agricultural_Loss_Rate: 76%"
+Citrus County,459,28.8593595,-82.51544338,"Ranks highly in: Building_Loss_Rate: 81%, Household_Income: 80%, PM25: 75%"
+Halifax County,460,36.2574045,-77.68422198,"Ranks highly in: Agricultural_Loss_Rate: 81%, Household_Income: 79%, Asthma: 78%"
+Centre County,461,40.9721315,-77.80600409,"Ranks highly in: PM25: 81%, Asthma: 80%, Traffic_Proximity: 79%"
+Ector County,462,31.8707455,-102.5429092,"Ranks highly in: Building_Loss_Rate: 81%, Traffic_Proximity: 79%, Diesel_Particulate: 75%"
+Kootenai County,463,47.67867,-116.6828601,"Ranks highly in: PM25: 86%, Asthma: 77%, Diesel_Particulate: 77%"
+Ashtabula County,464,41.9138205,-80.76455802,"Ranks highly in: Asthma: 81%, PM25: 78%, Household_Income: 78%"
+Crittenden County,465,37.336466,-88.08550176,"Ranks highly in: PM25: 80%, Asthma: 80%, Diesel_Particulate: 79%"
+Paulding County,466,41.1213645,-84.57267652,"Ranks highly in: PM25: 82%, Agricultural_Loss_Rate: 80%, Diesel_Particulate: 77%"
+Limestone County,467,34.77491,-87.03222785,"Ranks highly in: PM25: 80%, Agricultural_Loss_Rate: 79%, Household_Income: 78%"
+Stearns County,468,45.5284405,-94.64084615,"Ranks highly in: Agricultural_Loss_Rate: 81%, Building_Loss_Rate: 79%, Traffic_Proximity: 76%"
+Stafford County,469,38.0429355,-98.69276595,"Ranks highly in: Diesel_Particulate: 82%, Agricultural_Loss_Rate: 80%, Building_Loss_Rate: 75%"
+Hopkins County,470,33.170397,-95.58517203,"Ranks highly in: PM25: 79%, Building_Loss_Rate: 76%, Agricultural_Loss_Rate: 76%"
+Victoria County,471,28.7950145,-96.93676431,"Ranks highly in: Building_Loss_Rate: 80%, PM25: 80%, Traffic_Proximity: 76%"
+St. Landry Parish,472,30.574673,-91.98283602,"Ranks highly in: Building_Loss_Rate: 78%, Agricultural_Loss_Rate: 78%, PM25: 75%"
+Garfield County,473,37.8445095,-111.4993501,"Ranks highly in: Agricultural_Loss_Rate: 79%, Building_Loss_Rate: 78%, Traffic_Proximity: 75%"
+Lafayette County,474,39.1006465,-93.79711492,"Ranks highly in: Agricultural_Loss_Rate: 78%, Building_Loss_Rate: 77%, Asthma: 75%"
+Kennebec County,475,44.4146515,-69.78968702,"Ranks highly in: Agricultural_Loss_Rate: 89%, Asthma: 83%, Household_Income: 76%"
+Strafford County,476,43.3267025,-71.05816943,"Ranks highly in: Agricultural_Loss_Rate: 81%, Asthma: 79%, Traffic_Proximity: 79%"
+Eaton County,477,42.5942685,-84.83873082,"Ranks highly in: Asthma: 80%, Building_Loss_Rate: 76%, Traffic_Proximity: 75%"
+Wise County,478,33.2120955,-97.65547876,"Ranks highly in: Building_Loss_Rate: 77%, Household_Income: 77%, Agricultural_Loss_Rate: 77%"
+Hendricks County,479,39.762486,-86.50681406,"Ranks highly in: Diesel_Particulate: 80%, PM25: 80%, Agricultural_Loss_Rate: 78%"
+La Crosse County,480,43.9076135,-91.12758616,"Ranks highly in: Traffic_Proximity: 81%, Diesel_Particulate: 77%, Building_Loss_Rate: 76%"
+Indiana County,481,40.6397635,-79.09445402,"Ranks highly in: PM25: 83%, Asthma: 78%, Household_Income: 77%"
+Garland County,482,34.58084,-93.10608646,"Ranks highly in: PM25: 80%, Building_Loss_Rate: 76%, Traffic_Proximity: 74%"
+Navajo County,483,35.287628,-110.2972394,"Ranks highly in: Agricultural_Loss_Rate: 85%, Asthma: 84%, Household_Income: 84%"
+Cache County,484,41.6840735,-111.7316855,"Ranks highly in: Agricultural_Loss_Rate: 78%, PM25: 77%, Diesel_Particulate: 76%"
+Pennington County,485,44.0964515,-103.0310545,"Ranks highly in: Building_Loss_Rate: 80%, Traffic_Proximity: 78%, Household_Income: 76%"
+Dubuque County,486,42.484866,-90.89526476,"Ranks highly in: Building_Loss_Rate: 79%, Traffic_Proximity: 77%, Diesel_Particulate: 75%"
+Woodbury County,487,42.3866865,-96.04076975,"Ranks highly in: Building_Loss_Rate: 80%, Traffic_Proximity: 78%, Diesel_Particulate: 74%"
+Decatur County,488,39.784752,-100.4602989,"Ranks highly in: Agricultural_Loss_Rate: 79%, Building_Loss_Rate: 79%, PM25: 76%"
+Chittenden County,489,44.4419475,-73.05285542,"Ranks highly in: Traffic_Proximity: 82%, Asthma: 80%, Household_Income: 76%"
+Miller County,490,38.22374,-92.44627993,"Ranks highly in: PM25: 80%, Building_Loss_Rate: 78%, Asthma: 73%"
+Ottawa County,491,42.9852855,-86.43749151,"Ranks highly in: Asthma: 92%, Agricultural_Loss_Rate: 91%, Building_Loss_Rate: 89%"
+Forrest County,492,31.17212,-89.24712646,"Ranks highly in: PM25: 77%, Building_Loss_Rate: 76%, Diesel_Particulate: 73%"
+Fremont County,493,43.1353055,-108.5703132,"Ranks highly in: Agricultural_Loss_Rate: 84%, Building_Loss_Rate: 79%, Household_Income: 78%"
+McCracken County,494,37.085728,-88.72382622,"Ranks highly in: PM25: 79%, Diesel_Particulate: 75%, Traffic_Proximity: 73%"
+Lenawee County,495,41.896035,-84.0657732,"Ranks highly in: Asthma: 79%, Building_Loss_Rate: 73%, PM25: 72%"
+Bowie County,496,33.4764875,-94.39487022,"Ranks highly in: PM25: 80%, Building_Loss_Rate: 76%, Diesel_Particulate: 73%"
+Monongalia County,497,39.5785545,-79.96979844,"Ranks highly in: Asthma: 79%, Traffic_Proximity: 78%, Diesel_Particulate: 76%"
+St. Bernard Parish,498,29.9151025,-89.33953941,"Ranks highly in: Diesel_Particulate: 81%, Building_Loss_Rate: 77%, Traffic_Proximity: 75%"
+Carbon County,499,41.718888,-106.7914265,"Ranks highly in: Agricultural_Loss_Rate: 78%, Asthma: 78%, Household_Income: 78%"
+Sutter County,500,39.019944,-121.7078778,"Ranks highly in: Agricultural_Loss_Rate: 81%, PM25: 79%, Traffic_Proximity: 76%"
+Adair County,501,40.1912535,-92.60093162,"Ranks highly in: Agricultural_Loss_Rate: 79%, Household_Income: 78%, Building_Loss_Rate: 77%"

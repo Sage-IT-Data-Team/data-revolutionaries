@@ -1,501 +1,501 @@
-city,rank,lat,lon
-Chicago,1,41.8373,-87.6862
-Houston,2,29.7863,-95.3889
-Detroit,3,42.3834,-83.1024
-Louisville,4,38.1663,-85.6485
-Phoenix,5,33.5722,-112.0891
-Brooklyn,6,40.6501,-73.9496
-Dayton,7,39.7797,-84.1998
-Dallas,8,32.7936,-96.7662
-Queens,9,40.7498,-73.7976
-Las Vegas,10,36.2333,-115.2654
-San Diego,11,32.8312,-117.1225
-Miami,12,25.7839,-80.2102
-Columbus,13,39.9862,-82.985
-Cleveland,14,41.4767,-81.6804
-Fayetteville,15,36.0713,-94.166
-Indianapolis,16,39.7771,-86.1458
-Philadelphia,17,40.0077,-75.1339
-Riverside,18,33.9381,-117.3948
-Cincinnati,19,39.1413,-84.5061
-Kansas City,20,39.1239,-94.5541
-Pittsburgh,21,40.4396,-79.9762
-Boston,22,42.3188,-71.0846
-Victorville,23,34.5277,-117.3536
-Round Lake Beach,24,42.379,-88.0811
-Fort Worth,25,32.7811,-97.3473
-Bronx,26,40.8501,-73.8662
-Tampa,27,27.9942,-82.4451
-San Antonio,28,29.4658,-98.5253
-Oakland,29,37.7903,-122.2165
-Memphis,30,35.1046,-89.9773
-Orlando,31,28.4772,-81.3369
-Sacramento,32,38.5667,-121.4683
-Seattle,33,47.6211,-122.3244
-Omaha,34,41.2627,-96.0522
-Fort Lauderdale,35,26.1412,-80.1464
-South Lyon,36,42.4614,-83.6526
-Rochester,37,43.168,-77.6162
-Des Moines,38,41.5725,-93.6105
-West Palm Beach,39,26.7468,-80.1316
-Milwaukee,40,43.0642,-87.9673
-Cambridge,41,42.3759,-71.1185
-New York,42,40.6943,-73.9249
-San Jose,43,37.3019,-121.8486
-Buffalo,44,42.9016,-78.8487
-Oklahoma City,45,35.4676,-97.5136
-St. Louis,46,38.6358,-90.2451
-Atlanta,47,33.7627,-84.4224
-Minneapolis,48,44.9635,-93.2678
-Huntsville,49,34.6988,-86.6412
-El Paso,50,31.8479,-106.4309
-Warren,51,42.4934,-83.027
-Cape Coral,52,26.6446,-81.9956
-Muncie,53,40.1989,-85.395
-Charlotte,54,35.208,-80.8304
-Bowie,55,38.9569,-76.7409
-Nashville,56,36.1715,-86.7843
-Austin,57,30.3004,-97.7522
-Fresno,58,36.7831,-119.7941
-Concord,59,37.9722,-122.0016
-DeKalb,60,41.9313,-88.7482
-Baltimore,61,39.3051,-76.6144
-St. Petersburg,62,27.7931,-82.6652
-Levittown,63,40.7241,-73.5125
-Salt Lake City,64,40.7777,-111.9306
-Naperville,65,41.7483,-88.1657
-Lexington,66,38.0423,-84.4587
-Centreville,67,38.8391,-77.4388
-Overland Park,68,38.887,-94.687
-Tulsa,69,36.1284,-95.9042
-Hartford,70,41.7661,-72.6834
-Aurora,71,39.7087,-104.7273
-Lancaster,72,40.0421,-76.3012
-Tucson,73,32.1545,-110.8782
-Fayetteville,74,35.0846,-78.9776
-Grand Rapids,75,42.962,-85.6562
-San Francisco,76,37.7562,-122.443
-Richmond,77,37.5295,-77.4756
-Raleigh,78,35.8325,-78.6435
-York,79,39.9651,-76.7315
-Yonkers,80,40.9466,-73.8674
-Bridgeport,81,41.1918,-73.1953
-Portland,82,45.5372,-122.65
-Middletown,83,39.5032,-84.366
-Knoxville,84,35.9692,-83.9496
-New Haven,85,41.3112,-72.9246
-Oxnard,86,34.1963,-119.1815
-Tacoma,87,47.2431,-122.4531
-Denver,88,39.7621,-104.8759
-Akron,89,41.0798,-81.5219
-Jacksonville,90,30.3322,-81.6749
-Joliet,91,41.5189,-88.1499
-Centennial,92,39.5926,-104.8674
-Plano,93,33.0502,-96.7487
-Stockton,94,37.9765,-121.3109
-Newark,95,40.7245,-74.1725
-Levittown,96,40.1537,-74.853
-Little Rock,97,34.7256,-92.3576
-Worcester,98,42.2705,-71.8079
-Bakersfield,99,35.3529,-119.0359
-Columbia,100,34.0376,-80.9037
-Denton,101,33.2176,-97.1419
-Bowling Green,102,36.9719,-86.4373
-Toledo,103,41.6639,-83.5822
-Springfield,104,37.1943,-93.2916
-Providence,105,41.823,-71.4187
-Mobile,106,30.6783,-88.1162
-Fort Wayne,107,41.0886,-85.1437
-St. Paul,108,44.9477,-93.104
-West Chester,109,39.9601,-75.6058
-Port Huron,110,42.9822,-82.4387
-Winston-Salem,111,36.1029,-80.2611
-Wilmington,112,39.7415,-75.5413
-Flint,113,43.0235,-83.6922
-Wichita,114,37.6896,-97.3442
-Daly City,115,37.6862,-122.4685
-Moorhead,116,46.8673,-96.7461
-Kennewick,117,46.1978,-119.1732
-McAllen,118,26.2273,-98.2471
-New Bedford,119,41.6697,-70.9428
-Round Rock,120,30.5254,-97.666
-Zephyrhills,121,28.2408,-82.1796
-Marysville,122,48.0809,-122.1561
-Peachtree Corners,123,33.967,-84.2319
-Marietta,124,33.9533,-84.5422
-Greensboro,125,36.0956,-79.8269
-Syracuse,126,43.0409,-76.1438
-Albuquerque,127,35.1053,-106.6464
-Ruston,128,32.5329,-92.6363
-Rockford,129,42.2597,-89.0641
-Reading,130,40.34,-75.9267
-Davenport,131,41.5563,-90.6052
-Spokane,132,47.6671,-117.433
-Elizabeth,133,40.6657,-74.1912
-Deltona,134,28.905,-81.2137
-Santa Rosa,135,38.4458,-122.7067
-Modesto,136,37.6374,-121.0028
-Provo,137,40.2457,-111.6457
-Gulfport,138,30.4271,-89.0703
-Greenville,139,34.8353,-82.3647
-Stockbridge,140,33.5253,-84.2294
-New Castle,141,40.9956,-80.3459
-Sanford,142,28.7893,-81.276
-Canton,143,40.8075,-81.3677
-Reno,144,39.5497,-119.8483
-Springfield,145,42.1155,-72.5395
-Vallejo,146,38.1133,-122.2358
-Hazleton,147,40.9504,-75.9724
-Madison,148,43.0826,-89.3931
-Palm Bay,149,27.955,-80.6627
-Fargo,150,46.8652,-96.8292
-Monessen,151,40.1519,-79.8828
-Ann Arbor,152,42.2755,-83.7312
-Brownsville,153,25.998,-97.4565
-Allentown,154,40.5961,-75.4756
-Norfolk,155,36.8945,-76.259
-Glen Burnie,156,39.1559,-76.6072
-Norman,157,35.2335,-97.3471
-Brockton,158,42.0821,-71.0242
-Pensacola,159,30.4427,-87.1886
-Carrollton,160,33.5817,-85.0837
-Sugar Land,161,29.5935,-95.6357
-Columbia,162,38.9478,-92.3256
-Bethlehem,163,40.6266,-75.3679
-Van Buren,164,35.448,-94.3528
-Green Bay,165,44.515,-87.9896
-Decatur,166,34.573,-86.9906
-Lakeville,167,44.6774,-93.252
-Jackson,168,32.3163,-90.2124
-Battle Creek,169,42.2986,-85.2296
-O'Fallon,170,38.785,-90.7175
-Savannah,171,32.0281,-81.1784
-Columbia,172,39.2004,-76.859
-Woodstock,173,34.1026,-84.509
-Clinton,174,41.8434,-90.2408
-Albertville,175,34.2634,-86.2107
-Aurora,176,41.7637,-88.2901
-Bloomsburg,177,41.0027,-76.4561
-Portsmouth,178,43.058,-70.7826
-Corpus Christi,179,27.726,-97.3755
-South Bend,180,41.6767,-86.2696
-Eugene,181,44.0563,-123.1173
-Harrisburg,182,40.2752,-76.8843
-Charleston,183,32.8153,-79.9628
-Tallahassee,184,30.4551,-84.2526
-Kansas City,185,39.1234,-94.7443
-Killeen,186,31.0754,-97.7296
-Visalia,187,36.3276,-119.3269
-Blaine,188,45.1696,-93.2077
-Pontiac,189,40.8881,-88.6414
-Asheboro,190,35.7158,-79.8129
-Lorain,191,41.4409,-82.184
-Youngstown,192,41.0993,-80.6463
-Greeley,193,40.4151,-104.7706
-San Tan Valley,194,33.1879,-111.5472
-Lubbock,195,33.5659,-101.8878
-Gastonia,196,35.2494,-81.1853
-Chester,197,37.3531,-77.4342
-Forest Park,198,33.6209,-84.359
-Frederick,199,39.4336,-77.4141
-Decatur,200,39.8556,-88.9337
-Spartanburg,201,34.9437,-81.9257
-Texas City,202,29.4128,-94.9658
-Marion,203,40.5496,-85.66
-Parkersburg,204,39.2624,-81.542
-Albany,205,42.6664,-73.7987
-Lake Oswego,206,45.413,-122.7003
-Cookeville,207,36.1484,-85.5114
-Bradenton,208,27.49,-82.5739
-Dale City,209,38.6473,-77.3459
-Cedar Rapids,210,41.9665,-91.6782
-Roseville,211,38.7703,-121.3196
-Troy,212,31.8021,-85.9665
-Myrtle Beach,213,33.7096,-78.8843
-Lexington,214,33.989,-81.2202
-Sarasota,215,27.3386,-82.5431
-Waukesha,216,43.0087,-88.2464
-Fort Collins,217,40.5478,-105.0656
-Lansing,218,42.7142,-84.5601
-Durham,219,35.9794,-78.9031
-Kingsport,220,36.5224,-82.5453
-Panama City,221,30.1995,-85.6004
-Rome,222,34.2661,-85.1862
-Springfield,223,39.771,-89.6538
-Chico,224,39.7575,-121.8152
-Poughkeepsie,225,41.6949,-73.921
-Macon,226,32.8065,-83.6974
-Trenton,227,40.2236,-74.7641
-Evansville,228,37.9881,-87.5341
-Tuckahoe,229,37.5878,-77.5858
-Murfreesboro,230,35.8492,-86.4119
-Warner Robins,231,32.597,-83.6529
-Utica,232,43.0961,-75.226
-Wilson,233,35.7312,-77.9284
-Warren,234,41.239,-80.8174
-Henderson,235,37.8397,-87.5798
-Joplin,236,37.0758,-94.5018
-Merced,237,37.3057,-120.4778
-Boulder,238,40.0249,-105.2523
-Economy,239,40.641,-80.184
-Columbus,240,32.51,-84.8771
-Salinas,241,36.6884,-121.6317
-Gillette,242,44.2752,-105.4983
-Gainesville,243,29.6804,-82.3458
-Layton,244,41.0769,-111.9621
-Golden Gate,245,26.1844,-81.7031
-The Villages,246,28.9021,-81.9888
-Tuscaloosa,247,33.2348,-87.5267
-Arlington,248,38.8786,-77.1011
-Scranton,249,41.4044,-75.6649
-Ogden,250,41.2278,-111.9682
-Charleston,251,38.3484,-81.6323
-Boise,252,43.6007,-116.2312
-Peoria,253,40.752,-89.6153
-Kalamazoo,254,42.2749,-85.5882
-New City,255,41.1543,-73.9909
-Athens,256,33.9508,-83.3689
-San Rafael,257,37.9905,-122.5222
-Salina,258,38.8137,-97.6143
-Laredo,259,27.5629,-99.4875
-Champaign,260,40.1144,-88.2735
-Kissimmee,261,28.3042,-81.4164
-Abilene,262,32.4543,-99.7384
-Binghamton,263,42.1014,-75.9093
-Santa Cruz,264,36.9789,-122.0346
-Lincoln,265,40.1508,-89.3721
-Goose Creek,266,32.9925,-80.0054
-Niagara Falls,267,43.0921,-79.0147
-Florence,268,34.8303,-87.6654
-Bel Air South,269,39.5051,-76.3197
-Pearland,270,29.5585,-95.3215
-Elizabethtown,271,37.703,-85.877
-Covington,272,39.0334,-84.5166
-Leesburg,273,39.1058,-77.5544
-Gainesville,274,34.2903,-83.8301
-Asheville,275,35.5704,-82.5536
-Palm City,276,27.1736,-80.2861
-Weirton,277,40.406,-80.5671
-Norwich,278,41.5495,-72.0882
-Yakima,279,46.5923,-120.5496
-Saginaw,280,43.4199,-83.9501
-Hendersonville,281,36.3063,-86.5998
-Waco,282,31.5598,-97.1881
-Pueblo,283,38.2705,-104.6112
-Redding,284,40.5698,-122.365
-Topeka,285,39.0346,-95.6955
-Valdosta,286,30.8502,-83.2788
-Mooresville,287,35.5849,-80.8265
-Southaven,288,34.9514,-89.9787
-El Paso de Robles,289,35.6394,-120.656
-Huntsville,290,30.705,-95.5544
-Stevens Point,291,44.5241,-89.5508
-Crystal Lake,292,42.2333,-88.3351
-Hopkinsville,293,36.8386,-87.4776
-Port St. Lucie,294,27.2796,-80.3883
-Bellevue,295,41.1535,-95.9357
-Pekin,296,40.5679,-89.6262
-Tyler,297,32.3184,-95.3062
-Franklin,298,41.1101,-74.5886
-Benton Harbor,299,42.1159,-86.4488
-Wilmington,300,34.21,-77.8866
-Covington,301,33.6049,-83.8465
-Tell City,302,37.9528,-86.7597
-College Station,303,30.5852,-96.296
-Barnstable,304,41.6722,-70.3599
-Napa,305,38.2976,-122.3011
-Amarillo,306,35.1988,-101.8311
-Kingston,307,41.9295,-73.9968
-Davis,308,38.5552,-121.7365
-Brunswick,309,41.2464,-81.8198
-St. Joseph,310,39.7599,-94.821
-Concord,311,35.3933,-80.6366
-Centralia,312,46.7226,-122.9696
-Racine,313,42.7274,-87.8135
-Withamsville,314,39.0628,-84.2808
-Janesville,315,42.6855,-89.0136
-Torrington,316,41.8349,-73.1281
-Waxahachie,317,32.4032,-96.8444
-Salisbury,318,35.6656,-80.4909
-Johnstown,319,40.3258,-78.9193
-Ardmore,320,34.1944,-97.1253
-Moline,321,41.4821,-90.4921
-Sioux Falls,322,43.5397,-96.732
-Daphne,323,30.6286,-87.8866
-Olympia,324,47.0417,-122.8959
-Burlington,325,36.0758,-79.4686
-Florence,326,34.1781,-79.7877
-Midland,327,32.0249,-102.1137
-Las Cruces,328,32.3265,-106.7892
-Yuma,329,32.5992,-114.5488
-Waterloo,330,42.492,-92.3522
-Gadsden,331,34.009,-86.0156
-Pottsville,332,40.6798,-76.2092
-Santa Fe,333,35.6619,-105.9819
-Sherman,334,33.6274,-96.6218
-Spring Hill,335,28.4797,-82.53
-Bremerton,336,47.5436,-122.7122
-Owensboro,337,37.7574,-87.1173
-Schenectady,338,42.8025,-73.9276
-Albany,339,31.5776,-84.1762
-Lawton,340,34.6176,-98.4203
-Searcy,341,35.2418,-91.7351
-Elkhart,342,41.6916,-85.9628
-Council Bluffs,343,41.2369,-95.8517
-Maryville,344,35.7468,-83.9789
-Newark,345,40.0705,-82.4251
-Enterprise,346,31.3276,-85.8459
-Lebanon,347,40.3412,-76.4227
-Greenville,348,35.5956,-77.3768
-Fremont,349,41.4396,-96.4879
-Wichita Falls,350,33.9072,-98.5291
-Somerset,351,40.5083,-74.501
-El Dorado Hills,352,38.675,-121.049
-Port Charlotte,353,26.9918,-82.114
-Hickory,354,35.7425,-81.323
-Lumberton,355,34.6312,-79.0186
-Lenoir,356,35.9096,-81.5247
-Easley,357,34.819,-82.5828
-Laurel,358,31.6956,-89.1448
-Bangor,359,44.8322,-68.7906
-Corning,360,42.147,-77.0561
-Kenosha,361,42.5864,-87.8765
-Terre Haute,362,39.4654,-87.3763
-Hilton Head Island,363,32.1896,-80.7499
-Nampa,364,43.5845,-116.5631
-Hinesville,365,31.8247,-81.6135
-Muskegon,366,43.2281,-86.2563
-Crestview,367,30.748,-86.5784
-Huntington,368,38.4109,-82.4344
-Dublin,369,32.5359,-82.928
-Jamestown,370,42.0975,-79.2366
-St. Augustine,371,29.8977,-81.31
-Shelton,372,47.2186,-123.112
-Anderson,373,34.5211,-82.6479
-Conway,374,35.0754,-92.4694
-Aiken,375,33.531,-81.7268
-Saratoga Springs,376,43.0674,-73.7775
-Summerville,377,33.0015,-80.1799
-Fort Smith,378,35.3493,-94.3695
-Dunn,379,35.3113,-78.6129
-Smithfield,380,35.5131,-78.3497
-Claremore,381,36.3143,-95.6099
-Appleton,382,44.2779,-88.3891
-Altoona,383,40.5082,-78.4007
-Amherst,384,42.3645,-72.5069
-Pearl,385,32.273,-90.0918
-Eureka,386,40.7942,-124.1568
-Troy,387,42.7354,-73.6751
-San Juan,388,18.4037,-66.0636
-San Marcos,389,29.8736,-97.9381
-Cumberland,390,39.6515,-78.7585
-Schertz,391,29.5649,-98.2537
-Yukon,392,35.5201,-97.7639
-Portage,393,41.5866,-87.1792
-Willimantic,394,41.7153,-72.2173
-Lake Havasu City,395,34.5006,-114.3113
-Rochester,396,44.0151,-92.4778
-Wheeling,397,40.0752,-80.6951
-Sebastian,398,27.7882,-80.4813
-Madera,399,36.9631,-120.0782
-Morehead City,400,34.7308,-76.7387
-Longview,401,32.5193,-94.7621
-Kankakee,402,41.1019,-87.8643
-Williamsport,403,41.2398,-77.0371
-Columbus,404,41.4368,-97.3563
-Fort Dodge,405,42.5098,-94.1751
-Monroe,406,33.799,-83.716
-Michigan City,407,41.7099,-86.8705
-Leland,408,34.2044,-78.0277
-Jacksonville,409,34.7288,-77.3941
-Coweta,410,35.968,-95.6543
-Phenix City,411,32.4588,-85.0251
-Concord,412,43.2305,-71.5595
-Cleveland,413,35.1817,-84.8707
-Sylacauga,414,33.1778,-86.2606
-Canyon,415,34.9877,-101.9178
-Peru,416,41.3484,-89.137
-Sierra Vista,417,31.563,-110.3153
-Pittsfield,418,42.4517,-73.2605
-Spotsylvania Courthouse,419,38.1982,-77.5885
-Danville,420,40.1423,-87.6114
-Shelbyville,421,35.4987,-86.4516
-Billings,422,45.7891,-108.5524
-Milton,423,41.009,-76.8507
-Sebring,424,27.477,-81.453
-Paris,425,33.6688,-95.546
-Lewiston,426,44.0915,-70.1681
-Waldorf,427,38.6085,-76.9195
-Sevierville,428,35.8873,-83.5677
-East Liverpool,429,40.6333,-80.5677
-New Braunfels,430,29.6994,-98.1148
-Emporia,431,38.4028,-96.1924
-El Centro,432,32.7867,-115.5586
-Morganton,433,35.7408,-81.7003
-Homosassa Springs,434,28.8118,-82.5392
-Roanoke Rapids,435,36.4452,-77.6491
-State College,436,40.7909,-77.8568
-Odessa,437,31.8831,-102.3406
-Coeur d'Alene,438,47.7041,-116.7935
-Ashtabula,439,41.8806,-80.7984
-West Memphis,440,35.1531,-90.1995
-Dallas,441,33.9153,-84.8416
-Athens,442,34.7847,-86.951
-St. Cloud,443,45.5339,-94.1718
-Aquia Harbour,444,38.4597,-77.3806
-Madisonville,445,37.3408,-87.5034
-Victoria,446,28.8285,-96.985
-Enid,447,36.4061,-97.8701
-Lafayette,448,30.2084,-92.0323
-Waterville,449,44.5441,-69.6624
-Dover,450,43.1887,-70.8845
-Waverly,451,42.7401,-84.6353
-Big Stone Gap,452,36.8626,-82.7769
-Plainfield,453,39.6953,-86.3717
-La Crosse,454,43.824,-91.2268
-Indiana,455,40.622,-79.1552
-Hot Springs,456,34.4892,-93.0501
-Show Low,457,34.2671,-110.0384
-Logan,458,41.74,-111.8419
-Rapid City,459,44.0716,-103.2204
-Dubuque,460,42.5008,-90.7067
-Sioux City,461,42.4959,-96.3901
-Bainbridge,462,30.9046,-84.5727
-Burlington,463,44.4877,-73.2314
-Texarkana,464,33.4361,-93.996
-Holland,465,42.7677,-86.0985
-Hattiesburg,466,31.3074,-89.317
-Cañon City,467,38.443,-105.2203
-Paducah,468,37.0711,-88.6436
-Adrian,469,41.8994,-84.0446
-Texarkana,470,33.4487,-94.0815
-Morgantown,471,39.638,-79.9468
-Price,472,39.604,-110.8004
-Yuba City,473,39.1357,-121.6381
-Kirksville,474,40.1986,-92.5753
-Sapulpa,475,36.0089,-96.1006
-Martins Ferry,476,40.1014,-80.7253
-Orangeburg,477,33.4928,-80.867
-Kittanning,478,40.8279,-79.5233
-Bellingham,479,48.7543,-122.4687
-Portsmouth,480,38.7539,-82.9446
-Newnan,481,33.3766,-84.7761
-Winder,482,33.9917,-83.7218
-Longview,483,46.1461,-122.9629
-Zanesville,484,39.9565,-82.0132
-Andalusia,485,31.3101,-86.4781
-Grand Junction,486,39.0876,-108.5673
-Springfield,487,36.4943,-86.8709
-Bend,488,44.0562,-121.3087
-Oswego,489,43.4516,-76.5005
-Mechanicsville,490,37.6262,-77.3561
-Elkton,491,39.6067,-75.8208
-Lufkin,492,31.3217,-94.7277
-Muskogee,493,35.7431,-95.3568
-Flagstaff,494,35.1872,-111.6195
-New Bern,495,35.0955,-77.0723
-Pocatello,496,42.8724,-112.4646
-Dalton,497,34.769,-84.9712
-Missoula,498,46.875,-114.0214
-Wausau,499,44.962,-89.6459
-Pinehurst,500,35.1922,-79.4684
+city,rank,lat,lon,description
+Chicago,1,41.8373,-87.6862,"Ranks highly in: Household_Income: 99%, PM25: 99%, Diesel_Particulate: 99%"
+Houston,2,29.7863,-95.3889,"Ranks highly in: Building_Loss_Rate: 99%, PM25: 99%, Household_Income: 99%"
+Detroit,3,42.3834,-83.1024,"Ranks highly in: Asthma: 99%, Household_Income: 99%, PM25: 99%"
+Louisville,4,38.1663,-85.6485,"Ranks highly in: Building_Loss_Rate: 99%, Agricultural_Loss_Rate: 99%, Asthma: 99%"
+Phoenix,5,33.5722,-112.0891,"Ranks highly in: Asthma: 99%, Diesel_Particulate: 99%, Household_Income: 99%"
+Brooklyn,6,40.6501,-73.9496,"Ranks highly in: Diesel_Particulate: 99%, Household_Income: 99%, Traffic_Proximity: 99%"
+Dayton,7,39.7797,-84.1998,"Ranks highly in: Agricultural_Loss_Rate: 99%, PM25: 99%, Asthma: 99%"
+Dallas,8,32.7936,-96.7662,"Ranks highly in: Building_Loss_Rate: 99%, PM25: 99%, Household_Income: 99%"
+Queens,9,40.7498,-73.7976,"Ranks highly in: Diesel_Particulate: 99%, Traffic_Proximity: 99%, Household_Income: 99%"
+Las Vegas,10,36.2333,-115.2654,"Ranks highly in: Asthma: 99%, Household_Income: 99%, Diesel_Particulate: 99%"
+San Diego,11,32.8312,-117.1225,"Ranks highly in: PM25: 99%, Traffic_Proximity: 99%, Household_Income: 99%"
+Miami,12,25.7839,-80.2102,"Ranks highly in: Diesel_Particulate: 99%, Building_Loss_Rate: 99%, Traffic_Proximity: 99%"
+Columbus,13,39.9862,-82.985,"Ranks highly in: Agricultural_Loss_Rate: 99%, Building_Loss_Rate: 99%, Asthma: 99%"
+Cleveland,14,41.4767,-81.6804,"Ranks highly in: Asthma: 99%, PM25: 99%, Household_Income: 98%"
+Fayetteville,15,36.0713,-94.166,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 99%, Building_Loss_Rate: 99%"
+Indianapolis,16,39.7771,-86.1458,"Ranks highly in: Asthma: 99%, Household_Income: 98%, PM25: 98%"
+Philadelphia,17,40.0077,-75.1339,"Ranks highly in: Asthma: 99%, Household_Income: 99%, PM25: 98%"
+Riverside,18,33.9381,-117.3948,"Ranks highly in: PM25: 98%, Household_Income: 98%, Agricultural_Loss_Rate: 98%"
+Cincinnati,19,39.1413,-84.5061,"Ranks highly in: Building_Loss_Rate: 98%, PM25: 98%, Asthma: 98%"
+Kansas City,20,39.1239,-94.5541,"Ranks highly in: Building_Loss_Rate: 99%, Asthma: 99%, Agricultural_Loss_Rate: 99%"
+Pittsburgh,21,40.4396,-79.9762,"Ranks highly in: PM25: 99%, Asthma: 98%, Household_Income: 98%"
+Boston,22,42.3188,-71.0846,"Ranks highly in: Diesel_Particulate: 99%, Traffic_Proximity: 98%, Asthma: 98%"
+Victorville,23,34.5277,-117.3536,"Ranks highly in: PM25: 98%, Asthma: 97%, Household_Income: 97%"
+Round Lake Beach,24,42.379,-88.0811,"Ranks highly in: Agricultural_Loss_Rate: 98%, Household_Income: 98%, Building_Loss_Rate: 98%"
+Fort Worth,25,32.7811,-97.3473,"Ranks highly in: Building_Loss_Rate: 99%, PM25: 98%, Household_Income: 98%"
+Bronx,26,40.8501,-73.8662,"Ranks highly in: Asthma: 99%, Diesel_Particulate: 98%, Household_Income: 98%"
+Tampa,27,27.9942,-82.4451,"Ranks highly in: Agricultural_Loss_Rate: 99%, Diesel_Particulate: 98%, Household_Income: 97%"
+San Antonio,28,29.4658,-98.5253,"Ranks highly in: Building_Loss_Rate: 98%, PM25: 98%, Household_Income: 98%"
+Oakland,29,37.7903,-122.2165,"Ranks highly in: PM25: 99%, Traffic_Proximity: 98%, Household_Income: 98%"
+Memphis,30,35.1046,-89.9773,"Ranks highly in: Building_Loss_Rate: 98%, PM25: 98%, Asthma: 97%"
+Orlando,31,28.4772,-81.3369,"Ranks highly in: PM25: 99%, Traffic_Proximity: 99%, Agricultural_Loss_Rate: 99%"
+Sacramento,32,38.5667,-121.4683,"Ranks highly in: Agricultural_Loss_Rate: 98%, PM25: 98%, Asthma: 98%"
+Seattle,33,47.6211,-122.3244,"Ranks highly in: Diesel_Particulate: 98%, Traffic_Proximity: 98%, Asthma: 97%"
+Omaha,34,41.2627,-96.0522,"Ranks highly in: Building_Loss_Rate: 99%, Agricultural_Loss_Rate: 98%, PM25: 97%"
+Fort Lauderdale,35,26.1412,-80.1464,"Ranks highly in: Diesel_Particulate: 98%, Traffic_Proximity: 98%, Household_Income: 97%"
+South Lyon,36,42.4614,-83.6526,"Ranks highly in: Asthma: 98%, PM25: 97%, Building_Loss_Rate: 97%"
+Rochester,37,43.168,-77.6162,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 98%, Household_Income: 98%"
+Des Moines,38,41.5725,-93.6105,"Ranks highly in: Building_Loss_Rate: 98%, Household_Income: 97%, Agricultural_Loss_Rate: 99%"
+West Palm Beach,39,26.7468,-80.1316,"Ranks highly in: Building_Loss_Rate: 99%, Diesel_Particulate: 97%, Traffic_Proximity: 97%"
+Milwaukee,40,43.0642,-87.9673,"Ranks highly in: Asthma: 98%, Household_Income: 98%, Traffic_Proximity: 98%"
+Cambridge,41,42.3759,-71.1185,"Ranks highly in: Agricultural_Loss_Rate: 99%, Traffic_Proximity: 99%, Diesel_Particulate: 99%"
+New York,42,40.6943,-73.9249,"Ranks highly in: Diesel_Particulate: 98%, Traffic_Proximity: 98%, Asthma: 97%"
+San Jose,43,37.3019,-121.8486,"Ranks highly in: Traffic_Proximity: 98%, PM25: 98%, Household_Income: 97%"
+Buffalo,44,42.9016,-78.8487,"Ranks highly in: Asthma: 98%, Household_Income: 97%, Traffic_Proximity: 97%"
+Oklahoma City,45,35.4676,-97.5136,"Ranks highly in: Building_Loss_Rate: 98%, Asthma: 97%, Household_Income: 96%"
+St. Louis,46,38.6358,-90.2451,"Ranks highly in: Building_Loss_Rate: 97%, Diesel_Particulate: 97%, PM25: 96%"
+Atlanta,47,33.7627,-84.4224,"Ranks highly in: PM25: 97%, Diesel_Particulate: 96%, Building_Loss_Rate: 96%"
+Minneapolis,48,44.9635,-93.2678,"Ranks highly in: Building_Loss_Rate: 98%, Diesel_Particulate: 97%, Traffic_Proximity: 97%"
+Huntsville,49,34.6988,-86.6412,"Ranks highly in: Agricultural_Loss_Rate: 99%, Building_Loss_Rate: 98%, Asthma: 98%"
+El Paso,50,31.8479,-106.4309,"Ranks highly in: Building_Loss_Rate: 97%, Household_Income: 97%, Agricultural_Loss_Rate: 96%"
+Warren,51,42.4934,-83.027,"Ranks highly in: Asthma: 98%, PM25: 97%, Building_Loss_Rate: 97%"
+Cape Coral,52,26.6446,-81.9956,"Ranks highly in: Building_Loss_Rate: 98%, Agricultural_Loss_Rate: 98%, Household_Income: 96%"
+Muncie,53,40.1989,-85.395,"Ranks highly in: PM25: 97%, Asthma: 96%, Building_Loss_Rate: 96%"
+Charlotte,54,35.208,-80.8304,"Ranks highly in: PM25: 97%, Diesel_Particulate: 96%, Household_Income: 95%"
+Bowie,55,38.9569,-76.7409,"Ranks highly in: Diesel_Particulate: 97%, Household_Income: 96%, Traffic_Proximity: 96%"
+Nashville,56,36.1715,-86.7843,"Ranks highly in: Building_Loss_Rate: 97%, Agricultural_Loss_Rate: 95%, Asthma: 95%"
+Austin,57,30.3004,-97.7522,"Ranks highly in: Building_Loss_Rate: 97%, PM25: 97%, Household_Income: 95%"
+Fresno,58,36.7831,-119.7941,"Ranks highly in: PM25: 97%, Agricultural_Loss_Rate: 97%, Asthma: 95%"
+Concord,59,37.9722,-122.0016,"Ranks highly in: Agricultural_Loss_Rate: 99%, PM25: 98%, Traffic_Proximity: 97%"
+DeKalb,60,41.9313,-88.7482,"Ranks highly in: PM25: 96%, Household_Income: 95%, Diesel_Particulate: 95%"
+Baltimore,61,39.3051,-76.6144,"Ranks highly in: Diesel_Particulate: 96%, Asthma: 95%, Traffic_Proximity: 95%"
+St. Petersburg,62,27.7931,-82.6652,"Ranks highly in: Traffic_Proximity: 96%, Diesel_Particulate: 96%, Household_Income: 96%"
+Levittown,63,40.7241,-73.5125,"Ranks highly in: Diesel_Particulate: 98%, Traffic_Proximity: 98%, Asthma: 97%"
+Salt Lake City,64,40.7777,-111.9306,"Ranks highly in: Asthma: 97%, Diesel_Particulate: 96%, Traffic_Proximity: 96%"
+Naperville,65,41.7483,-88.1657,"Ranks highly in: PM25: 97%, Diesel_Particulate: 97%, Building_Loss_Rate: 95%"
+Lexington,66,38.0423,-84.4587,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 97%, PM25: 97%"
+Centreville,67,38.8391,-77.4388,"Ranks highly in: Diesel_Particulate: 97%, Traffic_Proximity: 96%, PM25: 95%"
+Overland Park,68,38.887,-94.687,"Ranks highly in: Building_Loss_Rate: 97%, Agricultural_Loss_Rate: 95%, Diesel_Particulate: 94%"
+Tulsa,69,36.1284,-95.9042,"Ranks highly in: PM25: 96%, Building_Loss_Rate: 96%, Asthma: 95%"
+Hartford,70,41.7661,-72.6834,"Ranks highly in: Agricultural_Loss_Rate: 98%, Asthma: 97%, Household_Income: 95%"
+Aurora,71,39.7087,-104.7273,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 97%, Household_Income: 96%"
+Lancaster,72,40.0421,-76.3012,"Ranks highly in: Agricultural_Loss_Rate: 96%, PM25: 95%, Building_Loss_Rate: 95%"
+Tucson,73,32.1545,-110.8782,"Ranks highly in: Asthma: 96%, Household_Income: 95%, Diesel_Particulate: 95%"
+Fayetteville,74,35.0846,-78.9776,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 99%, Building_Loss_Rate: 99%"
+Grand Rapids,75,42.962,-85.6562,"Ranks highly in: Asthma: 97%, Agricultural_Loss_Rate: 95%, Household_Income: 95%"
+San Francisco,76,37.7562,-122.443,"Ranks highly in: PM25: 97%, Traffic_Proximity: 97%, Diesel_Particulate: 96%"
+Richmond,77,37.5295,-77.4756,"Ranks highly in: Asthma: 95%, Diesel_Particulate: 94%, PM25: 94%"
+Raleigh,78,35.8325,-78.6435,"Ranks highly in: Agricultural_Loss_Rate: 98%, PM25: 95%, Building_Loss_Rate: 94%"
+York,79,39.9651,-76.7315,"Ranks highly in: Agricultural_Loss_Rate: 98%, Asthma: 96%, Household_Income: 94%"
+Yonkers,80,40.9466,-73.8674,"Ranks highly in: Diesel_Particulate: 96%, Traffic_Proximity: 96%, Asthma: 94%"
+Bridgeport,81,41.1918,-73.1953,"Ranks highly in: Agricultural_Loss_Rate: 96%, Traffic_Proximity: 95%, Household_Income: 95%"
+Portland,82,45.5372,-122.65,"Ranks highly in: PM25: 96%, Asthma: 96%, Diesel_Particulate: 95%"
+Middletown,83,39.5032,-84.366,"Ranks highly in: Agricultural_Loss_Rate: 95%, Asthma: 95%, PM25: 95%"
+Knoxville,84,35.9692,-83.9496,"Ranks highly in: Agricultural_Loss_Rate: 97%, Building_Loss_Rate: 95%, Household_Income: 94%"
+New Haven,85,41.3112,-72.9246,"Ranks highly in: Agricultural_Loss_Rate: 97%, Asthma: 97%, Household_Income: 94%"
+Oxnard,86,34.1963,-119.1815,"Ranks highly in: PM25: 96%, Traffic_Proximity: 95%, Building_Loss_Rate: 94%"
+Tacoma,87,47.2431,-122.4531,"Ranks highly in: Asthma: 96%, Household_Income: 96%, Diesel_Particulate: 95%"
+Denver,88,39.7621,-104.8759,"Ranks highly in: Building_Loss_Rate: 96%, Diesel_Particulate: 95%, Traffic_Proximity: 94%"
+Akron,89,41.0798,-81.5219,"Ranks highly in: Asthma: 94%, PM25: 94%, Building_Loss_Rate: 94%"
+Jacksonville,90,30.3322,-81.6749,"Ranks highly in: Household_Income: 96%, Diesel_Particulate: 94%, Asthma: 94%"
+Joliet,91,41.5189,-88.1499,"Ranks highly in: PM25: 95%, Agricultural_Loss_Rate: 94%, Diesel_Particulate: 94%"
+Centennial,92,39.5926,-104.8674,"Ranks highly in: Building_Loss_Rate: 96%, Diesel_Particulate: 94%, Traffic_Proximity: 93%"
+Plano,93,33.0502,-96.7487,"Ranks highly in: Building_Loss_Rate: 96%, PM25: 95%, Diesel_Particulate: 94%"
+Stockton,94,37.9765,-121.3109,"Ranks highly in: PM25: 96%, Asthma: 94%, Traffic_Proximity: 93%"
+Newark,95,40.7245,-74.1725,"Ranks highly in: Household_Income: 98%, Traffic_Proximity: 98%, Diesel_Particulate: 98%"
+Levittown,96,40.1537,-74.853,"Ranks highly in: Diesel_Particulate: 98%, Traffic_Proximity: 98%, Asthma: 97%"
+Little Rock,97,34.7256,-92.3576,"Ranks highly in: Building_Loss_Rate: 95%, Agricultural_Loss_Rate: 94%, PM25: 94%"
+Worcester,98,42.2705,-71.8079,"Ranks highly in: Agricultural_Loss_Rate: 97%, Asthma: 96%, Traffic_Proximity: 94%"
+Bakersfield,99,35.3529,-119.0359,"Ranks highly in: PM25: 95%, Asthma: 94%, Traffic_Proximity: 93%"
+Columbia,100,34.0376,-80.9037,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 98%, Asthma: 97%"
+Denton,101,33.2176,-97.1419,"Ranks highly in: Building_Loss_Rate: 96%, PM25: 95%, Diesel_Particulate: 94%"
+Bowling Green,102,36.9719,-86.4373,"Ranks highly in: Agricultural_Loss_Rate: 97%, Building_Loss_Rate: 96%, Asthma: 93%"
+Toledo,103,41.6639,-83.5822,"Ranks highly in: Asthma: 94%, Household_Income: 93%, Diesel_Particulate: 93%"
+Springfield,104,37.1943,-93.2916,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 98%, Building_Loss_Rate: 98%"
+Providence,105,41.823,-71.4187,"Ranks highly in: Asthma: 96%, Traffic_Proximity: 94%, Household_Income: 93%"
+Mobile,106,30.6783,-88.1162,"Ranks highly in: Building_Loss_Rate: 95%, PM25: 92%, Diesel_Particulate: 92%"
+Fort Wayne,107,41.0886,-85.1437,"Ranks highly in: Asthma: 93%, Building_Loss_Rate: 92%, Agricultural_Loss_Rate: 92%"
+St. Paul,108,44.9477,-93.104,"Ranks highly in: Household_Income: 94%, Building_Loss_Rate: 93%, Diesel_Particulate: 93%"
+West Chester,109,39.9601,-75.6058,"Ranks highly in: Agricultural_Loss_Rate: 97%, PM25: 94%, Diesel_Particulate: 91%"
+Port Huron,110,42.9822,-82.4387,"Ranks highly in: Asthma: 93%, Agricultural_Loss_Rate: 93%, Building_Loss_Rate: 93%"
+Winston-Salem,111,36.1029,-80.2611,"Ranks highly in: Agricultural_Loss_Rate: 96%, Building_Loss_Rate: 94%, PM25: 92%"
+Wilmington,112,39.7415,-75.5413,"Ranks highly in: Traffic_Proximity: 94%, Building_Loss_Rate: 94%, Household_Income: 94%"
+Flint,113,43.0235,-83.6922,"Ranks highly in: Asthma: 96%, Household_Income: 93%, Building_Loss_Rate: 92%"
+Wichita,114,37.6896,-97.3442,"Ranks highly in: Building_Loss_Rate: 95%, Asthma: 93%, Household_Income: 92%"
+Daly City,115,37.6862,-122.4685,"Ranks highly in: PM25: 95%, Traffic_Proximity: 95%, Diesel_Particulate: 90%"
+Moorhead,116,46.8673,-96.7461,"Ranks highly in: Agricultural_Loss_Rate: 95%, Building_Loss_Rate: 95%, Household_Income: 92%"
+Kennewick,117,46.1978,-119.1732,"Ranks highly in: Agricultural_Loss_Rate: 96%, PM25: 93%, Asthma: 93%"
+McAllen,118,26.2273,-98.2471,"Ranks highly in: Agricultural_Loss_Rate: 95%, PM25: 94%, Building_Loss_Rate: 94%"
+New Bedford,119,41.6697,-70.9428,"Ranks highly in: Asthma: 95%, Traffic_Proximity: 93%, Agricultural_Loss_Rate: 92%"
+Round Rock,120,30.5254,-97.666,"Ranks highly in: Agricultural_Loss_Rate: 94%, PM25: 94%, Building_Loss_Rate: 92%"
+Zephyrhills,121,28.2408,-82.1796,"Ranks highly in: Agricultural_Loss_Rate: 93%, Household_Income: 92%, Building_Loss_Rate: 92%"
+Marysville,122,48.0809,-122.1561,"Ranks highly in: Asthma: 95%, Diesel_Particulate: 94%, Traffic_Proximity: 92%"
+Peachtree Corners,123,33.967,-84.2319,"Ranks highly in: PM25: 94%, Diesel_Particulate: 92%, Agricultural_Loss_Rate: 91%"
+Marietta,124,33.9533,-84.5422,"Ranks highly in: PM25: 94%, Building_Loss_Rate: 93%, Diesel_Particulate: 93%"
+Greensboro,125,36.0956,-79.8269,"Ranks highly in: Agricultural_Loss_Rate: 93%, Traffic_Proximity: 91%, Diesel_Particulate: 91%"
+Syracuse,126,43.0409,-76.1438,"Ranks highly in: Asthma: 94%, Traffic_Proximity: 92%, Household_Income: 92%"
+Albuquerque,127,35.1053,-106.6464,"Ranks highly in: Traffic_Proximity: 93%, Diesel_Particulate: 93%, Asthma: 93%"
+Ruston,128,32.5329,-92.6363,"Ranks highly in: Agricultural_Loss_Rate: 97%, Building_Loss_Rate: 95%, Asthma: 93%"
+Rockford,129,42.2597,-89.0641,"Ranks highly in: Building_Loss_Rate: 93%, Traffic_Proximity: 92%, Household_Income: 91%"
+Reading,130,40.34,-75.9267,"Ranks highly in: PM25: 93%, Asthma: 91%, Diesel_Particulate: 91%"
+Davenport,131,41.5563,-90.6052,"Ranks highly in: Agricultural_Loss_Rate: 95%, Building_Loss_Rate: 92%, Household_Income: 90%"
+Spokane,132,47.6671,-117.433,"Ranks highly in: PM25: 94%, Asthma: 93%, Traffic_Proximity: 91%"
+Elizabeth,133,40.6657,-74.1912,"Ranks highly in: Agricultural_Loss_Rate: 96%, Building_Loss_Rate: 96%, PM25: 96%"
+Deltona,134,28.905,-81.2137,"Ranks highly in: Building_Loss_Rate: 95%, Agricultural_Loss_Rate: 91%, Diesel_Particulate: 90%"
+Santa Rosa,135,38.4458,-122.7067,"Ranks highly in: Agricultural_Loss_Rate: 96%, PM25: 92%, Traffic_Proximity: 91%"
+Modesto,136,37.6374,-121.0028,"Ranks highly in: PM25: 93%, Agricultural_Loss_Rate: 93%, Asthma: 91%"
+Provo,137,40.2457,-111.6457,"Ranks highly in: Diesel_Particulate: 93%, Traffic_Proximity: 92%, Household_Income: 91%"
+Gulfport,138,30.4271,-89.0703,"Ranks highly in: Building_Loss_Rate: 93%, Agricultural_Loss_Rate: 92%, Asthma: 91%"
+Greenville,139,34.8353,-82.3647,"Ranks highly in: Agricultural_Loss_Rate: 97%, Building_Loss_Rate: 95%, Household_Income: 94%"
+Stockbridge,140,33.5253,-84.2294,"Ranks highly in: Agricultural_Loss_Rate: 96%, Building_Loss_Rate: 92%, Household_Income: 91%"
+New Castle,141,40.9956,-80.3459,"Ranks highly in: Asthma: 93%, Agricultural_Loss_Rate: 92%, Household_Income: 92%"
+Sanford,142,28.7893,-81.276,"Ranks highly in: Building_Loss_Rate: 94%, Diesel_Particulate: 91%, Agricultural_Loss_Rate: 89%"
+Canton,143,40.8075,-81.3677,"Ranks highly in: Asthma: 92%, PM25: 92%, Building_Loss_Rate: 91%"
+Reno,144,39.5497,-119.8483,"Ranks highly in: Agricultural_Loss_Rate: 93%, Asthma: 92%, Traffic_Proximity: 91%"
+Springfield,145,42.1155,-72.5395,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 98%, Building_Loss_Rate: 98%"
+Vallejo,146,38.1133,-122.2358,"Ranks highly in: PM25: 93%, Traffic_Proximity: 92%, Agricultural_Loss_Rate: 92%"
+Hazleton,147,40.9504,-75.9724,"Ranks highly in: Asthma: 92%, Building_Loss_Rate: 90%, Traffic_Proximity: 90%"
+Madison,148,43.0826,-89.3931,"Ranks highly in: Traffic_Proximity: 92%, Building_Loss_Rate: 90%, Agricultural_Loss_Rate: 90%"
+Palm Bay,149,27.955,-80.6627,"Ranks highly in: Building_Loss_Rate: 94%, Traffic_Proximity: 91%, Diesel_Particulate: 90%"
+Fargo,150,46.8652,-96.8292,"Ranks highly in: Agricultural_Loss_Rate: 94%, Building_Loss_Rate: 92%, Household_Income: 91%"
+Monessen,151,40.1519,-79.8828,"Ranks highly in: PM25: 93%, Asthma: 91%, Household_Income: 90%"
+Ann Arbor,152,42.2755,-83.7312,"Ranks highly in: Traffic_Proximity: 91%, Diesel_Particulate: 90%, Asthma: 90%"
+Brownsville,153,25.998,-97.4565,"Ranks highly in: Building_Loss_Rate: 93%, PM25: 92%, Agricultural_Loss_Rate: 91%"
+Allentown,154,40.5961,-75.4756,"Ranks highly in: PM25: 91%, Diesel_Particulate: 90%, Traffic_Proximity: 89%"
+Norfolk,155,36.8945,-76.259,"Ranks highly in: Traffic_Proximity: 93%, Diesel_Particulate: 92%, Asthma: 90%"
+Glen Burnie,156,39.1559,-76.6072,"Ranks highly in: Diesel_Particulate: 92%, Traffic_Proximity: 90%, PM25: 90%"
+Norman,157,35.2335,-97.3471,"Ranks highly in: Building_Loss_Rate: 91%, Agricultural_Loss_Rate: 91%, Asthma: 90%"
+Brockton,158,42.0821,-71.0242,"Ranks highly in: Agricultural_Loss_Rate: 95%, Asthma: 91%, Traffic_Proximity: 90%"
+Pensacola,159,30.4427,-87.1886,"Ranks highly in: Building_Loss_Rate: 92%, Household_Income: 88%, PM25: 87%"
+Carrollton,160,33.5817,-85.0837,"Ranks highly in: Agricultural_Loss_Rate: 96%, Building_Loss_Rate: 91%, Household_Income: 91%"
+Sugar Land,161,29.5935,-95.6357,"Ranks highly in: Building_Loss_Rate: 92%, PM25: 92%, Diesel_Particulate: 89%"
+Columbia,162,38.9478,-92.3256,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 98%, Asthma: 97%"
+Bethlehem,163,40.6266,-75.3679,"Ranks highly in: PM25: 90%, Agricultural_Loss_Rate: 89%, Asthma: 89%"
+Van Buren,164,35.448,-94.3528,"Ranks highly in: Agricultural_Loss_Rate: 92%, Building_Loss_Rate: 91%, Household_Income: 91%"
+Green Bay,165,44.515,-87.9896,"Ranks highly in: Agricultural_Loss_Rate: 92%, Household_Income: 90%, Asthma: 90%"
+Decatur,166,34.573,-86.9906,"Ranks highly in: Agricultural_Loss_Rate: 97%, Building_Loss_Rate: 96%, Asthma: 94%"
+Lakeville,167,44.6774,-93.252,"Ranks highly in: Building_Loss_Rate: 93%, Diesel_Particulate: 90%, Traffic_Proximity: 89%"
+Jackson,168,32.3163,-90.2124,"Ranks highly in: Building_Loss_Rate: 91%, PM25: 91%, Asthma: 90%"
+Battle Creek,169,42.2986,-85.2296,"Ranks highly in: Agricultural_Loss_Rate: 93%, Asthma: 91%, Building_Loss_Rate: 91%"
+O'Fallon,170,38.785,-90.7175,"Ranks highly in: PM25: 91%, Diesel_Particulate: 90%, Building_Loss_Rate: 90%"
+Savannah,171,32.0281,-81.1784,"Ranks highly in: Household_Income: 89%, Diesel_Particulate: 89%, Traffic_Proximity: 89%"
+Columbia,172,39.2004,-76.859,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 98%, Asthma: 97%"
+Woodstock,173,34.1026,-84.509,"Ranks highly in: Agricultural_Loss_Rate: 93%, Building_Loss_Rate: 90%, PM25: 90%"
+Clinton,174,41.8434,-90.2408,"Ranks highly in: Agricultural_Loss_Rate: 95%, Building_Loss_Rate: 93%, Asthma: 92%"
+Albertville,175,34.2634,-86.2107,"Ranks highly in: Agricultural_Loss_Rate: 94%, Building_Loss_Rate: 90%, Asthma: 88%"
+Aurora,176,41.7637,-88.2901,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 97%, Household_Income: 96%"
+Bloomsburg,177,41.0027,-76.4561,"Ranks highly in: Agricultural_Loss_Rate: 92%, Building_Loss_Rate: 90%, Asthma: 89%"
+Portsmouth,178,43.058,-70.7826,"Ranks highly in: Agricultural_Loss_Rate: 97%, Asthma: 92%, Household_Income: 91%"
+Corpus Christi,179,27.726,-97.3755,"Ranks highly in: Building_Loss_Rate: 92%, PM25: 90%, Traffic_Proximity: 89%"
+South Bend,180,41.6767,-86.2696,"Ranks highly in: Asthma: 91%, Household_Income: 89%, Diesel_Particulate: 89%"
+Eugene,181,44.0563,-123.1173,"Ranks highly in: Asthma: 92%, PM25: 90%, Traffic_Proximity: 88%"
+Harrisburg,182,40.2752,-76.8843,"Ranks highly in: PM25: 90%, Asthma: 89%, Diesel_Particulate: 89%"
+Charleston,183,32.8153,-79.9628,"Ranks highly in: Asthma: 94%, Household_Income: 93%, Traffic_Proximity: 92%"
+Tallahassee,184,30.4551,-84.2526,"Ranks highly in: PM25: 90%, Building_Loss_Rate: 88%, Diesel_Particulate: 87%"
+Kansas City,185,39.1234,-94.7443,"Ranks highly in: Building_Loss_Rate: 99%, Asthma: 99%, Agricultural_Loss_Rate: 99%"
+Killeen,186,31.0754,-97.7296,"Ranks highly in: PM25: 89%, Building_Loss_Rate: 89%, Household_Income: 87%"
+Visalia,187,36.3276,-119.3269,"Ranks highly in: PM25: 92%, Asthma: 89%, Traffic_Proximity: 88%"
+Blaine,188,45.1696,-93.2077,"Ranks highly in: Building_Loss_Rate: 91%, Diesel_Particulate: 88%, Traffic_Proximity: 87%"
+Pontiac,189,40.8881,-88.6414,"Ranks highly in: Agricultural_Loss_Rate: 92%, Asthma: 90%, Building_Loss_Rate: 89%"
+Asheboro,190,35.7158,-79.8129,"Ranks highly in: Agricultural_Loss_Rate: 93%, Building_Loss_Rate: 88%, Asthma: 88%"
+Lorain,191,41.4409,-82.184,"Ranks highly in: Asthma: 89%, PM25: 88%, Diesel_Particulate: 87%"
+Youngstown,192,41.0993,-80.6463,"Ranks highly in: PM25: 92%, Asthma: 89%, Household_Income: 87%"
+Greeley,193,40.4151,-104.7706,"Ranks highly in: Building_Loss_Rate: 90%, Diesel_Particulate: 87%, Asthma: 86%"
+San Tan Valley,194,33.1879,-111.5472,"Ranks highly in: Agricultural_Loss_Rate: 95%, Asthma: 89%, Household_Income: 88%"
+Lubbock,195,33.5659,-101.8878,"Ranks highly in: Agricultural_Loss_Rate: 91%, Building_Loss_Rate: 90%, Traffic_Proximity: 88%"
+Gastonia,196,35.2494,-81.1853,"Ranks highly in: PM25: 89%, Household_Income: 87%, Asthma: 86%"
+Chester,197,37.3531,-77.4342,"Ranks highly in: Agricultural_Loss_Rate: 90%, Asthma: 87%, Traffic_Proximity: 87%"
+Forest Park,198,33.6209,-84.359,"Ranks highly in: PM25: 89%, Household_Income: 87%, Asthma: 87%"
+Frederick,199,39.4336,-77.4141,"Ranks highly in: Agricultural_Loss_Rate: 93%, Diesel_Particulate: 88%, Household_Income: 86%"
+Decatur,200,39.8556,-88.9337,"Ranks highly in: Agricultural_Loss_Rate: 97%, Building_Loss_Rate: 96%, Asthma: 94%"
+Spartanburg,201,34.9437,-81.9257,"Ranks highly in: PM25: 89%, Asthma: 87%, Building_Loss_Rate: 87%"
+Texas City,202,29.4128,-94.9658,"Ranks highly in: Building_Loss_Rate: 91%, Traffic_Proximity: 86%, Diesel_Particulate: 86%"
+Marion,203,40.5496,-85.66,"Ranks highly in: Agricultural_Loss_Rate: 95%, Household_Income: 92%, Asthma: 92%"
+Parkersburg,204,39.2624,-81.542,"Ranks highly in: Asthma: 89%, PM25: 87%, Agricultural_Loss_Rate: 87%"
+Albany,205,42.6664,-73.7987,"Ranks highly in: Asthma: 92%, Traffic_Proximity: 91%, Household_Income: 91%"
+Lake Oswego,206,45.413,-122.7003,"Ranks highly in: PM25: 91%, Diesel_Particulate: 89%, Asthma: 88%"
+Cookeville,207,36.1484,-85.5114,"Ranks highly in: Agricultural_Loss_Rate: 90%, Building_Loss_Rate: 89%, Asthma: 88%"
+Bradenton,208,27.49,-82.5739,"Ranks highly in: Diesel_Particulate: 89%, Traffic_Proximity: 87%, Household_Income: 87%"
+Dale City,209,38.6473,-77.3459,"Ranks highly in: Diesel_Particulate: 90%, Traffic_Proximity: 88%, PM25: 85%"
+Cedar Rapids,210,41.9665,-91.6782,"Ranks highly in: Building_Loss_Rate: 88%, Household_Income: 87%, Agricultural_Loss_Rate: 87%"
+Roseville,211,38.7703,-121.3196,"Ranks highly in: Agricultural_Loss_Rate: 92%, Traffic_Proximity: 88%, PM25: 86%"
+Troy,212,31.8021,-85.9665,"Ranks highly in: Agricultural_Loss_Rate: 97%, Asthma: 95%, Building_Loss_Rate: 94%"
+Myrtle Beach,213,33.7096,-78.8843,"Ranks highly in: Agricultural_Loss_Rate: 89%, Building_Loss_Rate: 89%, Asthma: 87%"
+Lexington,214,33.989,-81.2202,"Ranks highly in: Agricultural_Loss_Rate: 98%, Building_Loss_Rate: 97%, PM25: 97%"
+Sarasota,215,27.3386,-82.5431,"Ranks highly in: Diesel_Particulate: 90%, Traffic_Proximity: 88%, Household_Income: 87%"
+Waukesha,216,43.0087,-88.2464,"Ranks highly in: Traffic_Proximity: 89%, Agricultural_Loss_Rate: 89%, Diesel_Particulate: 88%"
+Fort Collins,217,40.5478,-105.0656,"Ranks highly in: Building_Loss_Rate: 90%, Traffic_Proximity: 86%, Household_Income: 86%"
+Lansing,218,42.7142,-84.5601,"Ranks highly in: Asthma: 92%, Traffic_Proximity: 89%, Household_Income: 87%"
+Durham,219,35.9794,-78.9031,"Ranks highly in: PM25: 87%, Traffic_Proximity: 87%, Diesel_Particulate: 87%"
+Kingsport,220,36.5224,-82.5453,"Ranks highly in: Agricultural_Loss_Rate: 93%, Asthma: 90%, Household_Income: 88%"
+Panama City,221,30.1995,-85.6004,"Ranks highly in: Building_Loss_Rate: 89%, Asthma: 87%, Traffic_Proximity: 86%"
+Rome,222,34.2661,-85.1862,"Ranks highly in: Building_Loss_Rate: 87%, Agricultural_Loss_Rate: 87%, PM25: 87%"
+Springfield,223,39.771,-89.6538,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 98%, Building_Loss_Rate: 98%"
+Chico,224,39.7575,-121.8152,"Ranks highly in: Agricultural_Loss_Rate: 91%, Asthma: 86%, Building_Loss_Rate: 84%"
+Poughkeepsie,225,41.6949,-73.921,"Ranks highly in: Diesel_Particulate: 85%, Agricultural_Loss_Rate: 89%, Asthma: 88%"
+Macon,226,32.8065,-83.6974,"Ranks highly in: PM25: 88%, Asthma: 86%, Diesel_Particulate: 85%"
+Trenton,227,40.2236,-74.7641,"Ranks highly in: Agricultural_Loss_Rate: 95%, Building_Loss_Rate: 94%, Household_Income: 93%"
+Evansville,228,37.9881,-87.5341,"Ranks highly in: PM25: 86%, Diesel_Particulate: 86%, Building_Loss_Rate: 85%"
+Tuckahoe,229,37.5878,-77.5858,"Ranks highly in: Diesel_Particulate: 88%, Traffic_Proximity: 87%, PM25: 84%"
+Murfreesboro,230,35.8492,-86.4119,"Ranks highly in: Agricultural_Loss_Rate: 87%, PM25: 86%, Diesel_Particulate: 86%"
+Warner Robins,231,32.597,-83.6529,"Ranks highly in: Agricultural_Loss_Rate: 90%, PM25: 88%, Asthma: 85%"
+Utica,232,43.0961,-75.226,"Ranks highly in: Asthma: 90%, Household_Income: 87%, Traffic_Proximity: 87%"
+Wilson,233,35.7312,-77.9284,"Ranks highly in: Agricultural_Loss_Rate: 89%, Building_Loss_Rate: 88%, PM25: 83%"
+Warren,234,41.239,-80.8174,"Ranks highly in: Asthma: 98%, PM25: 97%, Building_Loss_Rate: 97%"
+Henderson,235,37.8397,-87.5798,"Ranks highly in: Agricultural_Loss_Rate: 94%, Building_Loss_Rate: 90%, Household_Income: 90%"
+Joplin,236,37.0758,-94.5018,"Ranks highly in: Agricultural_Loss_Rate: 89%, Building_Loss_Rate: 87%, PM25: 85%"
+Merced,237,37.3057,-120.4778,"Ranks highly in: PM25: 89%, Agricultural_Loss_Rate: 88%, Traffic_Proximity: 84%"
+Boulder,238,40.0249,-105.2523,"Ranks highly in: Building_Loss_Rate: 89%, Traffic_Proximity: 87%, Diesel_Particulate: 84%"
+Economy,239,40.641,-80.184,"Ranks highly in: Household_Income: 84%, PM25: 89%, Asthma: 87%"
+Columbus,240,32.51,-84.8771,"Ranks highly in: Agricultural_Loss_Rate: 99%, Building_Loss_Rate: 99%, Asthma: 99%"
+Salinas,241,36.6884,-121.6317,"Ranks highly in: Traffic_Proximity: 90%, Household_Income: 87%, Asthma: 85%"
+Gillette,242,44.2752,-105.4983,"Ranks highly in: Diesel_Particulate: 84%, Agricultural_Loss_Rate: 84%, Asthma: 84%"
+Gainesville,243,29.6804,-82.3458,"Ranks highly in: Building_Loss_Rate: 94%, Agricultural_Loss_Rate: 94%, Household_Income: 91%"
+Layton,244,41.0769,-111.9621,"Ranks highly in: Diesel_Particulate: 88%, Traffic_Proximity: 86%, Asthma: 85%"
+Golden Gate,245,26.1844,-81.7031,"Ranks highly in: Building_Loss_Rate: 87%, Diesel_Particulate: 87%, Traffic_Proximity: 86%"
+The Villages,246,28.9021,-81.9888,"Ranks highly in: Agricultural_Loss_Rate: 86%, Building_Loss_Rate: 86%, PM25: 85%"
+Tuscaloosa,247,33.2348,-87.5267,"Ranks highly in: PM25: 86%, Diesel_Particulate: 85%, Asthma: 83%"
+Arlington,248,38.8786,-77.1011,"Ranks highly in: Diesel_Particulate: 90%, Traffic_Proximity: 90%, PM25: 87%"
+Scranton,249,41.4044,-75.6649,"Ranks highly in: Asthma: 87%, Traffic_Proximity: 87%, Diesel_Particulate: 83%"
+Ogden,250,41.2278,-111.9682,"Ranks highly in: Diesel_Particulate: 88%, Asthma: 86%, Traffic_Proximity: 84%"
+Charleston,251,38.3484,-81.6323,"Ranks highly in: Asthma: 94%, Household_Income: 93%, Traffic_Proximity: 92%"
+Boise,252,43.6007,-116.2312,"Ranks highly in: PM25: 88%, Diesel_Particulate: 88%, Traffic_Proximity: 86%"
+Peoria,253,40.752,-89.6153,"Ranks highly in: PM25: 87%, Building_Loss_Rate: 84%, Diesel_Particulate: 84%"
+Kalamazoo,254,42.2749,-85.5882,"Ranks highly in: Asthma: 88%, Traffic_Proximity: 85%, Household_Income: 82%"
+New City,255,41.1543,-73.9909,"Ranks highly in: Traffic_Proximity: 88%, Diesel_Particulate: 88%, Asthma: 84%"
+Athens,256,33.9508,-83.3689,"Ranks highly in: Agricultural_Loss_Rate: 94%, Household_Income: 92%, Asthma: 91%"
+San Rafael,257,37.9905,-122.5222,"Ranks highly in: PM25: 90%, Traffic_Proximity: 87%, Building_Loss_Rate: 84%"
+Salina,258,38.8137,-97.6143,"Ranks highly in: Agricultural_Loss_Rate: 88%, Building_Loss_Rate: 86%, PM25: 84%"
+Laredo,259,27.5629,-99.4875,"Ranks highly in: PM25: 89%, Traffic_Proximity: 86%, Household_Income: 85%"
+Champaign,260,40.1144,-88.2735,"Ranks highly in: PM25: 85%, Building_Loss_Rate: 84%, Diesel_Particulate: 83%"
+Kissimmee,261,28.3042,-81.4164,"Ranks highly in: Agricultural_Loss_Rate: 86%, Building_Loss_Rate: 84%, Diesel_Particulate: 84%"
+Abilene,262,32.4543,-99.7384,"Ranks highly in: Building_Loss_Rate: 88%, Household_Income: 85%, Asthma: 83%"
+Binghamton,263,42.1014,-75.9093,"Ranks highly in: Asthma: 87%, Traffic_Proximity: 85%, Building_Loss_Rate: 85%"
+Santa Cruz,264,36.9789,-122.0346,"Ranks highly in: Traffic_Proximity: 87%, Agricultural_Loss_Rate: 87%, Building_Loss_Rate: 84%"
+Lincoln,265,40.1508,-89.3721,"Ranks highly in: Agricultural_Loss_Rate: 88%, Building_Loss_Rate: 87%, Asthma: 86%"
+Goose Creek,266,32.9925,-80.0054,"Ranks highly in: Asthma: 86%, Agricultural_Loss_Rate: 85%, Diesel_Particulate: 84%"
+Niagara Falls,267,43.0921,-79.0147,"Ranks highly in: Asthma: 89%, Household_Income: 85%, Traffic_Proximity: 83%"
+Florence,268,34.8303,-87.6654,"Ranks highly in: Agricultural_Loss_Rate: 91%, Building_Loss_Rate: 91%, Asthma: 90%"
+Bel Air South,269,39.5051,-76.3197,"Ranks highly in: Diesel_Particulate: 86%, PM25: 85%, Agricultural_Loss_Rate: 84%"
+Pearland,270,29.5585,-95.3215,"Ranks highly in: Building_Loss_Rate: 88%, Agricultural_Loss_Rate: 87%, PM25: 86%"
+Elizabethtown,271,37.703,-85.877,"Ranks highly in: Agricultural_Loss_Rate: 87%, Building_Loss_Rate: 87%, Asthma: 85%"
+Covington,272,39.0334,-84.5166,"Ranks highly in: PM25: 91%, Agricultural_Loss_Rate: 89%, Building_Loss_Rate: 89%"
+Leesburg,273,39.1058,-77.5544,"Ranks highly in: Diesel_Particulate: 88%, Agricultural_Loss_Rate: 86%, Traffic_Proximity: 83%"
+Gainesville,274,34.2903,-83.8301,"Ranks highly in: Building_Loss_Rate: 94%, Agricultural_Loss_Rate: 94%, Household_Income: 91%"
+Asheville,275,35.5704,-82.5536,"Ranks highly in: Agricultural_Loss_Rate: 86%, Building_Loss_Rate: 85%, Traffic_Proximity: 84%"
+Palm City,276,27.1736,-80.2861,"Ranks highly in: Building_Loss_Rate: 88%, Agricultural_Loss_Rate: 85%, Diesel_Particulate: 82%"
+Weirton,277,40.406,-80.5671,"Ranks highly in: Agricultural_Loss_Rate: 90%, Building_Loss_Rate: 88%, Asthma: 87%"
+Norwich,278,41.5495,-72.0882,"Ranks highly in: Agricultural_Loss_Rate: 90%, Asthma: 89%, Household_Income: 86%"
+Yakima,279,46.5923,-120.5496,"Ranks highly in: PM25: 88%, Asthma: 85%, Agricultural_Loss_Rate: 81%"
+Saginaw,280,43.4199,-83.9501,"Ranks highly in: Asthma: 88%, Traffic_Proximity: 84%, Household_Income: 83%"
+Hendersonville,281,36.3063,-86.5998,"Ranks highly in: Agricultural_Loss_Rate: 85%, Building_Loss_Rate: 83%, Diesel_Particulate: 81%"
+Waco,282,31.5598,-97.1881,"Ranks highly in: PM25: 87%, Diesel_Particulate: 84%, Traffic_Proximity: 83%"
+Pueblo,283,38.2705,-104.6112,"Ranks highly in: Building_Loss_Rate: 87%, Asthma: 85%, Traffic_Proximity: 82%"
+Redding,284,40.5698,-122.365,"Ranks highly in: Agricultural_Loss_Rate: 90%, Asthma: 81%, Building_Loss_Rate: 81%"
+Topeka,285,39.0346,-95.6955,"Ranks highly in: Traffic_Proximity: 84%, Diesel_Particulate: 83%, PM25: 82%"
+Valdosta,286,30.8502,-83.2788,"Ranks highly in: PM25: 85%, Agricultural_Loss_Rate: 83%, Asthma: 83%"
+Mooresville,287,35.5849,-80.8265,"Ranks highly in: Agricultural_Loss_Rate: 89%, PM25: 83%, Diesel_Particulate: 81%"
+Southaven,288,34.9514,-89.9787,"Ranks highly in: Agricultural_Loss_Rate: 86%, PM25: 82%, Diesel_Particulate: 81%"
+El Paso de Robles,289,35.6394,-120.656,"Ranks highly in: Agricultural_Loss_Rate: 88%, Traffic_Proximity: 85%, Building_Loss_Rate: 82%"
+Huntsville,290,30.705,-95.5544,"Ranks highly in: Agricultural_Loss_Rate: 99%, Building_Loss_Rate: 98%, Asthma: 98%"
+Stevens Point,291,44.5241,-89.5508,"Ranks highly in: PM25: 83%, Asthma: 83%, Diesel_Particulate: 80%"
+Crystal Lake,292,42.2333,-88.3351,"Ranks highly in: Diesel_Particulate: 85%, PM25: 83%, Agricultural_Loss_Rate: 81%"
+Hopkinsville,293,36.8386,-87.4776,"Ranks highly in: Agricultural_Loss_Rate: 84%, Building_Loss_Rate: 84%, PM25: 82%"
+Port St. Lucie,294,27.2796,-80.3883,"Ranks highly in: Building_Loss_Rate: 87%, Diesel_Particulate: 83%, Traffic_Proximity: 82%"
+Bellevue,295,41.1535,-95.9357,"Ranks highly in: PM25: 85%, Building_Loss_Rate: 84%, Agricultural_Loss_Rate: 84%"
+Pekin,296,40.5679,-89.6262,"Ranks highly in: Building_Loss_Rate: 83%, Agricultural_Loss_Rate: 83%, PM25: 83%"
+Tyler,297,32.3184,-95.3062,"Ranks highly in: PM25: 86%, Agricultural_Loss_Rate: 83%, Household_Income: 82%"
+Franklin,298,41.1101,-74.5886,"Ranks highly in: Agricultural_Loss_Rate: 93%, Building_Loss_Rate: 90%, Household_Income: 89%"
+Benton Harbor,299,42.1159,-86.4488,"Ranks highly in: Asthma: 87%, Household_Income: 82%, Traffic_Proximity: 80%"
+Wilmington,300,34.21,-77.8866,"Ranks highly in: Traffic_Proximity: 94%, Building_Loss_Rate: 94%, Household_Income: 94%"
+Covington,301,33.6049,-83.8465,"Ranks highly in: PM25: 91%, Agricultural_Loss_Rate: 89%, Building_Loss_Rate: 89%"
+Tell City,302,37.9528,-86.7597,"Ranks highly in: Asthma: 86%, Agricultural_Loss_Rate: 86%, PM25: 84%"
+College Station,303,30.5852,-96.296,"Ranks highly in: PM25: 85%, Traffic_Proximity: 81%, Diesel_Particulate: 80%"
+Barnstable,304,41.6722,-70.3599,"Ranks highly in: Asthma: 85%, Traffic_Proximity: 85%, Agricultural_Loss_Rate: 85%"
+Napa,305,38.2976,-122.3011,"Ranks highly in: PM25: 86%, Agricultural_Loss_Rate: 86%, Traffic_Proximity: 82%"
+Amarillo,306,35.1988,-101.8311,"Ranks highly in: Building_Loss_Rate: 83%, Diesel_Particulate: 82%, Household_Income: 82%"
+Kingston,307,41.9295,-73.9968,"Ranks highly in: Agricultural_Loss_Rate: 85%, Asthma: 82%, Traffic_Proximity: 80%"
+Davis,308,38.5552,-121.7365,"Ranks highly in: PM25: 85%, Traffic_Proximity: 84%, Agricultural_Loss_Rate: 83%"
+Brunswick,309,41.2464,-81.8198,"Ranks highly in: PM25: 86%, Building_Loss_Rate: 85%, Asthma: 82%"
+St. Joseph,310,39.7599,-94.821,"Ranks highly in: Asthma: 80%, Building_Loss_Rate: 79%, Household_Income: 79%"
+Concord,311,35.3933,-80.6366,"Ranks highly in: Agricultural_Loss_Rate: 99%, PM25: 98%, Traffic_Proximity: 97%"
+Centralia,312,46.7226,-122.9696,"Ranks highly in: Asthma: 84%, Household_Income: 84%, Building_Loss_Rate: 78%"
+Racine,313,42.7274,-87.8135,"Ranks highly in: Traffic_Proximity: 83%, Asthma: 82%, Diesel_Particulate: 82%"
+Withamsville,314,39.0628,-84.2808,"Ranks highly in: PM25: 84%, Diesel_Particulate: 81%, Asthma: 79%"
+Janesville,315,42.6855,-89.0136,"Ranks highly in: Traffic_Proximity: 80%, Diesel_Particulate: 79%, Asthma: 78%"
+Torrington,316,41.8349,-73.1281,"Ranks highly in: Agricultural_Loss_Rate: 91%, Asthma: 81%, Household_Income: 81%"
+Waxahachie,317,32.4032,-96.8444,"Ranks highly in: PM25: 82%, Agricultural_Loss_Rate: 82%, Diesel_Particulate: 79%"
+Salisbury,318,35.6656,-80.4909,"Ranks highly in: Agricultural_Loss_Rate: 89%, Asthma: 85%, Household_Income: 84%"
+Johnstown,319,40.3258,-78.9193,"Ranks highly in: PM25: 86%, Asthma: 83%, Traffic_Proximity: 77%"
+Ardmore,320,34.1944,-97.1253,"Ranks highly in: Agricultural_Loss_Rate: 86%, Asthma: 82%, Building_Loss_Rate: 81%"
+Moline,321,41.4821,-90.4921,"Ranks highly in: Traffic_Proximity: 81%, Diesel_Particulate: 80%, PM25: 80%"
+Sioux Falls,322,43.5397,-96.732,"Ranks highly in: Building_Loss_Rate: 84%, Diesel_Particulate: 83%, Traffic_Proximity: 81%"
+Daphne,323,30.6286,-87.8866,"Ranks highly in: Agricultural_Loss_Rate: 82%, PM25: 81%, Building_Loss_Rate: 79%"
+Olympia,324,47.0417,-122.8959,"Ranks highly in: Diesel_Particulate: 84%, Asthma: 84%, Traffic_Proximity: 81%"
+Burlington,325,36.0758,-79.4686,"Ranks highly in: Agricultural_Loss_Rate: 92%, Asthma: 88%, Building_Loss_Rate: 88%"
+Florence,326,34.1781,-79.7877,"Ranks highly in: Agricultural_Loss_Rate: 91%, Building_Loss_Rate: 91%, Asthma: 90%"
+Midland,327,32.0249,-102.1137,"Ranks highly in: Building_Loss_Rate: 84%, Traffic_Proximity: 82%, Household_Income: 77%"
+Las Cruces,328,32.3265,-106.7892,"Ranks highly in: Agricultural_Loss_Rate: 85%, Diesel_Particulate: 82%, Asthma: 79%"
+Yuma,329,32.5992,-114.5488,"Ranks highly in: Asthma: 85%, PM25: 82%, Traffic_Proximity: 82%"
+Waterloo,330,42.492,-92.3522,"Ranks highly in: Building_Loss_Rate: 81%, Traffic_Proximity: 80%, Household_Income: 79%"
+Gadsden,331,34.009,-86.0156,"Ranks highly in: PM25: 82%, Building_Loss_Rate: 79%, Diesel_Particulate: 77%"
+Pottsville,332,40.6798,-76.2092,"Ranks highly in: PM25: 83%, Asthma: 83%, Household_Income: 81%"
+Santa Fe,333,35.6619,-105.9819,"Ranks highly in: Agricultural_Loss_Rate: 84%, Traffic_Proximity: 82%, Building_Loss_Rate: 81%"
+Sherman,334,33.6274,-96.6218,"Ranks highly in: PM25: 81%, Building_Loss_Rate: 80%, Household_Income: 79%"
+Spring Hill,335,28.4797,-82.53,"Ranks highly in: Building_Loss_Rate: 86%, Household_Income: 84%, Diesel_Particulate: 83%"
+Bremerton,336,47.5436,-122.7122,"Ranks highly in: Diesel_Particulate: 85%, Asthma: 84%, Traffic_Proximity: 82%"
+Owensboro,337,37.7574,-87.1173,"Ranks highly in: PM25: 80%, Building_Loss_Rate: 78%, Diesel_Particulate: 77%"
+Schenectady,338,42.8025,-73.9276,"Ranks highly in: Traffic_Proximity: 84%, Asthma: 82%, Diesel_Particulate: 81%"
+Albany,339,31.5776,-84.1762,"Ranks highly in: Asthma: 92%, Traffic_Proximity: 91%, Household_Income: 91%"
+Lawton,340,34.6176,-98.4203,"Ranks highly in: Building_Loss_Rate: 83%, Asthma: 82%, Household_Income: 76%"
+Searcy,341,35.2418,-91.7351,"Ranks highly in: Agricultural_Loss_Rate: 83%, Building_Loss_Rate: 80%, PM25: 79%"
+Elkhart,342,41.6916,-85.9628,"Ranks highly in: Asthma: 80%, Diesel_Particulate: 80%, Traffic_Proximity: 79%"
+Council Bluffs,343,41.2369,-95.8517,"Ranks highly in: Diesel_Particulate: 81%, Building_Loss_Rate: 79%, PM25: 78%"
+Maryville,344,35.7468,-83.9789,"Ranks highly in: Agricultural_Loss_Rate: 84%, PM25: 80%, Building_Loss_Rate: 79%"
+Newark,345,40.0705,-82.4251,"Ranks highly in: Household_Income: 98%, Traffic_Proximity: 98%, Diesel_Particulate: 98%"
+Enterprise,346,31.3276,-85.8459,"Ranks highly in: Agricultural_Loss_Rate: 86%, PM25: 80%, Building_Loss_Rate: 80%"
+Lebanon,347,40.3412,-76.4227,"Ranks highly in: Asthma: 86%, Agricultural_Loss_Rate: 86%, PM25: 85%"
+Greenville,348,35.5956,-77.3768,"Ranks highly in: Agricultural_Loss_Rate: 97%, Building_Loss_Rate: 95%, Household_Income: 94%"
+Fremont,349,41.4396,-96.4879,"Ranks highly in: Agricultural_Loss_Rate: 88%, Household_Income: 86%, Building_Loss_Rate: 86%"
+Wichita Falls,350,33.9072,-98.5291,"Ranks highly in: Agricultural_Loss_Rate: 80%, Traffic_Proximity: 79%, Building_Loss_Rate: 79%"
+Somerset,351,40.5083,-74.501,"Ranks highly in: Agricultural_Loss_Rate: 94%, Building_Loss_Rate: 93%, Diesel_Particulate: 89%"
+El Dorado Hills,352,38.675,-121.049,"Ranks highly in: Agricultural_Loss_Rate: 88%, Building_Loss_Rate: 81%, Traffic_Proximity: 78%"
+Port Charlotte,353,26.9918,-82.114,"Ranks highly in: Building_Loss_Rate: 85%, Diesel_Particulate: 79%, Traffic_Proximity: 76%"
+Hickory,354,35.7425,-81.323,"Ranks highly in: Agricultural_Loss_Rate: 83%, PM25: 79%, Building_Loss_Rate: 77%"
+Lumberton,355,34.6312,-79.0186,"Ranks highly in: Agricultural_Loss_Rate: 84%, Asthma: 82%, Household_Income: 81%"
+Lenoir,356,35.9096,-81.5247,"Ranks highly in: Agricultural_Loss_Rate: 83%, Building_Loss_Rate: 78%, PM25: 76%"
+Easley,357,34.819,-82.5828,"Ranks highly in: Agricultural_Loss_Rate: 81%, PM25: 80%, Household_Income: 78%"
+Laurel,358,31.6956,-89.1448,"Ranks highly in: Agricultural_Loss_Rate: 84%, Building_Loss_Rate: 82%, PM25: 79%"
+Bangor,359,44.8322,-68.7906,"Ranks highly in: Agricultural_Loss_Rate: 89%, Asthma: 87%, Household_Income: 80%"
+Corning,360,42.147,-77.0561,"Ranks highly in: Asthma: 83%, Agricultural_Loss_Rate: 81%, Household_Income: 80%"
+Kenosha,361,42.5864,-87.8765,"Ranks highly in: Traffic_Proximity: 81%, Diesel_Particulate: 81%, Asthma: 78%"
+Terre Haute,362,39.4654,-87.3763,"Ranks highly in: Diesel_Particulate: 79%, PM25: 79%, Traffic_Proximity: 78%"
+Hilton Head Island,363,32.1896,-80.7499,"Ranks highly in: Agricultural_Loss_Rate: 88%, Building_Loss_Rate: 80%, Diesel_Particulate: 78%"
+Nampa,364,43.5845,-116.5631,"Ranks highly in: PM25: 83%, Asthma: 79%, Diesel_Particulate: 79%"
+Hinesville,365,31.8247,-81.6135,"Ranks highly in: PM25: 78%, Agricultural_Loss_Rate: 78%, Building_Loss_Rate: 77%"
+Muskegon,366,43.2281,-86.2563,"Ranks highly in: Asthma: 85%, Traffic_Proximity: 80%, Household_Income: 77%"
+Crestview,367,30.748,-86.5784,"Ranks highly in: Traffic_Proximity: 80%, Building_Loss_Rate: 79%, Diesel_Particulate: 78%"
+Huntington,368,38.4109,-82.4344,"Ranks highly in: Asthma: 83%, Traffic_Proximity: 81%, Diesel_Particulate: 80%"
+Dublin,369,32.5359,-82.928,"Ranks highly in: Agricultural_Loss_Rate: 79%, PM25: 79%, Household_Income: 79%"
+Jamestown,370,42.0975,-79.2366,"Ranks highly in: Household_Income: 85%, Asthma: 84%, Agricultural_Loss_Rate: 80%"
+St. Augustine,371,29.8977,-81.31,"Ranks highly in: Building_Loss_Rate: 84%, Diesel_Particulate: 80%, Traffic_Proximity: 78%"
+Shelton,372,47.2186,-123.112,"Ranks highly in: Asthma: 82%, Household_Income: 81%, Agricultural_Loss_Rate: 79%"
+Anderson,373,34.5211,-82.6479,"Ranks highly in: Agricultural_Loss_Rate: 91%, PM25: 88%, Asthma: 88%"
+Conway,374,35.0754,-92.4694,"Ranks highly in: PM25: 81%, Diesel_Particulate: 76%, Agricultural_Loss_Rate: 76%"
+Aiken,375,33.531,-81.7268,"Ranks highly in: PM25: 82%, Agricultural_Loss_Rate: 78%, Asthma: 76%"
+Saratoga Springs,376,43.0674,-73.7775,"Ranks highly in: Asthma: 81%, Traffic_Proximity: 79%, Diesel_Particulate: 78%"
+Summerville,377,33.0015,-80.1799,"Ranks highly in: Agricultural_Loss_Rate: 81%, Household_Income: 80%, Asthma: 80%"
+Fort Smith,378,35.3493,-94.3695,"Ranks highly in: PM25: 81%, Diesel_Particulate: 76%, Traffic_Proximity: 74%"
+Dunn,379,35.3113,-78.6129,"Ranks highly in: Agricultural_Loss_Rate: 83%, Building_Loss_Rate: 79%, PM25: 76%"
+Smithfield,380,35.5131,-78.3497,"Ranks highly in: Agricultural_Loss_Rate: 87%, Building_Loss_Rate: 82%, Household_Income: 80%"
+Claremore,381,36.3143,-95.6099,"Ranks highly in: PM25: 82%, Agricultural_Loss_Rate: 79%, Building_Loss_Rate: 78%"
+Appleton,382,44.2779,-88.3891,"Ranks highly in: Traffic_Proximity: 82%, Household_Income: 77%, Diesel_Particulate: 77%"
+Altoona,383,40.5082,-78.4007,"Ranks highly in: Asthma: 81%, PM25: 81%, Traffic_Proximity: 78%"
+Amherst,384,42.3645,-72.5069,"Ranks highly in: Agricultural_Loss_Rate: 87%, Asthma: 82%, Traffic_Proximity: 79%"
+Pearl,385,32.273,-90.0918,"Ranks highly in: PM25: 81%, Building_Loss_Rate: 79%, Agricultural_Loss_Rate: 79%"
+Eureka,386,40.7942,-124.1568,"Ranks highly in: Household_Income: 83%, Asthma: 80%, Building_Loss_Rate: 80%"
+Troy,387,42.7354,-73.6751,"Ranks highly in: Agricultural_Loss_Rate: 97%, Asthma: 95%, Building_Loss_Rate: 94%"
+San Juan,388,18.4037,-66.0636,"Ranks highly in: Agricultural_Loss_Rate: 86%, Asthma: 81%, Household_Income: 79%"
+San Marcos,389,29.8736,-97.9381,"Ranks highly in: PM25: 79%, Agricultural_Loss_Rate: 78%, Building_Loss_Rate: 77%"
+Cumberland,390,39.6515,-78.7585,"Ranks highly in: Asthma: 78%, Household_Income: 77%, Building_Loss_Rate: 77%"
+Schertz,391,29.5649,-98.2537,"Ranks highly in: PM25: 81%, Building_Loss_Rate: 77%, Agricultural_Loss_Rate: 77%"
+Yukon,392,35.5201,-97.7639,"Ranks highly in: Building_Loss_Rate: 79%, Diesel_Particulate: 76%, PM25: 75%"
+Portage,393,41.5866,-87.1792,"Ranks highly in: Diesel_Particulate: 80%, PM25: 76%, Traffic_Proximity: 74%"
+Willimantic,394,41.7153,-72.2173,"Ranks highly in: Asthma: 84%, Household_Income: 81%, Agricultural_Loss_Rate: 80%"
+Lake Havasu City,395,34.5006,-114.3113,"Ranks highly in: Asthma: 83%, Household_Income: 78%, Building_Loss_Rate: 75%"
+Rochester,396,44.0151,-92.4778,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 98%, Household_Income: 98%"
+Wheeling,397,40.0752,-80.6951,"Ranks highly in: Diesel_Particulate: 78%, PM25: 77%, Asthma: 76%"
+Sebastian,398,27.7882,-80.4813,"Ranks highly in: Building_Loss_Rate: 82%, Diesel_Particulate: 77%, Agricultural_Loss_Rate: 76%"
+Madera,399,36.9631,-120.0782,"Ranks highly in: PM25: 80%, Agricultural_Loss_Rate: 78%, Building_Loss_Rate: 72%"
+Morehead City,400,34.7308,-76.7387,"Ranks highly in: Building_Loss_Rate: 84%, Agricultural_Loss_Rate: 77%, Traffic_Proximity: 75%"
+Longview,401,32.5193,-94.7621,"Ranks highly in: Asthma: 85%, Traffic_Proximity: 82%, PM25: 82%"
+Kankakee,402,41.1019,-87.8643,"Ranks highly in: Diesel_Particulate: 77%, PM25: 76%, Traffic_Proximity: 75%"
+Williamsport,403,41.2398,-77.0371,"Ranks highly in: Asthma: 77%, Traffic_Proximity: 76%, PM25: 76%"
+Columbus,404,41.4368,-97.3563,"Ranks highly in: Agricultural_Loss_Rate: 99%, Building_Loss_Rate: 99%, Asthma: 99%"
+Fort Dodge,405,42.5098,-94.1751,"Ranks highly in: Agricultural_Loss_Rate: 83%, Building_Loss_Rate: 82%, Household_Income: 78%"
+Monroe,406,33.799,-83.716,"Ranks highly in: Agricultural_Loss_Rate: 87%, Building_Loss_Rate: 83%, PM25: 82%"
+Michigan City,407,41.7099,-86.8705,"Ranks highly in: Diesel_Particulate: 78%, Traffic_Proximity: 77%, Asthma: 76%"
+Leland,408,34.2044,-78.0277,"Ranks highly in: Agricultural_Loss_Rate: 84%, Building_Loss_Rate: 82%, Household_Income: 74%"
+Jacksonville,409,34.7288,-77.3941,"Ranks highly in: Household_Income: 96%, Diesel_Particulate: 94%, Asthma: 94%"
+Coweta,410,35.968,-95.6543,"Ranks highly in: PM25: 79%, Agricultural_Loss_Rate: 79%, Building_Loss_Rate: 74%"
+Phenix City,411,32.4588,-85.0251,"Ranks highly in: Agricultural_Loss_Rate: 78%, PM25: 77%, Household_Income: 76%"
+Concord,412,43.2305,-71.5595,"Ranks highly in: Agricultural_Loss_Rate: 99%, PM25: 98%, Traffic_Proximity: 97%"
+Cleveland,413,35.1817,-84.8707,"Ranks highly in: Asthma: 99%, PM25: 99%, Household_Income: 98%"
+Sylacauga,414,33.1778,-86.2606,"Ranks highly in: PM25: 79%, Asthma: 73%, Agricultural_Loss_Rate: 72%"
+Canyon,415,34.9877,-101.9178,"Ranks highly in: Building_Loss_Rate: 80%, Diesel_Particulate: 79%, Traffic_Proximity: 76%"
+Peru,416,41.3484,-89.137,"Ranks highly in: PM25: 76%, Diesel_Particulate: 75%, Household_Income: 74%"
+Sierra Vista,417,31.563,-110.3153,"Ranks highly in: Agricultural_Loss_Rate: 80%, Asthma: 80%, Household_Income: 79%"
+Pittsfield,418,42.4517,-73.2605,"Ranks highly in: Asthma: 81%, Traffic_Proximity: 79%, Household_Income: 73%"
+Spotsylvania Courthouse,419,38.1982,-77.5885,"Ranks highly in: Diesel_Particulate: 78%, Agricultural_Loss_Rate: 78%, Household_Income: 75%"
+Danville,420,40.1423,-87.6114,"Ranks highly in: PM25: 79%, Agricultural_Loss_Rate: 79%, Asthma: 77%"
+Shelbyville,421,35.4987,-86.4516,"Ranks highly in: Agricultural_Loss_Rate: 82%, Asthma: 77%, Household_Income: 74%"
+Billings,422,45.7891,-108.5524,"Ranks highly in: Traffic_Proximity: 78%, Asthma: 77%, Diesel_Particulate: 74%"
+Milton,423,41.009,-76.8507,"Ranks highly in: PM25: 78%, Asthma: 78%, Household_Income: 77%"
+Sebring,424,27.477,-81.453,"Ranks highly in: Agricultural_Loss_Rate: 81%, Building_Loss_Rate: 79%, Household_Income: 75%"
+Paris,425,33.6688,-95.546,"Ranks highly in: Building_Loss_Rate: 83%, PM25: 82%, Household_Income: 82%"
+Lewiston,426,44.0915,-70.1681,"Ranks highly in: Asthma: 83%, Agricultural_Loss_Rate: 82%, Household_Income: 78%"
+Waldorf,427,38.6085,-76.9195,"Ranks highly in: Diesel_Particulate: 78%, Asthma: 74%, PM25: 74%"
+Sevierville,428,35.8873,-83.5677,"Ranks highly in: Agricultural_Loss_Rate: 76%, PM25: 73%, Asthma: 72%"
+East Liverpool,429,40.6333,-80.5677,"Ranks highly in: PM25: 79%, Asthma: 74%, Household_Income: 72%"
+New Braunfels,430,29.6994,-98.1148,"Ranks highly in: PM25: 78%, Agricultural_Loss_Rate: 78%, Building_Loss_Rate: 77%"
+Emporia,431,38.4028,-96.1924,"Ranks highly in: Agricultural_Loss_Rate: 82%, Building_Loss_Rate: 78%, Household_Income: 74%"
+El Centro,432,32.7867,-115.5586,"Ranks highly in: PM25: 81%, Traffic_Proximity: 77%, Household_Income: 72%"
+Morganton,433,35.7408,-81.7003,"Ranks highly in: Agricultural_Loss_Rate: 81%, Building_Loss_Rate: 75%, PM25: 73%"
+Homosassa Springs,434,28.8118,-82.5392,"Ranks highly in: Building_Loss_Rate: 78%, Household_Income: 76%, PM25: 71%"
+Roanoke Rapids,435,36.4452,-77.6491,"Ranks highly in: Agricultural_Loss_Rate: 77%, Household_Income: 75%, Asthma: 74%"
+State College,436,40.7909,-77.8568,"Ranks highly in: PM25: 77%, Traffic_Proximity: 76%, Asthma: 76%"
+Odessa,437,31.8831,-102.3406,"Ranks highly in: Building_Loss_Rate: 77%, Traffic_Proximity: 76%, Diesel_Particulate: 72%"
+Coeur d'Alene,438,47.7041,-116.7935,"Ranks highly in: PM25: 83%, Diesel_Particulate: 74%, Traffic_Proximity: 74%"
+Ashtabula,439,41.8806,-80.7984,"Ranks highly in: Asthma: 77%, PM25: 74%, Household_Income: 74%"
+West Memphis,440,35.1531,-90.1995,"Ranks highly in: PM25: 77%, Diesel_Particulate: 77%, Asthma: 76%"
+Dallas,441,33.9153,-84.8416,"Ranks highly in: Building_Loss_Rate: 99%, PM25: 99%, Household_Income: 99%"
+Athens,442,34.7847,-86.951,"Ranks highly in: Agricultural_Loss_Rate: 94%, Household_Income: 92%, Asthma: 91%"
+St. Cloud,443,45.5339,-94.1718,"Ranks highly in: Agricultural_Loss_Rate: 76%, Building_Loss_Rate: 75%, Traffic_Proximity: 73%"
+Aquia Harbour,444,38.4597,-77.3806,"Ranks highly in: Diesel_Particulate: 79%, Agricultural_Loss_Rate: 75%, Building_Loss_Rate: 71%"
+Madisonville,445,37.3408,-87.5034,"Ranks highly in: PM25: 75%, Building_Loss_Rate: 72%, Agricultural_Loss_Rate: 71%"
+Victoria,446,28.8285,-96.985,"Ranks highly in: PM25: 77%, Building_Loss_Rate: 77%, Traffic_Proximity: 72%"
+Enid,447,36.4061,-97.8701,"Ranks highly in: Building_Loss_Rate: 75%, Agricultural_Loss_Rate: 74%, Traffic_Proximity: 72%"
+Lafayette,448,30.2084,-92.0323,"Ranks highly in: Asthma: 86%, Diesel_Particulate: 85%, PM25: 85%"
+Waterville,449,44.5441,-69.6624,"Ranks highly in: Agricultural_Loss_Rate: 86%, Asthma: 79%, Household_Income: 72%"
+Dover,450,43.1887,-70.8845,"Ranks highly in: Agricultural_Loss_Rate: 77%, Traffic_Proximity: 76%, Asthma: 75%"
+Waverly,451,42.7401,-84.6353,"Ranks highly in: Agricultural_Loss_Rate: 87%, Asthma: 87%, Building_Loss_Rate: 86%"
+Big Stone Gap,452,36.8626,-82.7769,"Ranks highly in: Building_Loss_Rate: 73%, Household_Income: 73%, Agricultural_Loss_Rate: 72%"
+Plainfield,453,39.6953,-86.3717,"Ranks highly in: Diesel_Particulate: 77%, PM25: 76%, Agricultural_Loss_Rate: 73%"
+La Crosse,454,43.824,-91.2268,"Ranks highly in: Traffic_Proximity: 78%, Diesel_Particulate: 74%, Building_Loss_Rate: 72%"
+Indiana,455,40.622,-79.1552,"Ranks highly in: PM25: 80%, Asthma: 74%, Household_Income: 72%"
+Hot Springs,456,34.4892,-93.0501,"Ranks highly in: PM25: 76%, Building_Loss_Rate: 74%, Traffic_Proximity: 71%"
+Show Low,457,34.2671,-110.0384,"Ranks highly in: Agricultural_Loss_Rate: 81%, Household_Income: 81%, Asthma: 80%"
+Logan,458,41.74,-111.8419,"Ranks highly in: Agricultural_Loss_Rate: 79%, Asthma: 78%, PM25: 76%"
+Rapid City,459,44.0716,-103.2204,"Ranks highly in: Building_Loss_Rate: 76%, Traffic_Proximity: 75%, Household_Income: 72%"
+Dubuque,460,42.5008,-90.7067,"Ranks highly in: Building_Loss_Rate: 75%, Traffic_Proximity: 74%, Diesel_Particulate: 72%"
+Sioux City,461,42.4959,-96.3901,"Ranks highly in: Building_Loss_Rate: 76%, Traffic_Proximity: 75%, Diesel_Particulate: 71%"
+Bainbridge,462,30.9046,-84.5727,"Ranks highly in: PM25: 72%, Building_Loss_Rate: 75%, Agricultural_Loss_Rate: 74%"
+Burlington,463,44.4877,-73.2314,"Ranks highly in: Agricultural_Loss_Rate: 92%, Asthma: 88%, Building_Loss_Rate: 88%"
+Texarkana,464,33.4361,-93.996,"Ranks highly in: PM25: 84%, Building_Loss_Rate: 83%, Agricultural_Loss_Rate: 80%"
+Holland,465,42.7677,-86.0985,"Ranks highly in: Asthma: 89%, Agricultural_Loss_Rate: 88%, Building_Loss_Rate: 87%"
+Hattiesburg,466,31.3074,-89.317,"Ranks highly in: PM25: 73%, Building_Loss_Rate: 73%, Diesel_Particulate: 70%"
+Cañon City,467,38.443,-105.2203,"Ranks highly in: Agricultural_Loss_Rate: 79%, Building_Loss_Rate: 76%, Household_Income: 74%"
+Paducah,468,37.0711,-88.6436,"Ranks highly in: PM25: 75%, Diesel_Particulate: 72%, Building_Loss_Rate: 70%"
+Adrian,469,41.8994,-84.0446,"Ranks highly in: Asthma: 75%, Building_Loss_Rate: 69%, PM25: 68%"
+Texarkana,470,33.4487,-94.0815,"Ranks highly in: PM25: 84%, Building_Loss_Rate: 83%, Agricultural_Loss_Rate: 80%"
+Morgantown,471,39.638,-79.9468,"Ranks highly in: Asthma: 75%, Traffic_Proximity: 75%, Diesel_Particulate: 73%"
+Price,472,39.604,-110.8004,"Ranks highly in: Agricultural_Loss_Rate: 74%, Asthma: 73%, Household_Income: 73%"
+Yuba City,473,39.1357,-121.6381,"Ranks highly in: Agricultural_Loss_Rate: 76%, PM25: 75%, Traffic_Proximity: 73%"
+Kirksville,474,40.1986,-92.5753,"Ranks highly in: Agricultural_Loss_Rate: 74%, Household_Income: 73%, Building_Loss_Rate: 73%"
+Sapulpa,475,36.0089,-96.1006,"Ranks highly in: PM25: 77%, Building_Loss_Rate: 75%, Agricultural_Loss_Rate: 73%"
+Martins Ferry,476,40.1014,-80.7253,"Ranks highly in: Traffic_Proximity: 72%, PM25: 71%, Building_Loss_Rate: 70%"
+Orangeburg,477,33.4928,-80.867,"Ranks highly in: Asthma: 74%, Household_Income: 73%, Agricultural_Loss_Rate: 71%"
+Kittanning,478,40.8279,-79.5233,"Ranks highly in: PM25: 78%, Asthma: 70%, Household_Income: 68%"
+Bellingham,479,48.7543,-122.4687,"Ranks highly in: Asthma: 79%, Diesel_Particulate: 78%, Traffic_Proximity: 76%"
+Portsmouth,480,38.7539,-82.9446,"Ranks highly in: Agricultural_Loss_Rate: 97%, Asthma: 92%, Household_Income: 91%"
+Newnan,481,33.3766,-84.7761,"Ranks highly in: PM25: 78%, Agricultural_Loss_Rate: 73%, Diesel_Particulate: 71%"
+Winder,482,33.9917,-83.7218,"Ranks highly in: PM25: 75%, Diesel_Particulate: 73%, Agricultural_Loss_Rate: 71%"
+Longview,483,46.1461,-122.9629,"Ranks highly in: Asthma: 85%, Traffic_Proximity: 82%, PM25: 82%"
+Zanesville,484,39.9565,-82.0132,"Ranks highly in: PM25: 70%, Asthma: 70%, Traffic_Proximity: 69%"
+Andalusia,485,31.3101,-86.4781,"Ranks highly in: Agricultural_Loss_Rate: 74%, PM25: 73%, Building_Loss_Rate: 71%"
+Grand Junction,486,39.0876,-108.5673,"Ranks highly in: Traffic_Proximity: 75%, Asthma: 73%, Diesel_Particulate: 71%"
+Springfield,487,36.4943,-86.8709,"Ranks highly in: Agricultural_Loss_Rate: 99%, Asthma: 98%, Building_Loss_Rate: 98%"
+Bend,488,44.0562,-121.3087,"Ranks highly in: PM25: 78%, Traffic_Proximity: 70%, Asthma: 69%"
+Oswego,489,43.4516,-76.5005,"Ranks highly in: Asthma: 82%, Agricultural_Loss_Rate: 80%, Traffic_Proximity: 77%"
+Mechanicsville,490,37.6262,-77.3561,"Ranks highly in: Agricultural_Loss_Rate: 79%, Diesel_Particulate: 76%, PM25: 69%"
+Elkton,491,39.6067,-75.8208,"Ranks highly in: Agricultural_Loss_Rate: 74%, Diesel_Particulate: 74%, PM25: 72%"
+Lufkin,492,31.3217,-94.7277,"Ranks highly in: PM25: 74%, Agricultural_Loss_Rate: 68%, Household_Income: 66%"
+Muskogee,493,35.7431,-95.3568,"Ranks highly in: PM25: 74%, Agricultural_Loss_Rate: 69%, Asthma: 69%"
+Flagstaff,494,35.1872,-111.6195,"Ranks highly in: Building_Loss_Rate: 74%, Asthma: 74%, Traffic_Proximity: 73%"
+New Bern,495,35.0955,-77.0723,"Ranks highly in: Building_Loss_Rate: 75%, Agricultural_Loss_Rate: 73%, Traffic_Proximity: 68%"
+Pocatello,496,42.8724,-112.4646,"Ranks highly in: Traffic_Proximity: 73%, Asthma: 70%, Diesel_Particulate: 67%"
+Dalton,497,34.769,-84.9712,"Ranks highly in: PM25: 76%, Diesel_Particulate: 74%, Traffic_Proximity: 68%"
+Missoula,498,46.875,-114.0214,"Ranks highly in: PM25: 80%, Traffic_Proximity: 73%, Diesel_Particulate: 63%"
+Wausau,499,44.962,-89.6459,"Ranks highly in: Traffic_Proximity: 76%, Asthma: 70%, Household_Income: 69%"
+Pinehurst,500,35.1922,-79.4684,"Ranks highly in: Agricultural_Loss_Rate: 80%, Building_Loss_Rate: 76%, PM25: 65%"

@@ -1,57 +1,57 @@
-state,rank,lat,lon
-Texas,1,31.1688285,-99.68322633
-California,2,37.264994,-120.0221727
-New York,3,42.748038,-76.21288222
-Florida,4,27.6969305,-81.55750401
-Pennsylvania,5,41.1181795,-77.7385143
-Illinois,6,39.7396045,-89.45140326
-Ohio,7,40.3648295,-82.7061421
-Michigan,8,45.003405,-84.5075186
-North Carolina,9,35.1705155,-78.57679993
-Georgia,10,32.6780835,-83.25169066
-Virginia,11,38.003415,-78.22540004
-Indiana,12,39.7650945,-86.17365556
-Tennessee,13,35.830544,-86.31725211
-Missouri,14,38.304241,-92.49224262
-Maryland,15,38.8053545,-76.37118077
-Alabama,16,32.576626,-86.72447716
-Louisiana,17,30.93739,-91.63941665
-Arizona,18,34.1686035,-111.6684351
-Massachusetts,19,42.037063,-71.41330401
-Washington,20,47.2736415,-120.6943575
-Colorado,21,38.997237,-105.5493596
-Wisconsin,22,44.900725,-89.72077917
-Oklahoma,23,35.3092425,-97.21736296
-Minnesota,24,46.4418575,-94.50249539
-Kentucky,25,37.822527,-84.72881552
-South Carolina,26,33.6245625,-80.5317036
-Oregon,27,44.1453515,-120.5510768
-Arkansas,28,34.75174,-92.49464487
-Iowa,29,41.9384305,-93.15059405
-Kansas,30,38.4980185,-98.32874484
-Mississippi,31,32.5716025,-89.72119241
-Connecticut,32,41.5007345,-72.66292872
-Utah,33,39.4995095,-111.5492409
-Nevada,34,38.506742,-116.6695584
-Nebraska,35,41.5012745,-100.0275556
-West Virginia,36,38.920119,-80.29495941
-New Mexico,37,34.1655305,-106.0453299
-Idaho,38,45.494694,-115.4646554
-Maine,39,45.1884875,-69.24494196
-New Hampshire,40,44.0013025,-71.55205329
-Rhode Island,41,41.601421,-71.46303415
-District of Columbia,42,38.893581,-76.98771919
-Montana,43,46.6797505,-109.3431679
-Delaware,44,39.145539,-75.4938485
-South Dakota,45,44.212453,-100.2537887
-North Dakota,46,47.468003,-100.4524045
-Vermont,47,43.8714455,-72.77179775
-Wyoming,48,43.000111,-107.5485906
-New Jersey,49,40.073041,-74.43676823
-Hawaii,49,19.593797,-155.4283748
-Puerto Rico,49,18.1995495,-66.38561998
-Alaska,49,62.8886825,-152.9682398
-American Samoa,49,-14.2930755,-170.6847001
-Northern Mariana Islands,49,14.1490205,145.2134525
-Virgin Islands,49,null,null
-Guam,49,null,null
+state,rank,lat,lon,description
+Texas,1,31.1688285,-99.68322633,"Ranks highly in: Household_Income: 100%, Building_Loss_Rate: 100%, Agricultural_Loss_Rate: 100%"
+California,2,37.264994,-120.0221727,"Ranks highly in: PM25: 100%, Diesel_Particulate: 100%, Traffic_Proximity: 100%"
+New York,3,42.748038,-76.21288222,"Ranks highly in: Asthma: 100%, Diesel_Particulate: 98%, Traffic_Proximity: 98%"
+Florida,4,27.6969305,-81.55750401,"Ranks highly in: Diesel_Particulate: 94%, Household_Income: 94%, Building_Loss_Rate: 98%"
+Pennsylvania,5,41.1181795,-77.7385143,"Ranks highly in: PM25: 96%, Asthma: 96%, Household_Income: 92%"
+Illinois,6,39.7396045,-89.45140326,"Ranks highly in: Building_Loss_Rate: 94%, Diesel_Particulate: 92%, PM25: 94%"
+Ohio,7,40.3648295,-82.7061421,"Ranks highly in: Asthma: 92%, Building_Loss_Rate: 92%, PM25: 92%"
+Michigan,8,45.003405,-84.5075186,"Ranks highly in: Building_Loss_Rate: 89%, Traffic_Proximity: 89%, Asthma: 94%"
+North Carolina,9,35.1705155,-78.57679993,"Ranks highly in: Asthma: 85%, Agricultural_Loss_Rate: 96%, Building_Loss_Rate: 90%"
+Georgia,10,32.6780835,-83.25169066,"Ranks highly in: Building_Loss_Rate: 85%, Agricultural_Loss_Rate: 92%, PM25: 89%"
+Virginia,11,38.003415,-78.22540004,"Ranks highly in: Agricultural_Loss_Rate: 81%, Diesel_Particulate: 81%, Household_Income: 81%"
+Indiana,12,39.7650945,-86.17365556,"Ranks highly in: PM25: 78%, Asthma: 81%, Agricultural_Loss_Rate: 80%"
+Tennessee,13,35.830544,-86.31725211,"Ranks highly in: Household_Income: 78%, Agricultural_Loss_Rate: 83%, Building_Loss_Rate: 81%"
+Missouri,14,38.304241,-92.49224262,"Ranks highly in: Household_Income: 76%, PM25: 74%, Building_Loss_Rate: 74%"
+Maryland,15,38.8053545,-76.37118077,"Ranks highly in: Traffic_Proximity: 80%, PM25: 70%, Diesel_Particulate: 83%"
+Alabama,16,32.576626,-86.72447716,"Ranks highly in: PM25: 80%, Agricultural_Loss_Rate: 76%, Building_Loss_Rate: 69%"
+Louisiana,17,30.93739,-91.63941665,"Ranks highly in: Building_Loss_Rate: 80%, PM25: 72%, Diesel_Particulate: 65%"
+Arizona,18,34.1686035,-111.6684351,"Ranks highly in: Diesel_Particulate: 78%, Traffic_Proximity: 74%, Asthma: 80%"
+Massachusetts,19,42.037063,-71.41330401,"Ranks highly in: Diesel_Particulate: 69%, Traffic_Proximity: 83%, Asthma: 74%"
+Washington,20,47.2736415,-120.6943575,"Ranks highly in: Asthma: 78%, Diesel_Particulate: 76%, Traffic_Proximity: 72%"
+Colorado,21,38.997237,-105.5493596,"Ranks highly in: Building_Loss_Rate: 76%, Traffic_Proximity: 67%, Diesel_Particulate: 63%"
+Wisconsin,22,44.900725,-89.72077917,"Ranks highly in: Traffic_Proximity: 70%, Asthma: 67%, Household_Income: 70%"
+Oklahoma,23,35.3092425,-97.21736296,"Ranks highly in: Agricultural_Loss_Rate: 69%, Building_Loss_Rate: 70%, Asthma: 69%"
+Minnesota,24,46.4418575,-94.50249539,"Ranks highly in: Household_Income: 65%, Building_Loss_Rate: 72%, Agricultural_Loss_Rate: 70%"
+Kentucky,25,37.822527,-84.72881552,"Ranks highly in: PM25: 69%, Agricultural_Loss_Rate: 65%, Asthma: 63%"
+South Carolina,26,33.6245625,-80.5317036,"Ranks highly in: Building_Loss_Rate: 61%, Agricultural_Loss_Rate: 74%, PM25: 61%"
+Oregon,27,44.1453515,-120.5510768,"Ranks highly in: PM25: 60%, Asthma: 54%, Traffic_Proximity: 52%"
+Arkansas,28,34.75174,-92.49464487,"Ranks highly in: Building_Loss_Rate: 52%, PM25: 58%, Agricultural_Loss_Rate: 58%"
+Iowa,29,41.9384305,-93.15059405,"Ranks highly in: Building_Loss_Rate: 58%, PM25: 50%, Agricultural_Loss_Rate: 61%"
+Kansas,30,38.4980185,-98.32874484,"Ranks highly in: Asthma: 45%, Building_Loss_Rate: 56%, PM25: 49%"
+Mississippi,31,32.5716025,-89.72119241,"Ranks highly in: PM25: 54%, Building_Loss_Rate: 54%, Asthma: 49%"
+Connecticut,32,41.5007345,-72.66292872,"Ranks highly in: Traffic_Proximity: 58%, Agricultural_Loss_Rate: 54%, Asthma: 52%"
+Utah,33,39.4995095,-111.5492409,"Ranks highly in: Diesel_Particulate: 47%, Traffic_Proximity: 43%, Asthma: 41%"
+Nevada,34,38.506742,-116.6695584,"Ranks highly in: Asthma: 40%, Diesel_Particulate: 54%, Traffic_Proximity: 49%"
+Nebraska,35,41.5012745,-100.0275556,"Ranks highly in: PM25: 45%, Agricultural_Loss_Rate: 43%, Building_Loss_Rate: 49%"
+West Virginia,36,38.920119,-80.29495941,"Ranks highly in: Asthma: 43%, PM25: 41%, Building_Loss_Rate: 41%"
+New Mexico,37,34.1655305,-106.0453299,"Ranks highly in: Agricultural_Loss_Rate: 41%, Traffic_Proximity: 38%, Asthma: 36%"
+Idaho,38,45.494694,-115.4646554,"Ranks highly in: PM25: 40%, Asthma: 29%, Agricultural_Loss_Rate: 27%"
+Maine,39,45.1884875,-69.24494196,"Ranks highly in: Asthma: 38%, Agricultural_Loss_Rate: 38%, Household_Income: 29%"
+New Hampshire,40,44.0013025,-71.55205329,"Ranks highly in: Agricultural_Loss_Rate: 32%, Household_Income: 27%, Asthma: 34%"
+Rhode Island,41,41.601421,-71.46303415,"Ranks highly in: Diesel_Particulate: 29%, Traffic_Proximity: 25%, Asthma: 32%"
+District of Columbia,42,38.893581,-76.98771919,"Ranks highly in: Traffic_Proximity: 30%, PM25: 36%, Diesel_Particulate: 32%"
+Montana,43,46.6797505,-109.3431679,"Ranks highly in: PM25: 34%, Agricultural_Loss_Rate: 29%, Asthma: 27%"
+Delaware,44,39.145539,-75.4938485,"Ranks highly in: Diesel_Particulate: 25%, Traffic_Proximity: 21%, PM25: 30%"
+South Dakota,45,44.212453,-100.2537887,"Ranks highly in: Agricultural_Loss_Rate: 25%, Household_Income: 20%, Building_Loss_Rate: 32%"
+North Dakota,46,47.468003,-100.4524045,"Ranks highly in: PM25: 21%, Agricultural_Loss_Rate: 21%, Building_Loss_Rate: 30%"
+Vermont,47,43.8714455,-72.77179775,"Ranks highly in: Agricultural_Loss_Rate: 20%, Asthma: 23%, Building_Loss_Rate: 20%"
+Wyoming,48,43.000111,-107.5485906,"Ranks highly in: Agricultural_Loss_Rate: 16%, Building_Loss_Rate: 14%, PM25: 12%"
+Hawaii,49,19.593797,-155.4283748,"Ranks highly in: Traffic_Proximity: 32%, Asthma: 25%, Diesel_Particulate: 21%"
+Northern Mariana Islands,49,14.1490205,145.2134525,"Ranks highly in: Asthma: 0%, PM25: 0%, Diesel_Particulate: 0%"
+American Samoa,49,-14.2930755,-170.6847001,"Ranks highly in: Asthma: 0%, PM25: 0%, Diesel_Particulate: 0%"
+Puerto Rico,49,18.1995495,-66.38561998,"Ranks highly in: Household_Income: 50%, Traffic_Proximity: 50%, Diesel_Particulate: 38%"
+Virgin Islands,49,null,null,"Ranks highly in: PM25: 0%, Diesel_Particulate: 0%, Asthma: 0%"
+Alaska,49,62.8886825,-152.9682398,"Ranks highly in: Asthma: 16%, Household_Income: 10%, Diesel_Particulate: 16%"
+Guam,49,null,null,"Ranks highly in: PM25: 0%, Diesel_Particulate: 0%, Asthma: 0%"
+New Jersey,49,40.073041,-74.43676823,"Ranks highly in: PM25: 81%, Diesel_Particulate: 87%, Traffic_Proximity: 85%"
