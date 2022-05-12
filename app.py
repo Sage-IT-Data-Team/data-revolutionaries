@@ -134,7 +134,7 @@ def update_map(data_type, n_values):
         dbc.Col(dcc.Markdown(static_text, style={'font-size':'18px'}), width={'size':4, 'offset':1}),
         dbc.Col(
             dash_table.DataTable(df.to_dict('records'), 
-            [{"name": i.title(), "id": i} for i in df.columns if not i in ('lat', 'lon')],
+            [{"name": i.title(), "id": i} for i in df.columns if not i in ('lat', 'lon', 'description')],
             editable=True,
             filter_action="native",
             sort_action="native",
